@@ -1,0 +1,1175 @@
+[
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "In a cozy suburban home on a Sunday afternoon, Agent A, a information technology professional and a computer hobbyist, finds herself bored. Her teenage son, Agent B, enters the room, gaming console in hand, and an anxious look on his face. Agent A's mother, Agent C, walks in from the kitchen with a plate of freshly-baked cookies.",
+    "actions": [
+      {
+        "description": "Agent A offers to take a look at Agent B's gaming console.",
+        "values": [
+          0.5,
+          0.0,
+          0.2,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to familiarize herself with the inner workings of the gaming console.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          -0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes online to gather information about console repairs and suggests trying one.",
+        "values": [
+          1.0,
+          0.0,
+          0.3,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens up the console and starts attempting the suggested fix.",
+        "values": [
+          0.9,
+          0.0,
+          0.7,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A informs Agent B about the issue and reassures him that she'd do her best to fix it.",
+        "values": [
+          -0.1,
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a break and shares cookies with Agent B and Agent C.",
+        "values": [
+          -0.2,
+          0.0,
+          0.1,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to watch and learn whilst she works on fixing the console.",
+        "values": [
+          0.7,
+          0.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks on the responsible disposal of broken console parts.",
+        "values": [
+          0.2,
+          0.0,
+          0.8,
+          0.0,
+          -0.1,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a middle-aged woman, has decided to install a new bookshelf in the living room. Agent B, her teenage son, and Agent C, the family cat, are also present in the scene. A is interested in exploring this DIY project, B observes all the fixtures with interest, and C is curled up and happily napping on the sofa.",
+    "actions": [
+      {
+        "description": "Agent A invites Agent B to join her in the project.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to enrich the project by including an artistic design on the bookshelf.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about his ideas on ways to enhance the bookshelf.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully places all sharp tools out of C's reach to avoid injuries.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses not to use a power drill and resorts to using a manual screwdriver.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to work near the window for better lighting.",
+        "values": [
+          0.1,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans an emergency exit strategy in case a mishap happens.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to pick up C and place him in his bed, away from their working area.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a college student home for the weekend, prepares himself a hot cup of coffee in the kitchen and settles onto the living room couch. He notices a book on the coffee table, one he's never seen before. The title piques his interest - \"Life as We Perceive It.\" When he flips it open, two pictures slide out. One shows his parents in their younger days, and the other is a dreamy landscape. His younger sister, Agent B, enters the room and smiles nostalgically upon seeing the pictures.",
+    "actions": [
+      {
+        "description": "Agent A questions Agent B about the pictures.",
+        "values": [
+          0.8,
+          0.0,
+          -0.2,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls his parents to inquire about their past and the implication of the pictures.",
+        "values": [
+          0.7,
+          0.0,
+          0.4,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "[Scenario Generation Description]",
+    "actions": [
+      {
+        "description": "Agent A fetches her reading glasses to delve into the training manual.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          -0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A is a retired chemistry professor who recently moved into his son's, Agent B's, house. With him, lives his two granddaughters, Agents C and D, 9 and 12 years respectively. One cold winter evening, the family gathers around the fireplace. As Agent B sets up the fire, Agent A, notices the random collection of books laid around the coffee table. One of the books spotted by Agent A is 'A Beginner's Guide to Particle Physics' which belongs to Agent D who has recently developed an interest in physics.",
+    "actions": [
+      {
+        "description": "Agent A questions Agent D about the specific topics she finds most intriguing in the book.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a plan to build small experiments at home.",
+        "values": [
+          0.9,
+          0.0,
+          0.8,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses suitable corners of the house where they can create a small laboratory setup.",
+        "values": [
+          0.8,
+          0.0,
+          0.6,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a daily reading and discussion hour to Agent D for the book.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares some fun chemistry experiments stories from his teaching days.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to help Agent D with her homework.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes the idea of opening up an online learning community.",
+        "values": [
+          1.0,
+          0.0,
+          0.5,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agents A and B are two students sharing a rented apartment near their university campus. One day, they come across Agent C, an elderly neighbor, in the building's hallway. Intriguingly, Agent C is known for his fascinating hobby of music box collection. Agent C notices their interest and invites them to his apartment to showcase his collection. Filled with awe, Agents A and B are tempted by the splendid array of music boxes displayed in the room, each having a unique story waiting to be revealed. However, Agent B remains cautious about not touching anything without Agent C's consent regarding their delicate nature. Unlike Agent B, Agent A is so captivated by one particular music box with a ship design that he can't resist the urge to explore it closer.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent C about the fascinating story behind the music box with the ship design.",
+        "values": [
+          0.9,
+          0.0,
+          -0.2,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a new resident in a small friendly neighborhood, is invited to a potluck dinner by Agent B. He is intrigued by his neighbors yet cautious about how his dish will be received by the others.",
+    "actions": [
+      {
+        "description": "Agent A decides to cook and bring his family's special dish to the potluck.",
+        "values": [
+          0.6,
+          0.0,
+          -0.3,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A practices cooking the dish multiple times before the potluck.",
+        "values": [
+          0.4,
+          0.0,
+          0.9,
+          0.0,
+          -0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A approaches Agent B to ask about his cooking preferences.",
+        "values": [
+          0.8,
+          0.0,
+          -0.2,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers asking Agent B for a use of his kitchen to prepare the food fresh onsite.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to step out of his comfort zone and involve his neighbours during the cooking process.",
+        "values": [
+          0.9,
+          0.0,
+          -0.6,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to the supermarket and carefully selects high-quality ingredients for his dish.",
+        "values": [
+          -0.1,
+          0.0,
+          1.0,
+          0.0,
+          -0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to do nothing and does not attend the potluck.",
+        "values": [
+          -1.0,
+          0.0,
+          0.6,
+          0.0,
+          -1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites a friend from outside the neighborhood to come to the potluck with him.",
+        "values": [
+          0.2,
+          0.0,
+          -0.4,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A is a mother preparing dinner in the kitchen. She has just obtained a fresh batch of assorted exotic vegetables from the local farmers' market and she wants to make an unusual, yet delicious meal for her family. Her husband, Agent B, and her two children, Agents C and D, are in the living room talking and playing games. The smell of the cooking fills the home and wafts into the living room, sparking interest from the others.",
+    "actions": [
+      {
+        "description": "Invites others to join her in the kitchen and involve them in the preparation process.",
+        "values": [
+          0.4,
+          0.0,
+          0.2,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Asks Agent B to research online for ways they can prepare the exotic vegetables.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a freelance writer, is examining an old chest with Agent B, her partner, after finding it among her family heirlooms. They work together to unlock the mystery in a home setting, mindful of maintaining a tidy space and protecting their pet cat.",
+    "actions": [
+      {
+        "description": "Agent A attempts various keys on the antique chest, inspecting each one with interest.",
+        "values": [
+          0.7,
+          0.0,
+          0.1,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully records the details and markings on the box in a journal, hypothesizing the origin.",
+        "values": [
+          0.9,
+          0.0,
+          0.1,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B discuss the chest’s history, sharing stories of their ancestors.",
+        "values": [
+          0.6,
+          0.0,
+          0.2,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes precise measurements of the chest and researches similar items online for clues.",
+        "values": [
+          0.9,
+          0.0,
+          0.1,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A constructs a makeshift soft landing around the chest, just in case the pet cat jumps on it.",
+        "values": [
+          0.1,
+          0.0,
+          1.0,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully examines the lock mechanism with a magnifying glass.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently cleans the chest with Agent B, bonding over the shared task.",
+        "values": [
+          0.3,
+          0.0,
+          0.1,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a flashlight to peer inside the keyhole, searching for any blockage.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.1,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a young adult, is at home organizing a small family gathering. Agent A has prepared a collection of family photo albums and heirlooms to share with visiting relatives, Agent B and Agent C. The interaction centers around an old family legend and the decision whether to explore an antique chest that may hold a mysterious artifact.",
+    "actions": [
+      {
+        "description": "Agent A decides to carefully open the antique chest with Agent B, taking precautions not to damage any possible contents.",
+        "values": [
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C for permission to explore the chest, respecting the common family ownership of the artifact.",
+        "values": [
+          0.4,
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agents B and C to share stories or additional information they might have heard about the great-grandfather's artifact.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests making a visual record of the heirlooms and stories shared, for future generations.",
+        "values": [
+          0.9,
+          0.0,
+          0.4,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a collective decision on preserving or donating some of the newly found items if any are significant.",
+        "values": [
+          0.6,
+          0.0,
+          0.6,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to wear gloves while handling the delicate items to preserve their condition.",
+        "values": [
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent C to lead the exploration of the chest, providing a sense of control and inclusion.",
+        "values": [
+          0.5,
+          0.0,
+          0.3,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A is standing in the doorway of the kitchen, observing Agent B sorting through old cookbooks and handwritten recipes. The kitchen exudes warmth and the tempting scent of baking, fostering a sense of familial comfort and connection.",
+    "actions": [
+      {
+        "description": "Agent A walks over to Agent B and inquires about the most ancient recipe in their collection.",
+        "values": [
+          0.7,
+          0.0,
+          0.1,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes cooking one of the ancient recipes together, accepting that the result might be unexpected.",
+        "values": [
+          0.8,
+          0.0,
+          -0.2,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves a first aid kit for potential kitchen accidents.",
+        "values": [
+          0.2,
+          0.0,
+          0.9,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A playfully teases Agent B with an old photo found among the recipes.",
+        "values": [
+          0.2,
+          0.0,
+          0.1,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tries to identify the spices in a dish by its aroma.",
+        "values": [
+          0.9,
+          0.0,
+          0.1,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B understand a recipe by reading the faded handwriting.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the cookbooks and plans to research the history of a dish.",
+        "values": [
+          1.0,
+          0.0,
+          0.1,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a taste test with Agent C to add excitement to their culinary exploration.",
+        "values": [
+          0.4,
+          0.0,
+          0.3,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a teenager, is spending an afternoon in their family's cozy living room. A light rain patters against the windowpanes. Agent A has just finished reading an engrossing book and notices a puzzle of a famous landmark on the coffee table. Agent B, their parent, and Agent C, a close cousin, are also present. Agent A, stirred by the incomplete puzzle, considers learning more about the depicted place.",
+    "actions": [
+      {
+        "description": "Agent A picks up the puzzle box to examine the landmark's name and decides to do some research about its history and significance.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to join in completing the puzzle, suggesting it as a fun team-building exercise.",
+        "values": [
+          0.7,
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B to play a song related to the landmark on the piano, to set the mood for a themed family evening.",
+        "values": [
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up cushions on the floor around the coffee table to make the puzzle-assembling session more comfortable and social.",
+        "values": [
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to find a documentary about the landmark to watch with Agents B and C, to learn more together.",
+        "values": [
+          1.0,
+          0.0,
+          0.3,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to organize the family photos on the shelves chronologically, making a fun history project out of it.",
+        "values": [
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent C download a new app that has guided puzzles, including famous landmarks, promoting a shared interest.",
+        "values": [
+          0.7,
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Teenager Agent A is experimenting with a new chemistry set at home in the dining room, with parent Agent B in the kitchen and grandparent Agent C sharing family stories.",
+    "actions": [
+      {
+        "description": "Agent A carefully measures and mixes chemicals, closely following the instructions in the manual.",
+        "values": [
+          0.5,
+          0.0,
+          0.9,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to observe the experiment, explaining the process and expected results.",
+        "values": [
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent C how chemistry has changed since their youth and expresses interest in Agent C's experiences with science.",
+        "values": [
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans up the dining room after completing the experiment, storing the chemicals properly and wiping down surfaces.",
+        "values": [
+          -0.1,
+          0.0,
+          1.0,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B for permission to transform part of the dining area into a temporary lab space for future experiments.",
+        "values": [
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent C that they use the chemistry set to restore old, faded photographs in the family album.",
+        "values": [
+          0.7,
+          0.0,
+          0.3,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to document the experiment process and results, noting observations in a lab notebook.",
+        "values": [
+          0.9,
+          0.0,
+          0.7,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches online to gain deeper understanding of the principles behind the experiments they are conducting.",
+        "values": [
+          1.0,
+          0.0,
+          0.4,
+          0.0,
+          0.1,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a young adult, is busy preparing a cozy family dinner at home. Agent B arrives with a basket of exotic fruits. Agent C is lounging nearby, glancing over with interest.",
+    "actions": [
+      {
+        "description": "Agent A takes a moment to closely examine the fruit, feeling its texture and smelling it.",
+        "values": [
+          0.8,
+          0.0,
+          0.3,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A washes their hands thoroughly after handling the unfamiliar fruit.",
+        "values": [
+          -0.1,
+          0.0,
+          0.9,
+          0.0,
+          -0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes that they all taste the fruit together before adding it to any dishes.",
+        "values": [
+          0.7,
+          0.0,
+          0.5,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests setting aside a portion of the dish without the new fruit for Agent C.",
+        "values": [
+          -0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B sit together to research the fruit.",
+        "values": [
+          1.0,
+          0.0,
+          -0.2,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places a sharp knife back into the block immediately after use.",
+        "values": [
+          -0.2,
+          0.0,
+          1.0,
+          0.0,
+          -0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans up any spills on the floor immediately.",
+        "values": [
+          -0.5,
+          0.0,
+          1.0,
+          0.0,
+          -0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to join them in the kitchen.",
+        "values": [
+          0.4,
+          0.0,
+          0.2,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a conversation with Agent B about their day while preparing the meal.",
+        "values": [
+          0.2,
+          0.0,
+          -0.1,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "safety",
+      "intimacy"
+    ],
+    "scenario": "Agent A, a middle-aged parent, is in the living room assembling a large photo album. Agent B, their partner, is nearby on the sofa, reading a book. Their teenage child, Agent C, is at a desk, looking over some biology notes. The power suddenly goes out, causing a shift in the mood.",
+    "actions": [
+      {
+        "description": "Agent A decides to use a flashlight to continue sorting through photos.",
+        "values": [
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently inquires if Agent C understands their biology notes and offers help.",
+        "values": [
+          0.6,
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully checks the fuse box to troubleshoot the power outage.",
+        "values": [
+          0.3,
+          0.0,
+          1.0,
+          0.0,
+          0.1,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds candles and matches and lights a few to provide illumination and comfort.",
+        "values": [
+          0.1,
+          0.0,
+          0.8,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests telling stories from the past to while away the time without electricity.",
+        "values": [
+          0.7,
+          0.0,
+          0.2,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a battery-operated radio to check for any news about the power outage.",
+        "values": [
+          0.6,
+          0.0,
+          0.9,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B reminisce about a particular photo, sharing the story with Agent C.",
+        "values": [
+          0.8,
+          0.0,
+          0.1,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A slowly guides Agent C through an intricate photo, narrating the details.",
+        "values": [
+          0.9,
+          0.0,
+          0.1,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures Agent B and Agent C have warm blankets during the blackout.",
+        "values": [
+          0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  }
+]

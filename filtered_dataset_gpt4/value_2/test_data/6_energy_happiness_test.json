@@ -1,0 +1,2755 @@
+[
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "The Andersons' kitchen is bathed in sunlight with fresh air and the scent of garden herbs. Agent A peruses a cookbook, Agent B is engaged in yoga, and Agent C sketches at the table. A bowl of fruit inspires familial interaction.",
+    "actions": [
+      {
+        "description": "Agent A decides to prepare a family brunch with the available fresh ingredients.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent C to an impromptu 'draw what you see' game using the fruit bowl as a subject.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B practice a challenging yoga posture, with playful encouragement.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets the table with care, using the colorful dishes that are usually saved for special occasions.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens all the windows wider to let more fresh air circulate through the house while preparing the meal.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.1,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to savor the aroma of the food and beams proudly at their creation.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jots down a funny and creative story about their morning adventure in the kitchen.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes pictures of the brunch spread and the family enjoying it to capture the memories.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "'Agent A' prepares for an afternoon of leisure and cooking in a cozy house with 'Agent B', who is sipping a smoothie, and 'Agent C', who is working on a puzzle. The atmosphere is set for culinary experimentation and shared fun.",
+    "actions": [
+      {
+        "description": "Agent A decides to try out a challenging recipe from the cooking show, gathering ingredients with a sense of ambition and preparation.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads 'Agent B' and 'Agent C' in a friendly competition to see who can invent the most inventive smoothie.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts on energizing music to elevate the mood and rhythm of the cooking space.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites 'Agent B' and 'Agent C' to join in prepping the meal.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to document the cooking process through photos.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests a culinary gadget that has been sitting unused.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A steps outside to pick fresh basil from the garden.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brisk walk around the backyard.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a beautifully decorated table.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "In a suburban home on a bright Saturday morning, sunlight illuminates the family kitchen where teenager Agent A lounges comfortably. Agent B, the parent, is preparing a nutritious meal, while Agent C, a cousin, is arranging the table with inviting dishes. The refreshing outdoors is invited in through open doors and windows.",
+    "actions": [
+      {
+        "description": "Agent A makes a playlist of energizing songs for breakfast background music.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a dance-off with Agent C.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B with cooking by flipping pancakes.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers everyone for a group photo.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a fruit platter competition.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads stretching exercises while waiting for toast.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fuels a lively debate on the best superhero.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A volunteers to do the dishes after breakfast.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a post-breakfast picnic in the backyard.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A wakes up in their sunny, airy bedroom to a morning of activities with their family. Agent B is cooking a nutritious breakfast, Agent C is jogging in the garden, and Agent D is dancing while dusting the shelves in the living room.",
+    "actions": [
+      {
+        "description": "Agent A joins Agent D for a dance off in the living room.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B prepare breakfast.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in a workout session with Agent C.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a family mini-marathon.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates new dance moves with the family.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a hydration station in the living room.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to rest on the sofa.",
+        "values": [
+          0.0,
+          -0.7,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens all windows to improve airflow.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a board game session.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a teenager, bursts into the kitchen where Agent B and Agent C are cooking Saturday brunch. The sun is shining, fruits are on display, and the smell of coffee lingers as pancakes sizzle. Agent A, coming from playing soccer, joins his parents in the lively kitchen atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A creates a colorful fruit salad.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a kitchen dance.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a family hike.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets the table creatively.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent B to flip pancakes.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make smoothies.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of brunch preparation.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A debates with Agent C.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to teach soccer tricks.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a culinary enthusiast, has just finished a morning run and is excited to try a new breakfast recipe at home. The kitchen is sunny and welcoming, while Agent B is reading and Agent C sets up the table for brunch. Fresh ingredients await on the kitchen island.",
+    "actions": [
+      {
+        "description": "Agent A prepares a colorful fruit salad, carefully slicing various fruits.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes homemade granola, toasting oats and nuts.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A blends a mix of berries and greens for a smoothie.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B and C to cook together.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plays lively music to uplift everyone's mood.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges the prepared food on the table aesthetically.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brews a pot of coffee with an invigorating aroma.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a toast for a delightful weekend.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings out a board game after brunch.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A returns from a morning jog, entering the kitchen where Agent B is cooking pancakes. The scent of pancakes and a colorful fruit salad on the table sets a scene of a lively morning in a family household that values an active lifestyle.",
+    "actions": [
+      {
+        "description": "Agent A assists Agent B in preparing breakfast.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A establishes an exercise routine in the backyard.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a table-clearing speed challenge.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the dog for a run.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a family hike.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in banter with Agent B.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a pancake competition.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A showers Agent B with compliments.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is in the kitchen on a sunny Saturday afternoon, mixing ingredients with focus, as Agent B sets up water glasses and Agent C plans a garden. Agent A decides to surprise everyone with an experimental recipe they once saw on a cooking show.",
+    "actions": [
+      {
+        "description": "Agent A invites Agents B and C to help cook, making it a fun group activity.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a picnic in the backyard with the prepared food.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A holds a garnish competition post-cooking.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads a game of tag to build up an appetite.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the meal and the group.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns cleaning up into a race with Agent B.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a walk in the park after eating.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.1,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tries making a new dish with leftover ingredients.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a spice-finding game in the pantry.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a culinary enthusiast, is excited about trying out some exotic recipes in the household kitchen, with sunlight streaming through the open windows. Agent B is blending a protein shake after a workout, while Agent C arranges a bouquet of backyard flowers.",
+    "actions": [
+      {
+        "description": "Agent A decides to cook an elaborate and nutritious meal using the fresh vegetables and herbs from the garden.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agents B and C to join in the cooking process, turning it into a fun group activity.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes occasional breaks to savor the textures and flavors of the ingredients, appreciating the art of cooking.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a small dance party in the kitchen with upbeat music.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a playful competition with Agents B and C to see who can come up with the most artistic dish presentation.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes the dining table meticulously, enhancing the eating experience through a well-thought-out ambiance.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests that they take the meal outside to enjoy in the backyard with natural scenery adding to the moment.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes documenting the cooking process and results on social media to share their creation with friends.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads a mindfulness moment before eating, encouraging everyone to express gratitude for the meal.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is in the vibrant kitchen, surrounded by fresh ingredients and a lively atmosphere, engaging with Agent B and Agent C who are excited about their movie marathon snacks.",
+    "actions": [
+      {
+        "description": "Agent A starts singing along to the music while preparing ingredients.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shows Agent B and Agent C how to flip pancakes.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a challenging recipe with the younger agents.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers mixed nuts to Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in a plating contest with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A steps outside for a breath of fresh air.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages setting up an inviting breakfast nook.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a toast for the day.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A and Agent B are housemates, engaged in morning activities that include cooking and cleaning in a sunlit, well-ventilated home, filled with the aroma of coffee and prepped for a nutritious breakfast. A friend, Agent C, is expected to join them, adding anticipation to their day.",
+    "actions": [
+      {
+        "description": "Agent A serves pancakes and flips one onto Agent B’s plate playfully.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B for a morning jog.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments with a new smoothie creation.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A explores a new lunch recipe from a cookbook.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A energizes breakfast with motivational music.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates post-breakfast stretching.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a meal prep for the week.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent B to a game of chess.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A relaxes, absorbing sunlight by the window.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a culinary enthusiast, is experimenting with a new smoothie recipe in the kitchen, with the company of Agent B and Agent C. The atmosphere is lively with music, and the setting promotes a sense of warmth and conviviality.",
+    "actions": [
+      {
+        "description": "Agent A blends a smoothie with an experimental combination of fruits.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B and Agent C to taste-test the new smoothie recipe.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to take a brisk walk outside to enjoy the fresh air after making the smoothie.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a lively dance to the music in the kitchen with Agent B and Agent C.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a mini competition with Agent B and Agent C to create their own smoothie variations.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent B and Agent C to join them for a spontaneous picnic in the backyard.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the enthusiasm from the kitchen and decides to meal-prep for the week.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a challenge for themselves to learn a new culinary skill that evening.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans to cycle to the local farmers market for more fresh ingredients.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A hosts Agents B and C for a friendly weekend brunch in a lively kitchen setting, suggests various activities, and promotes a convivial environment.",
+    "actions": [
+      {
+        "description": "Agent A engages in friendly banter with Agents B and C to maintain an enjoyable atmosphere at brunch.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to propose a group walk in the nearby park after brunch.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A surprises Agents B and C by revealing a homemade fruit smoothie as a refreshing accompaniment to the meal.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages a toast to celebrate their long-standing friendship.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agents B and C to partake in a quick trivia game while cooking.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A competes in a light-hearted plate-presentation challenge with Agents B and C using the cooked brunch items.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests they create a collaborative playlist to play during the meal.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to extend the gathering by suggesting an impromptu movie marathon.",
+        "values": [
+          0.0,
+          -0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A energizes the moment by spontaneously turning the music up for an improvised dance break.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a teenager, is in the kitchen making a smoothie with guidance from Agent B, their parent. Agent C, the older sibling, is refilling their water and Agent D, a cousin, is observing the process.",
+    "actions": [
+      {
+        "description": "Agent A decides to chop extra fruit to freeze for future smoothies.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully decants the smoothie into two glasses, offering one to Agent D.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans up the kitchen area, washing the blender and utensils used.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A laughs at a joke made by Agent C while continuing to prepare the smoothie.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out a smartphone to capture a photo of the completed smoothie before tasting it.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to create a custom smoothie, offering to blend it for them.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens a window to let in more fresh air while working on the smoothie arrangement.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a break to sit with Agent D, engaging in conversation about different smoothie recipes.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments with smoothie presentation, arranging the drinks in a creative way on a tray.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is in the kitchen humming merrily while preparing a salad. Agent B is at the dining table with a water bottle and a magazine. Agent C is getting ready for a run. Fresh air flows in from the open window.",
+    "actions": [
+      {
+        "description": "Agent A cheerfully arranges the salad on plates for everyone to share.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A drinks a glass of water, staying hydrated while cooking.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.1,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to open more windows to let in more fresh air.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plays lively music on the kitchen speaker.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A notices Agent B looking tired and invites them to join in cooking.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a group exercise session after the meal.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to stretch and breathe deeply while waiting to boil water.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs a handful of nuts for a quick snack.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.1,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits down with Agent B to talk about the magazine.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A has just returned from a jog to find her brother making a smoothie and her father reading the newspaper in the kitchen.",
+    "actions": [
+      {
+        "description": "Agent A decides to prepare a homemade granola to complement the smoothie.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites her brother to join her for a morning yoga session on the back porch.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins to organize a family hike for the following weekend.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to dance playfully in the living room to her favorite upbeat song.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent B to a playful cooking competition to create the most delicious breakfast.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts planning a menu for the upcoming week, focusing on nutritious and varied meals.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A enthusiastically shares her jogging experience with her father, encouraging him to join her next time.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to document the breakfast preparation as a fun family vlog.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A meticulously organizes and cleans the kitchen after breakfast.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          -0.3,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a vibrant college student, is at home in the communal living room with housemates. Agent B is preparing a communal fruit salad in the kitchen while sunlight and a gentle breeze fill the living room.",
+    "actions": [
+      {
+        "description": "Agent A decides to join Agent B in the kitchen to help prepare the fruit salad.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to organize a spontaneous dance-off in the living room with her housemates.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to rearrange the furniture in the living room to create a more dynamic and inviting space.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a lively debate with her housemates on the topic of the most influential travel destinations.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up an impromptu picnic in their backyard to enjoy the sunshine and fresh air.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the initiative to plant new flowers in the garden to enhance the home's greenery.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a mini-tournament of board games with prizes for the winners.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A crafts a handmade card to thank Agent B for always preparing meals.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to go for a vigorous jog around the neighborhood to revitalize herself.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is lounging on a sunny Sunday afternoon in their home's living room, surrounded by the smell of freshly baked cookies. Agent B is arranging wildflowers on the dining table, and Agent C is laying out yoga mats. The scene is set for shared family activities with a sense of readiness and open windows allowing a breeze from the pleasant neighborhood.",
+    "actions": [
+      {
+        "description": "Agent A invites Agents B and C to help with cookie decoration.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a neighborhood walk post-yoga.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the living room furniture.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a spontaneous dance party.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a fruit smoothie for everyone.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads a game of charades with the family.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans an indoor treasure hunt.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the day's activities.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a tent in the backyard for relaxation.",
+        "values": [
+          0.0,
+          -0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "In the kitchen, ‘Agent A’ is making fresh bread, surrounded by fruits and vegetables. ‘Agent B’ and ‘Agent C’ are nearby and a new smoothie recipe catches 'Agent A's eye. The breeze brings playful sounds from outside.",
+    "actions": [
+      {
+        "description": "'Agent A' prepares the ingredients listed for the new smoothie recipe, using the fruits and vegetables from the counter.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "'Agent A' decides to bake a second batch of bread to share with neighbors.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "'Agent A' invites 'Agent B' and 'Agent C' for a tasting of the new smoothie.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "'Agent A' creates a colorful fruit salad to complement the bread for a meal.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "'Agent A' organizes an indoor picnic with the prepared food.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "'Agent A' suggests a spontaneous board game tournament after the meal.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "'Agent A' goes to the garden to pick fresh herbs, enjoying the outdoors.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "'Agent A' brings out family photo albums to share memories during the meal.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A has just finished baking muffins and the aroma fills the house, attracting the attention of Agent B and Agent C. The kitchen has a fresh salad in the making and upbeat music adds to the lively atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A offers freshly baked muffins to Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins to dance to the music in the kitchen.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to prepare a pitcher of lemonade.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tidies up the kitchen efficiently.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a muffin decorating challenge.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites others to choose salad ingredients.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows for fresh air.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits down to plan the next meal.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages a spontaneous 'photo shoot'.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a culinary enthusiast, is in the kitchen preparing brunch with fresh ingredients. Agent B, her daughter, interacts minimally while on her phone, and Agent C, her partner, sets the table. The kitchen is lively and warm with an appetizing aroma and natural light.",
+    "actions": [
+      {
+        "description": "Agent A demonstrates an omelet flip to Agent B with enthusiasm.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a new pancake recipe using exotic fruit.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts on lively music to enhance the brunch atmosphere.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plays a tasting game with Agent B involving secret spices in the dishes.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a family walk to the park after brunch.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stretches in the sunlight from the kitchen window.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A dances in the kitchen while waiting for the timer.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent C make a special smoothie together.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges a beautifully presented brunch table.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, an early riser, starts the day tying her shoes for a run, while Agent B is making pancakes, and Agent C is waking up on the couch.",
+    "actions": [
+      {
+        "description": "Agent A joins in cooking breakfast, adding a colorful fruit salad to the table.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Organizes an impromptu yoga session in the living room with the roommates.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Suggests a morning jog in the park.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Encourages Agent C to tidy the sleeping area.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          -0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Leads the group in kitchen cleanup after breakfast.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Initiates an upbeat dance session.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Creates a healthy grocery shopping list for the week.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Sets up a puzzle as a mental exercise.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Reminds everyone to hydrate post-activities.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is at home preparing to host a gathering. The living room is ready for guests with a kitchen island where Agent B chops vegetables, and Agent C arranges a music playlist. Windows are open, letting in a fresh breeze.",
+    "actions": [
+      {
+        "description": "Agent A mixes a fruit punch, balancing flavors for a refreshing drink.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a game area for guests with board games and cards.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a photo album with Agents B and C, recounting past adventures.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges furniture for an impromptu dance floor.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A steps into the garden to ensure inviting outdoor seating.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tells a recent humorous story, causing laughter.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares health-conscious snacks with thoughtful flavor combinations.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A demonstrates stress-relieving stretches to an interested Agent C.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is a spirited teenager who has come home from a soccer match. The house is filled with the aroma of a freshly cooked meal. Agent B is in the kitchen, while Agent C is setting up the dining table, and there's soft music playing.",
+    "actions": [
+      {
+        "description": "Agent A offers to help Agent B in the kitchen by chopping vegetables for a salad.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a playful food plating competition with Agent B.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to unpack the dishwasher.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.1,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent C to a quick game of charades.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a fruit-infused water concoction.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A enthusiastically suggests a post-dinner walk.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves a board game from the closet.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to share an amusing story from the soccer match.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the initiative to document the family dinner by taking photos.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a teenager, is in the kitchen planning to bake cookies, with ingredients laid out on the counter. Agent B, his parent, offers advice from the kitchen table, and Agent C, his best friend, is eager to assist. They have the house to themselves, creating a sense of freedom and the smell of baked goods fills the air.",
+    "actions": [
+      {
+        "description": "Agent A decides to mix the cookie dough by hand, to feel the texture and control the consistency.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A adds a secret ingredient from an old family recipe to make the cookies unique.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully arranges the cookies on the baking tray, creating fun patterns with different shapes and sizes.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a playful competition to see who can decorate the most creative cookie.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans up the kitchen while waiting for the cookies to bake, keeping the environment pleasant.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to surprise a neighbor by making an extra batch of cookies to share.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A explores different ways to plate and present the cookies in an aesthetically pleasing manner.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds an upbeat playlist to listen to while baking to set a fun atmosphere.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the baking process to share with other friends on social media.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Sunny Saturday morning, a family brunch with a diverse spread of food and beverages. Agent A, along with their partner Agent B, who is cooking, and Agent C, selecting music, are in a sun-drenched, breezy dining room.",
+    "actions": [
+      {
+        "description": "Agent A prepares a fresh fruit salad, adding a healthful option to the brunch.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a pancake flipping contest, bringing fun to the cooking process.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up an outdoor dining table to enjoy the good weather and change of scenery.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a walk in the park to digest and enjoy nature.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a taste test challenge, making brunch more interactive.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads a family stretching session to energize before eating.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A captures the family's cooking moments with a camera.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares entertaining stories over the meal.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and family collaborate on a new pancake recipe.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,7053 @@
+[
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager with a passion for botany, receives a mysterious seed packet with an enigmatic message, piquing their interest. Agent C, experienced in gardening, is present in the house but not yet involved, and Agent B is passively observing.",
+    "actions": [
+      {
+        "description": "Agent A inspects the seeds against the light to deduce any peculiarities.",
+        "values": [
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass for a closer look at the seeds.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts an online search for the seeds' identity.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C for insights about the origin of the seeds.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plants a seed in a pot to observe its growth.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a special soil mix for the new seed.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A records the planting details meticulously.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins a daily log to track the plant's progress.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the seeds and their planting setup in a journal.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, in a living room filled with books and artifacts, is studying an ancient family tree. Across the room, Agent B is reading, and Agent C is assembling a puzzle. A box labeled \"Family Archives\" has just been delivered, drawing Agent A's attention.",
+    "actions": [
+      {
+        "description": "Agent A opens the box labeled \"Family Archives\" to discover its contents.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines an old map found in the archives, tracing routes that could be of historical significance.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B and Agent C to gather around and share any knowledge they might have about the items in the archives.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully reads through aged letters in the archives, trying to piece together a story or message.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the family tree, adding notes and possible connections found in the archives.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to call their grandparents to ask about stories and details regarding the items in the archives.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rummages through the living room shelves, seeking books that could provide context to the family heritage.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed photographs of the items found in the archives for further research.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses an online genealogy platform to validate and expand upon the information from the family tree.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In a home setting, Agent A, an inquisitive teenager with a passion for medieval history, discovers an old chest. Agent A decides to explore the chest's contents out of a desire to learn more about their family history and medieval architecture.",
+    "actions": [
+      {
+        "description": "Agent A approaches the old chest to inspect the carvings more closely.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about the history of the chest and if they can remember any stories associated with it.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the chest to discover what's inside.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds old family photographs inside the chest and starts examining them.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uncovers an antique book on castles and begins to enthusiastically read it.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to sketch some of the castle blueprints from the antique book.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses the smartphone to search for more information on a particular castle depicted in the antique book.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves art supplies to try replicating the medieval carvings from the chest onto paper.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully organizes the found items back into the chest, considering how to preserve them.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is a teenager sitting at the dining table with disassembled gadgets and electronic components around, with tools and an open laptop displaying circuit diagrams. The table is cluttered, and Agent A is focused on a circuit board. Agent B passes by and notices the setup, while Agent C watches from a distance.",
+    "actions": [
+      {
+        "description": "Agent A uses a magnifying glass to inspect the finer details of the circuit board.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes notes on a notepad about the function of each component they examine.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online for tutorials on electronics repair and watches several videos.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully desolders a component from the circuit board to test it separately.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A draws a schematic of the circuit they intend to understand better.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts reassembling the electronics with the aim to improve or modify its original function.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A explains their findings and hypotheses to Agent B, seeking input.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compares the components on the table to the diagrams on their laptop.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans the components carefully, preparing them for testing and reassembly.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A discovers an old locked trunk in the attic. Along with Agents B and C, they become intrigued by the mystery of its contents and the challenge of accessing them without a key. Agent A, who enjoys history and puzzles, is particularly drawn to uncovering the secrets of the trunk and leads the initiative to open it.",
+    "actions": [
+      {
+        "description": "Agent A examines the trunk for identifying marks or hidden compartments.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches tools to attempt to pick the lock.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses online resources to research lock-picking techniques.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully examines the construction of the trunk's lock mechanism.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the lock mechanism to understand its design.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed measurements of the lock to fabricate a makeshift key.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks family elders for stories or clues about the trunk.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A documents the process of lock-picking and discovery in a journal.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks for historical documentation online about the trunk's era.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, interested in ecology, finds an old journal about backyard ecosystems. She is intrigued and starts to explore the contents with keen attention. Agent B is engrossed in reading and is available for questions. Agent C is playing on the floor, not involved in the exploration.",
+    "actions": [
+      {
+        "description": "Agent A opens the journal to discover hand-drawn illustrations of various plants and insects.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes down notes, listing the plant species from the journal she wants to locate.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about Aunt Ellen and her work, relating it to the journal.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a workspace with the journal, notebook, magnifying glass, and laptop for research.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses her laptop to search for information on an unidentified plant species.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes outside to search for and compare backyard species with the journal's illustrations.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A collects plant samples from the backyard for detailed examination.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a backyard map, labeling found species as per the journal.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a small project to document backyard biodiversity through seasons.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, an avid young gardener, discovers a peculiar plant in their home garden. With family members, Agent B and Agent C, occupied with their own activities, Agent A takes it upon themselves to investigate this botanical oddity, careful not to disturb the plant's environment.",
+    "actions": [
+      {
+        "description": "Agent A examines the plant's leaves and stems for distinctive features.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A photographs the plant from different perspectives.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A samples the surrounding soil for analysis.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the leaf patterns with a magnifying glass.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A consults gardening books for plant identification.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the plant, labeling its parts for research.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a growth experiment under varied conditions.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A seeks plant identification help on online forums.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A isolates the plant as a precaution against invasiveness.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A receives a mysterious old trunk from their great-grandparents' attic and begins to explore its contents, which consist of old maps, books and various antiquated items, with great interest.",
+    "actions": [
+      {
+        "description": "Agent A unfolds the old maps and examines them for any marked locations or interesting landmarks.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up the aged books one by one, skimming through pages to uncover their contents.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to inspect the items for any engravings or hidden compartments.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A photographs the items to later research their origins and to try to determine their age.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully lifts out each layer of the trunk's contents to see if there is a false bottom or hidden layer.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes notes on any symbols or patterns that are recurring in the items found within the trunk.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses their phone to translate any foreign languages found within the materials.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tries to reconstruct a possible history of their family based on the items found in the trunk.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully repacks everything as it was and decides to show the treasures to Agent B and Agent C later.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, is in the attic of their family home when they discover an old, intricately carved chest that is not recognized as part of the household. Surrounded by artifacts of the past, Agent A is imbued with an air of excitement and the compulsion to uncover the chest's secrets.",
+    "actions": [
+      {
+        "description": "Agent A carefully opens the chest to explore its contents.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the old portrait, trying to discern if the depicted individual is a relative.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rummages through the photo albums, searching for clues about the chest's origins.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to move the chest to their room for a more thorough investigation.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully handles and inspects each item from the chest with a sense of reverence and wonder.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a phone to look up any identifiable markings from the chest online.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed photographs of the chest and its contents to create a digital archive.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges the found items to try and recreate a historical narrative or timeline.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the chest and its carvings to analyze them further without handling the object directly.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, an amateur painter, searches through the attic of their family home and finds a dusty, leather-bound sketchbook filled with intricate drawings and notes. Eager to discover its origins, Agent A sits on a chest and delicately pages through the artwork. Agent B and Agent C are downstairs discussing family history.",
+    "actions": [
+      {
+        "description": "Agent A brings the sketchbook downstairs to show Agent B and Agent C, hoping to learn more about the drawings.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to examine the fine details and inscriptions within the sketchbook.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to visit the local library to research the locations depicted in the sketchbook.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed photographs of the sketchbook's pages to create digital copies for further analysis.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges the attic items to create a workspace for investigating the sketchbook’s contents.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out to a local history enthusiast group online to gather more information.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins to practice sketching some of the artwork found in the sketchbook to understand the techniques used.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a trip to the locations depicted in the sketches, intending to compare past and present views.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites a knowledgeable friend over to offer insights into the historical context of the sketchbook.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager interested in botany, is home alone in the living room. The space is filled with plant catalogs and a collection of \"Untitled Seed Packets\" from Agent A's parents. Agent A is drawn to uncover the mysteries of these seeds and learns more about the plants they might grow into.",
+    "actions": [
+      {
+        "description": "Agent A picks up a plant catalog and begins examining different plant species.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the \"Untitled Seed Packets\" and their contents.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to take a closer look at the seeds.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cross-references the handwritten notes with the plant catalogs.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers gardening tools to begin planting a selection of the seeds.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches potential garden layouts for the new plants.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the seeds and labels for a diary.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online for a garden forum to seek advice.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a list of questions for Agent B about the seeds.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenage aspiring chef, comes across an unfamiliar cookbook in the kitchen and feels an urge to explore its contents, while Agent B is cooking and Agent C is drawing.",
+    "actions": [
+      {
+        "description": "Agent A picks up the cookbook and starts flipping through the pages, scanning the recipes and ingredients.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "They retrieve a notepad and begin jotting down intriguing food combinations and techniques they haven't tried before.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to the pantry to check for ingredients that match those listed in one of the enticing recipes from the cookbook.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "They set up their phone to record a video as they attempt a challenging recipe, planning to capture the process and result.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges all the necessary cooking tools and ingredients on the counter, preparing for a cooking experiment.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "They approach Agent B to ask about the origin of the cookbook and if they have any experience with these recipes.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers inviting Agent C to join in and assist with preparing a recipe that looks particularly interesting.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "They carefully bookmark several pages in the cookbook to revisit later.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to create a shopping list for some exotic spices and special ingredients found in the recipes.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager with a passion for botany, is at home examining an assortment of exotic potted plants that were recently given to them. Agent B, their sibling, works on a school project in the next room, while Agent C, their cousin, reads on the couch. It's raining heavily outside, and the plants on the windowsill capture Agent A’s focus.",
+    "actions": [
+      {
+        "description": "Agent A bends closer to examine the unique leaf patterns and textures of the potted plants.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs a magnifying glass to inspect the intricate vein structure on a plant leaf.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes notes on the observations and begins sketching the plants in a journal.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a smartphone to search for information about the plants’ origins.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A collects samples of the soil from the pots to analyze its composition.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a camera to record the plants’ movements during the storm.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to Agent B the idea of a school project on the study of these plants.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully collects rainwater from the windowsill to test its pH value and its effect on the plants.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the potted plants according to their suspected light preferences.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A discovers a box filled with old journals and gadgets titled \"Grandpa's Stuff.\" Driven by a sense of excitement, she shifts her focus from an encyclopedia about gemstones to the prospects of uncovering family history and mysterious artifacts.",
+    "actions": [
+      {
+        "description": "Agent A opens the box and starts examining each item carefully, sorting them into categories.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes out a worn leather journal from the box and begins to read the entries to understand the context of the items.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses her phone to look up any references or historical events mentioned in the journal entries.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds an old mechanical device and takes it to her workbench to see if she can figure out how it works or what it does.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully documents the items with photographs and writes notes on her findings in a new notebook.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to call her grandfather to ask him about the contents of the box.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A constructs a family tree, trying to connect the journal entries to specific relatives.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A attempts to repair a broken gadget from the box, seeking help from online forums if needed.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers various ways to preserve delicate paper items and starts researching preservation techniques.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is a teenager sitting at his desk, surrounded by mountains of books, papers, and a couple of half-assembled model airplanes. Near the window, Agent B, his cousin visiting from another city, sits cross-legged on a cushion, engrossed in a fantasy novel. Across the room, Agent C, Agent A's sibling, sorts through a stack of old photo albums found in the attic. Sunlight filters in through the blinds, casting patterns on the sunny, plant-filled corner where a dusty, antique globe stands atop a small table, unattended and seemingly forgotten.",
+    "actions": [
+      {
+        "description": "Agent A opens one of the photo albums Agent C was sorting, intrigued by an old black-and-white photo of a relative he doesn't recognize.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the globe in the corner, spinning it gently before stopping it with his finger, landing on a country he's never heard of.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes down a neglected encyclopedia from the bookshelf to read more about the mysterious country he found on the globe.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A closely inspects the model airplanes, picking up an unfinished one and begins working on it, trying to figure out the mechanics.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out his phone and starts taking pictures of the intricate parts of the model airplane.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A browses the heap of books on his desk and selects one about the physics of flight.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a search engine on his computer to look up historical events related to the era of the photo.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully takes the dusty globe apart to see how it's constructed inside.",
+        "values": [
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a family tree in his notebook, attempting to place the unknown relative from the photograph in it.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is working on their school science project in the study when they notice an old globe and books with star charts, redirecting their focus to explore these new items.",
+    "actions": [
+      {
+        "description": "Agent A gets up from their project and walks over to examine the globe more closely.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A spins the globe, running their fingers over the textures, and pauses on far-off countries, imagining the explorers who discovered them.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls a few books with charts and diagrams from the shelves and starts flipping through them.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins jotting down notes from the books they find, thinking of ways to incorporate this information into their project.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of some of the interesting charts and illustrations in the books to possibly use in their presentation.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to search the internet for more detailed historical accounts of space exploration to enhance their project.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges their already-placed items on the poster to make room for the new information they’ve gathered.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B if there is an atlas or any other geographic or historical object in the house that would be relevant.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches some of the old sea routes leading to the 'new world' and considers drawing parallels to space exploration routes.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is a homeowner interested in horticulture, with a makeshift greenhouse in the attic. Agent B, the teenage cousin, brings a peculiar plant, and Agent C, the neighbor, talks about a local plant exhibition. Agent A is intrigued by the new plant and the nearby event.",
+    "actions": [
+      {
+        "description": "Agent A examines Agent B's plant closely, using a magnifying glass to inspect its leaves.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a smartphone to search for information about the plant's species.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jots down notes about the care and maintenance suggested for the new plant.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers rearranging the attic to create a dedicated space for the new plant.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inquires with Agent C about the details of the plant exhibition.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the old container to see if there are any forgotten seeds or gardening tools.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a cutting of the plant to try and propagate it.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts brainstorming the possibility of creating a hybrid using the new plant.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to download a gardening app that could help him keep track of the plants.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenage hobbyist, is spending the afternoon in their family's attic, filled with old trunks and boxes from generations past. Agent B, A's cousin, is downstairs and Agent C, the caretaker, is sorting through old family photographs in the next room. A discovers a metallic object in a trunk that catches their attention.",
+    "actions": [
+      {
+        "description": "Agent A opens the trunk to reveal its contents.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up the metallic object to inspect it more closely.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C about the history of the object.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the attic for a book or a catalog that might identify the object.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans the object to uncover any inscriptions or hallmarks.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the object downstairs to show Agent B and discuss its potential origins.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to examine the finer details of the object.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A photographs the object to compare with online archives.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the object in their journal, noting down its peculiarities.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "A teenager with an avid interest in botany is at the study desk at home with new exotic plant none of them recognize.",
+    "actions": [
+      {
+        "description": "Agent A picks up the new plant to inspect its structure closely.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to dissect a leaf from the plant to examine its cellular makeup under a microscope.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A took out her science journal and started jotting down observations about the plant’s unique features.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the internet for any information related to the mysterious plant species.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out to a biology teacher to discuss the potential origins of the plant.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates an organized experiment to test the plant's reaction to different light conditions.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the plant to share with an online botany community for identification assistance.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compiles a detailed report on the new plant, comparing it to other species in the family.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A maps out a plan to breed the plant with another species to observe possible hybrids.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In a suburban living room filled with plants, Agent A, a teenager interested in botany, discovers a mysterious new plant with unfamiliar leaves given by a neighbor.",
+    "actions": [
+      {
+        "description": "Agent A examines the new plant's leaves with a magnifying glass, looking for distinguishing features.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the soil's pH level from the new plant's pot.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches the plant in books and online to determine its origin and proper care.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A notes different growth stages of the plants and starts a journal to catalog observations.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A concocts a homemade natural fertilizer for the plant.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the living room to ensure the new plant gets optimal sunlight.",
+        "values": [
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the mystery plant, highlighting its unique features.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A converses with the neighbor who gifted the plant, inquiring about its history.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to propagate a piece of the new plant to experiment with different growing conditions.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, an avid amateur astronomer, prepares their new telescope in the living room for a night of stargazing. Agent B relaxes with a book while Agent C works on a school project, creating a solar system model. The setting provides an opportunity to observe and learn more about the night sky.",
+    "actions": [
+      {
+        "description": "Agent A calibrates the telescope's lens to achieve a clearer image of the celestial bodies.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes meticulous notes on the patterns and movements observed through the telescope.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the lunar surface as seen through the telescope to compare with previous observations.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to take a break from the model and look through the telescope.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts an online search for astronomical clubs and viewing events in the local area.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A adjusts the room's lighting to minimize glare and reflection for stargazing.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assembles a constellation map to prepare for the upcoming meteor shower viewing.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a camera attachment to the telescope to capture high-quality photographs of the night sky.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a mobile astronomy app to identify and learn about new star formations.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, is exploring an old photo album with Agent B, their cousin, when they discover a science fair flyer. They are intrigued and consider participating while surrounded by a variety of academic resources.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent B about the story behind a strange gadget appearing in one of the album photos.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the science fair flyer closely and looks up the featured speakers on their phone.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses the atlas on the table to locate the venue of the science fair.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches past science fair winners and their projects online.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches ideas for a science project in their journal.",
+        "values": [
+          0.85,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent B the possibility of attending the science fair together.",
+        "values": [
+          0.65,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up a science book from the coffee table and starts reading a chapter related to one of the projects mentioned on the flyer.",
+        "values": [
+          0.75,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers various items from around the house that could be used in a science project.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls a knowledgeable friend for advice on creating a science fair project.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In the living room, Agent A discovers a book on exotic recipes titled \"Culinary Secrets of the Far East,\" which captures his interest. Agent B organizes family photos; Agent C tinkers with a puzzle; Agent D waters houseplants. The house is filled with sunlight and the scents from the book's recipes.",
+    "actions": [
+      {
+        "description": "Agent A reads about the origins of the recipes in the book.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the kitchen for ingredients listed in the book.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A lists unfamiliar spices needed for the recipes.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A converses with Agent B about related family cooking stories.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to cook a recipe together.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans to visit the library for more cooking books.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A watches videos on cooking utensil usage.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks a friend about trying recipes from the book.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A accepts the challenge to cook weekly recipes from the book.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A discovers an unfamiliar seedling in their greenhouse and is at a crossroads on whether to engage further or leave it be. Agent B is disinterested and consuming breakfast. Agent C is nearby, showing an inclination towards botany.",
+    "actions": [
+      {
+        "description": "Agent A researches the mysterious seedling using their collection of gardening books.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the greenhouse to find more signs of the unknown seedling.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A questions Agent B and C about recent unusual plantings.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the seedling to a local gardening club for advice.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to inspect seedling characteristics.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compares the seedling's leaves to those of known plants.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A transplants the seedling and monitors its development.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A posts photos of the seedling online for identification.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments with the seedling's location for optimal growth.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In a home's kitchen filled with forgotten culinary ingredients and gadgets, Agent A discovers an ancient cookbook with intriguing recipes, which piques her interest in exploring these culinary relics.",
+    "actions": [
+      {
+        "description": "Agent A recreates a challenging recipe from the ancient cookbook using the forgotten ingredients on the shelf.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes down strange-looking utensils to figure out their purposes.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls out to Agent B to share her discovery of the interesting cookbook.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compiles a shopping list of additional unusual ingredients that the recipes require.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the recipes and plans to research their origins online.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully preserves a fragile page that is about to tear away from the cookbook.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the dish's layout as illustrated in the recipe book.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the old measuring tools to see how they differ from modern ones.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments with combining spices from the shelf to understand their flavors.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In the kitchen, Agent A, the protagonist, stands by a countertop with various exotic vegetables and spices ready for a culinary exploration. Agent B, the cousin, is also present with a plant encyclopedia, looking up a peculiar root vegetable. Agent C, Agent A's parent, is organizing kitchenware. A sense of discovery pervades the room.",
+    "actions": [
+      {
+        "description": "Agent A examines the root vegetable, studying its texture and pattern.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sniffs the exotic spices to guess their flavors.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inquires about the vegetable's origin and traditional uses from Agent B.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sorts spices by aroma strength.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches for recipes using the root vegetable on their tablet.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the vegetable in a recipe notebook with annotations.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests cutting the vegetable into different shapes for even cooking.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A records the experimental cooking process for a blog entry.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests spice combinations in small batches for the best flavor.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a retired librarian named Martha, resides in a quaint suburban home. Today, she has decided to sort through old family photographs in the attic.",
+    "actions": [
+      {
+        "description": "Agent A carefully opens a dusty album and examines the old photographs, looking for familiar faces.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A meticulously records the names and dates behind each photograph.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A climbs up a wobbly ladder to reach a box labeled \"High School Memories.\"",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently cleans an old, ornate music box before winding it up to listen to the melody.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B to help her maneuver a heavy chest under the window to get better light.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to examine intricate details on a vintage postcard collection.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a family tree on a large sheet of paper, filling in blanks as she goes.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unfurls an old school banner and shares anecdotes associated with it to Agent B and Agent C.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A debates with Agent B and Agent C the origin of an unmarked set of keys she finds.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, discovers an intriguing ancient book in the family's library room while Agent B is busy working, and Agent C is engrossed in their phone. Agent A becomes engaged in uncovering the secrets that the book may hold.",
+    "actions": [
+      {
+        "description": "Agent A opens the ancient book to begin reading about the historical secrets it may contain.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leaves the room to find tools to help decipher the old script in the book.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the internet on their tablet for information about the book's author and era.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the illustrations found in the margins of the book, trying to interpret their meaning.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully examines the book for any hidden compartments or messages.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A questions Agent B about the origin of the book and if they have any knowledge of its contents.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the pages with their phone to seek advice from knowledgeable friends via a group chat.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a detailed list of questions and theories regarding the book's content to investigate further.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a visit to the local library or museum to research more about similar ancient texts.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a 16-year-old with a keen interest in culinary arts, discovers a new multi-cuisine cookbook. With her cousins, Agent B and Agent C, visiting for the weekend, she decides to explore the recipes. Agent B is reading a science magazine, and Agent C is sorting through old photographs.",
+    "actions": [
+      {
+        "description": "Agent A reaches for the new cookbook and begins to leaf through the pages.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B if he would like to help her try a new recipe from the cookbook.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes down one of the old encyclopedias to look up a specific cooking technique.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A enlists Agent C to help her sort the necessary ingredients from the pantry.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up her phone to record the cooking process for future reference.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tries to improvise one of the recipes with the ingredients available at home.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the old photographs to get inspiration for plating and presentation.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A questions her cousins about their dietary preferences before choosing a recipe.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A explores the possibility of creating a fusion dish by combining elements from different recipes in the cookbook.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is a teenager who has just returned home from school and noticed a peculiar puzzle box on the kitchen table. Agent B, his parent, had acquired it from an antique store and is in another room, while Agent C, his older cousin, lounges on the sofa. The puzzle box intrigues Agent A, and he prioritizes discovering its secrets over his homework that is set aside.",
+    "actions": [
+      {
+        "description": "Agent A gently rotates and taps the box, listening for any changes in sound that might hint at how to open it.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully examines the patterns on the box, looking for any hidden switches or buttons.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a magnifying glass from the study to inspect the puzzle box for clues more closely.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens a search engine on his laptop and types in the box's description to find any related information online.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a picture of the box and posts it on a forum asking for advice on how to open it.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes through the family's old books on the shelf, searching for any references to similar artifacts.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to sketch the patterns of the box in his notebook, hoping that a visual representation might offer insight.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls Agent B into the room to inquire about the origin of the puzzle box and any known methods of unlocking it.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to take the box to his room for a quiet environment to concentrate on opening it.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenage hobbyist, discovers an old, ornate box in the attic labeled \"Family History & Heirlooms\" which contains various artifacts, photos, and documents. Agent A with Agent B and Agent C, both sharing interests in history, are intrigued by the items and gather around to explore the contents of the box.",
+    "actions": [
+      {
+        "description": "Agent A carefully opens a sealed envelope found in the box revealing hand-written letters from a century ago.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to examine faded writing on an old document, attempting to decipher the text.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed notes on a pad about each item's description and any identifying marks.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a space in the living room to categorize and display the items based on the era they belong to.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of each item with a smartphone before placing them back in the box for preservation.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests calling a grandparent to inquire about the possible origin stories of specific heirlooms.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves a map to try and trace the heritage sites mentioned in the letters.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online for history resources or forums where experts discuss similar artifacts.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to visit the local library to consult historical archives for more information on some of the artifacts.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, discovers an unfamiliar coin with an inscription in the living room. Agent B, his cousin, is nearby, and Agent C, his mother, is in the kitchen.",
+    "actions": [
+      {
+        "description": "Agent A uses his phone to take a high-resolution picture of the unfamiliar coin's inscription.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A posts the picture of the coin's inscription on an online forum for ancient languages.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the internet for similar coin images.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A visits the library's website to reserve books on ancient coinage and languages.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a magnifying glass to examine the details of the coin.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a workstation with his notes and research materials regarding the unfamiliar coin.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the inscription from the coin in his notebook.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sends an email to a history professor at a local university.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments with homemade chemical solutions to clean the coin.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, an amateur painter passionate about art history, moves into an old family estate with portraits of ancestors. One particular portrait in the study draws Agent A’s attention because of its age and mysterious Latin phrases. While overhearing Agent B and Agent C discuss the estate's history and potential hidden compartments, Agent A is intrigued and starts exploring more about the portrait and the room it hangs in.",
+    "actions": [
+      {
+        "description": "Agent A carefully removes the portrait to inspect the back for hidden compartments.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A measures the room to spot any discrepancies with the estate's map.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to decode Latin phrases on the painting.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the study for concealed openings in walls and bookcases.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A converses with Agent B and C about family tales of hidden estate areas.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A delves into research on old architectural secrets online.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a diagram of the study, noting any oddities.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins a detailed journal of their search for hidden areas.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines other estate portraits for odd features.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In a dusty attic, Agent A discovers an old chest with a padlock and intricate carvings, surrounded by various forgotten items and a metal box. While Agent B is engaged downstairs, Agent A is compelled to explore the locked chest and its mysteries.",
+    "actions": [
+      {
+        "description": "Agent A attempts to pick the lock on the chest with a paperclip.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves aside boxes to uncover more items that could be related to the chest's contents.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a crowbar and tries to force the chest open.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans the window to let in more light, to better inspect the carvings on the chest.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photographs of the carvings, planning to look them up later.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the metal box, rummaging through it for clues about the chest.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts sketching the chest, hoping that the process will reveal some insight.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls Agent B up to the attic for a second opinion on the chest.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A taps and listens to different parts of the chest to discern if there's a hollow space indicating a hidden compartment.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, the teen, is delving into books within the household library while Agent B, the parent, engages in note-taking, and Agent C, the cousin, is looking through a photo album. The environment is poised for intellectual pursuits, with various resources at Agent A's disposal.",
+    "actions": [
+      {
+        "description": "Agent A compiles notes into an essay for understanding.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes several books to compare historical events.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B for opinions on a complex topic.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a chat to discuss information with friends.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches for documentaries on the topics.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A recreates a historical experiment with household items.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches diagrams for conceptual visualization.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a mind map to connect reading ideas.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A emails a teacher for further subject clarification.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, interested in botany, discovers a collection of unlabeled exotic seed packets in their home. Eager to learn, Agent A sees an opportunity to explore, identify, and document the myriad of sprouting plants in their family's makeshift greenhouse.",
+    "actions": [
+      {
+        "description": "Agent A sorts the exotic seed packets by the characteristics of the sprouts such as leaf shape and pattern.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs a notebook and begins to document the growth of each sprout alongside their guesses of the plant types.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a daily log, predicting what kind of care each plant might need based on the sprouts.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out a gardening book from the shelf to cross-reference the sprouts with photos and descriptions of adult plants.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to examine the details of each sprout more closely, looking for unique identifiers.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to create labels for each pot to track their growth experiments and observations over time.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes pictures of the sprouts with a camera to compare with online plant databases later.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a chart to measure the growth rate of each plant, comparing notes with documented species.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves some of the pots to different locations in the greenhouse to test how light direction affects their growth.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A discovers an old cookbook in the attic and decides to explore unique recipes. With Agent B cooking in the kitchen, Agent C working on a school project at the dining table, and Agent D reading a gardening book in the living room, Agent A considers using these resources to understand and recreate a historical dish.",
+    "actions": [
+      {
+        "description": "Agent A flips through the old cookbook to find a unique recipe to try.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B for help interpreting some of the faded handwriting in the cookbook.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a picture of a specific recipe with their smartphone to search for the historical context of the dish online.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses a recipe that includes unfamiliar ingredients and decides to create a shopping list.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inquires about Agent C's school project and whether any of the plants could be edible or used in a recipe.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A approaches Agent D to ask about gardening tips that could relate to growing recipe ingredients.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reflects on the adaptation of the chosen recipe to accommodate current kitchen tools and technology.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans to document the cooking process with notes and photos to create their own version of the recipe.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers starting a blog to share old recipes with a modern twist.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a freelance writer, finds an old journal while unpacking and becomes engaged in unraveling its history, with Agents B, C, and D possibly participating in this discovery.",
+    "actions": [
+      {
+        "description": "Agent A flips through the found journal and examines the handwriting and any inscriptions or markings on the pages.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B if they recognize the journal or know where it might have come from.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sniffs the pages to determine if there is a distinct smell that could provide clues about the journal’s origins.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A holds the journal up to the light to see if there are any hidden watermarks or messages on the pages.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses her phone to search for any similar-looking journals online.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a copy of a unique symbol found in the journal on a piece of paper to research later.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully removes a photo tucked away in the journal, trying to identify the people or places in it.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent D, due to their knowledge of history, if they recognize the time period or style of the journal.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to go to the local library to see if they can find more information about the kind of journal she found.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, finds a strange, antique book on the living room shelf with a lock that seems quite old. Agent B, a parent, is reading a newspaper, and Agent C, a grandparent, is dozing off. Agent A holds the book, feeling its weight and tracing the designs on the cover.",
+    "actions": [
+      {
+        "description": "Agent A attempts to open the locked book using tools found around the house.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the bookshelf for any hidden keys or clues.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about the history of the book.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a picture of the lock and searches online for similar locks and methods.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the book and lock to notice new details.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to inspect the book for wear patterns.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a family storytelling evening to learn about the book.",
+        "values": [
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discreetly follows Agent C to find the key.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed notes of everything known about the book.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a 14-year-old, finds an old shortwave radio and tunes into a mysterious signal in a foreign language in the attic of his house. He is motivated to explore further.",
+    "actions": [
+      {
+        "description": "Agent A adjusts the dials on the radio, trying different frequencies to catch more of the conversation.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses his phone to record the strange signals and conversations to analyze them later.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes downstairs to ask Agent B about the radio's history.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the radio to Agent C for help in translation.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks up information on shortwave signals and languages online.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a logbook to note down the details of his findings.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A disassembles the radio to understand its workings.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines old family photos for clues about the radio.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a dedicated space for his exploratory activities.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, is in the attic of their family home, where old boxes of belongings are stored. Agent A finds a sealed box with no label among the dusty photo albums and vintage clothing.",
+    "actions": [
+      {
+        "description": "Agent A carefully opens the mysterious box to discover its contents.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines an old diary found within the box, reading the entries to uncover stories from the past.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds a collection of old maps in the box and spreads them out to study the marked locations.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A locates a device within the box that looks foreign and attempts to figure out how it works.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a photograph of the items in the box to later research their historical significance.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discovers letters in the box, unopened and yellowed with age, and decides to read them.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds an old cassette tape in the box and looks around the attic for a cassette player to listen to it.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently takes out an ornate piece of jewelry, examines its craftsmanship, and wonders about its origin.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uncovers a collection of foreign currency from the box and starts categorizing it by country and era.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is intrigued by the burgeoning wildflowers and weeds in their backyard, leading them to retrieve gardening tools and a gardening book from the garage. While Agent B is engrossed in a book and Agent C is busy indoors, Agent A feels a pull towards transforming the neglected yard and exploring the world of gardening.",
+    "actions": [
+      {
+        "description": "Agent A examines the wildflowers and weeds, trying to identify them using the gardening book.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A clears out weeds to make space for a new flowerbed.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A collects soil samples from different parts of the backyard.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a garden layout, factoring in sunlight and aesthetics.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages Agent B, seeking thoughts on creating a wildlife habitat.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a garden journal to record observations and plans.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches composting methods online to improve soil health.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks for more gardening tools in the garage.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a schedule for future gardening tasks.",
+        "values": [
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, an enthusiastic amateur historian, is in the attic of their early-20th-century family home. A mysterious, locked trunk with a faded emblem, previously unnoticed and unmentioned in family stories, piques Agent A's interest.",
+    "actions": [
+      {
+        "description": "Agent A examines the emblem on the trunk in detail, comparing it with family crests found online.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tries to pick the lock of the trunk using hairpins to get it open.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the trunk and its emblem and plans to visit the local library for research.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes downstairs to inquire if Agents B or C have any knowledge about the trunk or its contents.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers using a locksmith but hesitates due to the potential cost and the value of preserving the trunk's integrity.",
+        "values": [
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a series of photos of the trunk, intending to post them on a history enthusiasts' forum for insights.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully cleans the trunk's surface to uncover any additional marks or clues.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A documents the discovery process in a journal, noting any slight details and personal hypotheses about the trunk’s origin.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves other attic items to see if there are more trunks or items related to the mysterious one.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a high school student, finds a complex and unlabelled world map jigsaw puzzle in their home, with a note from their parents, and decides to embark on the challenge by using resources like encyclopedias, a globe, and the internet to uncover the mysteries hidden within the puzzle's whimsical illustrations, creatures, and secret symbols.",
+    "actions": [
+      {
+        "description": "Agent A takes a photograph of the untouched puzzle to create a 'before' reference for comparison later.",
+        "values": [
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts assembling the puzzle from its edges, creating the frame of the world map.",
+        "values": [
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses the encyclopedias to look up any unfamiliar creatures spotted on the puzzle pieces.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens their laptop to research the secret symbols on the puzzle pieces and their historical significance.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tries to find a pattern or a code in the symbology that might lead to solving the puzzle in a specific order.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes the mythological creature pieces according to the region and culture they might belong to.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches out the illustrations and symbols in a journal, making notes of their findings and thoughts.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A walks around the room, occasionally looking at the puzzle from different angles to gain a new perspective.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls a friend who loves puzzles to come over and take a look, opening up the challenge for collaborative problem-solving.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a freelance journalist, discovers an old journal in the attic and involves her cousins Agent B and Agent C to investigate the family relic filled with cryptic writings and sketches.",
+    "actions": [
+      {
+        "description": "Agent A sits down and begins reading the journal comprehensively, jotting down notes on significant details.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully examines the sketches in the journal, trying to identify if any of the drawn items are present in the attic.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts to photograph the pages with her smartphone, planning on later research.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls her grandmother to ask about any family history that might relate to the journal's contents.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes the random objects in the attic to see if there's a connection to the entries in the journal.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to inspect the map on the wall for any marks that correlate with the journal's inscriptions.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to help her transcribe the handwriting in the journal onto the computer for clearer analysis.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts an online search for keywords and names found in the journal.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully removes a loose floorboard discovered under the piles, hoping to find related artifacts.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In a spacious, sunlit kitchen, Agent A, a young adult, examines a selection of exotic fruits from the local international market. Agent B, his roommate, looks at a travel magazine, and Agent C, their neighbor, observes with interest. Agent A is excited and puzzled by a spiky fruit in his hand, contemplating its taste and culinary possibilities amid an ambient backdrop of cooking sounds.",
+    "actions": [
+      {
+        "description": "Agent A decides to cut the exotic fruit open to discover what's inside.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a taste of the fruit's pulp to determine its flavor profile.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes online on his laptop, searching for recipes that include the exotic fruit.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inquires with Agent C if they have ever tried or cooked with this fruit before.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs his phone to record a video, sharing his experience tasting an unfamiliar fruit with his online followers.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the fruit in his recipe journal, noting its texture and taste.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agents B and C to taste the fruit, seeking their opinions on it.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments by cooking a small portion of the fruit in the pan with other ingredients.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is a teenager who has recently taken up an interest in gardening, spending their afternoon at home in the family's cluttered backyard with various plants and gardening tools. They have borrowed books about botany from the library and received a rare collection of seeds from neighbor Agent B. Agent C, the next-door neighbor, is observing with amusement from the fence.",
+    "actions": [
+      {
+        "description": "Agent A takes the book about exotic herbs and starts to make detailed notes about the growth conditions and benefits of each.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to dig up a small section of the garden to test the soil's acidity.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to inspect the leaves of the plants for any signs of disease or pests.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the layout of the garden, planning where each new herb will be planted.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online for local gardening groups.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a small experiment, planting the same seeds in different conditions.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses the garden with Agent C, seeking tips.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A collects different leaves, labeling them, and creates a scrapbook page for each plant.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A thoughtfully tastes a small, safe-to-eat leaf.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a ten-year-old with a fascination for botany, sits in the living room near the sunny windowsill where several potted plants reside. Agent B, the parent, is elsewhere in the house attending to chores. Agent A notices one of the plants appears different than usual, with signs of unfamiliar growth. Nearby, a stack of encyclopedias and gardening books offers a wealth of information just within reach.",
+    "actions": [
+      {
+        "description": "Agent A pulls a chair over to the bookshelf and selects several books on plant biology and care.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A closely examines the plant, using a magnifying glass.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes notes on the difference on a notepad, sketching diagrams of the plants.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves a camera to photograph the plant for future comparison.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers some gardening tools to gently probe the soil and test moisture levels.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up an experiment to give the plant varying amounts of water over the next weeks.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls Agent B into the room to share the discovery and seek further input.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes on the internet to search for online forums or communities of plant enthusiasts for advice.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A relocates the plant to another spot with different lighting to observe any changes.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager with a profound interest in culinary arts, is in the kitchen surrounded by cookbooks and ingredients for a complex dish, contemplating the creation of a fusion dish that combines family heritage with contemporary recipes.",
+    "actions": [
+      {
+        "description": "Agent A takes notes from the family recipes, underlining ingredients that are common in traditional dishes.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cross-references techniques in the cookbooks with online video tutorials to improve their understanding.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a cooking stream to share their cooking experience with peers and seek live feedback.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the kitchen to mimic a professional chef's workspace for efficiency.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A attempts to fuse a traditional recipe with a modern technique they've just learned.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to substitute an ingredient with another they believe will give a unique twist to the flavor.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments with plating styles to showcase their dish aesthetically.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A incorporates an unfamiliar spice into their dish to explore its flavor profile.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls their grandparent to inquire about the history behind a family recipe.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In a cozy suburban home, Agent A, a teenager with a passion for botany, discovers an ancient bookshelf in the attic with a hidden compartment filled with old botanical books and journals.",
+    "actions": [
+      {
+        "description": "Agent A opens one of the aged books to examine the content, flipping through the pages delicately.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes the journals and begins to decipher any handwritten notes that might tell the history of these items.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses his phone to take pictures of the illustrations, intending to look up the plants online.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges the books and notes in chronological order to better understand the progression of the collection.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches some of the illustrations, trying to replicate the detail and technique used.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a book that seems to be a diary and settles in a corner to read more about the previous owner.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently removes a particularly ornate book from the shelf and inspects it for any hidden messages or compartments.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a list of plant species mentioned in the books that he does not recognize for future research.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls Agent B to come upstairs and see the remarkable find, with the intention to share the discovery.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is with their college-aged nephew, Agent B, and elderly mother, Agent C, in the living room. Agent A, surrounded by plants and armed with a new plant encyclopedia, is focused on a unique, closed bud on an orchid. Agent B is studying, and Agent C is knitting, both observing Agent A's actions.",
+    "actions": [
+      {
+        "description": "Agent A compares the peculiar bud with illustrations in the plant encyclopedia to identify its species.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to inspect the unique patterns and textures on the bud.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes notes on the bud's appearance and condition to track its growth over time.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully adjusts the plant's position to ensure it gets optimal sunlight throughout the day.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a time-lapse camera to capture the bud's blooming process.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches the bud and its surroundings in a journal to complement their observations.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches specific blooming triggers for the orchid variety, considering altering the room's temperature or humidity.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls a fellow botany enthusiast to discuss the unusual attributes of the orchid.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans to propagate the orchid to attempt to reproduce the exact conditions for future blooms.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A finds an old journal with sketches and descriptions of exotic plants, piquing her interest in the unkempt section of her garden as she overlooks it.",
+    "actions": [
+      {
+        "description": "Agent A examines one of the plant sketches closely, comparing the leaf structure to the plants in her garden.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves her gardening notebook to take notes about the new plants she discovered in the journal.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls Agent B to the attic to show them the journal and discuss its potential origins and previous owner.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a makeshift research station in the living room with botanical books and the journal for reference.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out to a local horticultural society to inquire if they have information on the rare plants from the journal.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a new section in her garden dedicated to trying to cultivate the exotic plants from the journal's sketches.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses her phone to snap pictures of the journal pages to do image searches for more details on the plants.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to visit a nearby botanical garden to compare the journal's sketches with real-life specimens.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers soil samples from her garden to test the pH and nutrients to determine if they are suitable for the plants in the journal.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager with a notebook and pencil, walks into a living room where Agent B, a parent, sorts old photos, and Agent C, a cousin, reads a history book. The room is filled with books, gadgets, and maps that reflect the family's love for exploration.",
+    "actions": [
+      {
+        "description": "Agent A opens the old book Agent C is looking at and starts reading about the local history.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out a map from the wall and starts tracing old family road trips, looking for places not yet visited.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses their notebook to jot down ideas for future travels or projects inspired by artifacts found in the living room.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about the most unfamiliar item on the table, wanting to learn its story.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uncovers a gadget on the bookshelf they've never seen before and tries to figure out how it works.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches out a family tree diagram in their notebook based on the scattered photos and asks Agent B to fill in the missing details.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sorts through the memorabilia on the table, organizing it into different historical periods or themes.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the antique globe, spinning it and randomly stopping it with a finger to see which country or ocean they land on.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to make a time capsule from the various items and includes a current photo of the family.",
+        "values": [
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, fascinated by a unique seed pod found in the garden, decides to explore its origins and characteristics, enlisting the help of references and the local community to further understand the specimen.",
+    "actions": [
+      {
+        "description": "Agent A digs around the vicinity where the original seed pod was found, looking for more specimens.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to examine the markings on the seed pod for classification.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photographs of the seed pod from various angles to create a detailed reference.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online using the photographs as a reference to identify the seed pod's species.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a journal to record observations and hypotheses about the seed pod.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out to a local botany club online to ask members for insights into the seed pod.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A designs a small-scale greenhouse environment to attempt the germination of the seed.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to visit the local library to find botanical reference books that could contain information on the seed pod.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a time-lapse camera to record the germination process of the seed, if successful.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager in a new family home, discovers an old, locked chest in the attic amidst unpacking. The origin and contents of the chest are unknown, and Agent A is driven to learn more about it.",
+    "actions": [
+      {
+        "description": "Agent A pulls the heavy chest into the center of the attic and begins to carefully remove the dust and cobwebs.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "They attempt to open the chest but find it locked, prompting a search for a key in the surrounding area.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Noticing a stack of old books beside the locked chest, Agent A begins to thumb through them, searching for a clue.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A locates a set of tools and tries to pick the lock of the chest with a paperclip and screwdriver.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Realizing the tools aren't helping, they move to explore the attic further, looking for hidden compartments or secret levers.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "They call out to Agent C to come upstairs and help inspect the chest.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to fetch a flashlight to better inspect the darker areas of the attic.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "They sketch a quick diagram of the chest and its intricate designs, hoping to uncover a pattern.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online on their smartphone for information about antique chests and locks.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager with a keen interest in culinary arts, is home for the weekend and encounters an assortment of unfamiliar spices and herbs in the kitchen gifted by a relative who traveled abroad. Agent B, Agent A's parent, is present but does not display interest in the spices.",
+    "actions": [
+      {
+        "description": "Agent A opens a container to smell the contents and tries to identify any familiar aromas.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a few spices and tastes tiny amounts to discern the flavors.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs a cookbook from the shelf and begins searching for recipes that utilize these unfamiliar spices.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B if they know anything about the spices or have recommendations on how to use them.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the containers for any pictures or illustrations that might provide clues.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes pictures of the spice labels and uses a language translation app.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the kitchen space to create a 'testing station'.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a notebook to document their observations.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to prepare a dish using one of the spices and invites Agent B to join the cooking process.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, newly moved into an old house, discovers an intricate key among dust-covered bookshelves. With friends Agent B and Agent C in the home but occupied elsewhere, Agent A contemplates the key’s purpose and examines various aspects of the home that may reveal its significance.",
+    "actions": [
+      {
+        "description": "Agent A tries to insert the key into the locked door in the basement.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts cleaning the bookshelf thoroughly to look for any hidden compartments or clues related to the key.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the framed artworks for any signs that may indicate a connection with the key.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes pictures of the key and does an image search online to find similar items or information about the key's design.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a closer look at all the doors and locks in the house to see if the key might fit any of them.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A questions Agent B and Agent C about their knowledge of the key or any related stories they might have heard from the locals.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins to document the key's various features in a journal, setting the stage for further investigation or research.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A climbs into the attic to explore if there are any belongings or objects from previous occupants that relate to the key.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves to disassemble the key to see if there are any hidden mechanisms or inscriptions within it.",
+        "values": [
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, finds Agent B, their parent, assembling a complex electronic device at home, with Agent C observing. Agent A is intrigued by the unfamiliar components spread out on the dining table and starts to explore this unexpected project in their home environment.",
+    "actions": [
+      {
+        "description": "Agent A picks up the manual and starts flipping through the pages, trying to understand the project's objective.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B specific questions about the different components and their functions.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A requests permission to join the assembly process and start contributing.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes online to look up the electronic device to get a better understanding of its capabilities.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a diagram on a piece of paper, hypothesizing about the purpose of each part.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully observes Agent B’s work, trying to memorize the steps being taken.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a hypothesis about what the finished device might be able to do.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves a magnifying glass to get a closer look at the small, intricate circuits.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers where in the house this device might be used and discusses potential locations with Agent B and C.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is seated in the family library, immersed in an environment rich with books, maps, and travel journals. Agent B, a parent, is browsing through an old photo album, and Agent C, the cousin, reads a travel magazine. The subdued atmosphere is conducive to reflective flights of fancy, and Agent A is surrounded by stimuli that encourage investigative immersion into geography and history.",
+    "actions": [
+      {
+        "description": "Agent A opens one of the aged travel journals and begins to examine the entries, soaking in experiences from places they've never been.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses the globe to trace the journeys outlined in the travel journal, imagining the sights and sounds of each location.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A quizzes Agent C about the places mentioned in the magazines.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects intricate details of the old maps with a magnifying glass.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges books chronologically to understand historical context.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes notes and formulates questions for further research.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A constructs a timeline of explorers and discoveries.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes pictures for a future blog post.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A attempts to recreate a traveler’s desk from different eras.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "In a suburban home, Agent A, a college student in cultural anthropology, is surrounded by study materials and looks at a family artifact, an ancient compass. Intrigued by its design and potential history, Agent A contemplates its origins in relation to their studies. Agent B is absorbed in her tablet, and Agent C is preparing food.",
+    "actions": [
+      {
+        "description": "Agent A sketches the compass in a notebook, noting questions about its background.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online for information on similar ancient navigational tools.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A references a maritime archaeology book to understand ancient trade navigation.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A photographs the artifacts for a research presentation.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses artifact insights with a knowledgeable friend on a call.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes family artifacts into a visual timeline based on history.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A seeks additional information on a history forum by sharing photos of the compass.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compares the antique compass with a modern one to test its functionality.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a visit to a local museum to compare the compass with similar exhibits.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A is a teenager found poring over a collection of old maps and dusty books sprawled across the desk in the study room. The room is filled with shelves brimming with various antique artifacts and family heirlooms. On a nearby wall hangs a large, intricately detailed tapestry that the family rarely discusses. Agent A hears distant footsteps; Agents B and C, A's parents, are busy in the kitchen, giving Agent A alone time with the aged documents and the captivating tapestry that seems to hint at a hidden history.",
+    "actions": [
+      {
+        "description": "Agent A carefully examines the tapestry, looking for symbols or patterns that correlate with the markings on the old maps.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed notes and sketches the symbols from the tapestry in a dedicated notebook.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to study the finer details of the tapestry and compares them to similar symbols in the books.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently pulls at some loose threads on the tapestry to see if there are any hidden compartments or messages.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to the attic to search for any related artifacts that might shed light on the tapestry’s origins.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a makeshift light box to see if there are any watermarks or hidden details on the old maps that are invisible to the naked eye.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to photograph the tapestry and use image editing software to isolate and analyze the patterns.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts a web search for historical records or mentions of the symbols found in the tapestry.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a ladder to inspect the top portion of the tapestry, which is usually out of reach, for any additional clues.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager fascinated with ancient history, finds an old map in their home library, leading to a possible undiscovered site hinted at by their family's past. Agent B, the teenager's parent and a collector, unknowingly owns the book containing the map. Agent C, the teenager's cousin, is present but engrossed in another activity.",
+    "actions": [
+      {
+        "description": "Agent A inspects the old map for identifiable landmarks.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a magnifying glass to examine map details.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches family albums for related pictures.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts online research about the map's area history.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a route to the map's location using modern maps.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares exploration tools for a potential adventure.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discreetly inquires about the book's origins.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares theories about the map with Agent C.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans the exploration late into the night.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A discovers an intricate jigsaw puzzle of the night sky and is intrigued. Agent B reads a book on astronomy while Agent C sorts through telescopic lenses and astronomy magazines.",
+    "actions": [
+      {
+        "description": "Agent A carefully examines the cover of the puzzle box, trying to identify any distinguishable constellations.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A approaches Agent B and asks about the book on astronomy they are reading.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes one of the telescopic lenses from Agent C's box to look at the puzzle pieces more closely.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to spread out all the puzzle pieces across the floor, categorizing them by color and pattern.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves Agent C's old astronomy magazines to look for pictures of the night sky to use as a reference.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a smartphone to take pictures of the puzzle and uses an app to identify stars and constellations.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent B and Agent C to turn this activity into a game, seeing who can identify parts of the puzzle using the book and magazines as clues.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the internet for tips on how to solve astronomical puzzles without border pieces.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A impulsively mixes the puzzle pieces again after partially assembling them, seeking to challenge themselves further.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a teenager, finds old family photographs and letters that spark her desire to learn more about her family's past. Agent B, her grandfather, possesses a genealogy book that could hold answers, while Agent C, her cousin, sorts through antique items and documents that might contain additional clues.",
+    "actions": [
+      {
+        "description": "Agent A scrutinizes the photographs and tries to associate the faces with names in the family tree.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C to show her the letters and examines the postmarks and addresses.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks out a history book from the shelf to cross-reference historical events mentioned in the letters.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a workspace with the materials at hand to analyze and draw connections between the pieces of information.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes notes of any recognizable family names or locations that could serve as clues in her search.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online for the locations mentioned in the letters to understand their relevance to her family's history.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves the genealogy book after noticing its spine among the other books.",
+        "values": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A meticulously compares the details in the genealogy book with the information from the photos and letters.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to create a detailed family tree chart using the information gathered to visualize the connections.",
+        "values": [
+          0.75,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, an amateur astronomer, gears up for a stargazing session. The clear night sky and his telescope set by the window invite a potential exploration. Agent D shows interest in the setup, prompting Agent A to consider sharing the experience.",
+    "actions": [
+      {
+        "description": "Agent A sets up the telescope carefully, aligning it for optimal viewing.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent D to look through the telescope and explains its use.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a stargazing app to illustrate the constellations.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent D to write down observations in a notebook.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A explains the mythology behind constellations.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a camera for long-exposure photographs of the sky.",
+        "values": [
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites the family for an impromptu stargazing night.",
+        "values": [
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assembles a sophisticated piece of new equipment.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares interesting astronomical facts.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity"
+    ],
+    "scenario": "Agent A, a well-traveled photojournalist, is in her home office with old maps and travel guides. Agent C, her nephew, is visiting and intrigued by her collection of international artifacts. Agent A engages him using her travel experiences and the objects in the room.",
+    "actions": [
+      {
+        "description": "Agent A opens an old travel journal to share stories of her travels with Agent C.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls down a globe, spinning it to show Agent C the countries she has visited.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes out a magnifying glass to show Agent C the intricate details on an old map.",
+        "values": [
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unboxes a collection of foreign currency for Agent C to inspect and learn about.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects several artifacts and organizes an impromptu treasure hunt in her home for Agent C.",
+        "values": [
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a projector to display photos from various travels to explain different cultures to Agent C.",
+        "values": [
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent C to locate certain landmarks on the antique map.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent C to take pictures of the artifacts he is drawn to most.",
+        "values": [
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A demonstrates to Agent C how to plot a simple travel route on a map using her past itineraries.",
+        "values": [
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  }
+]

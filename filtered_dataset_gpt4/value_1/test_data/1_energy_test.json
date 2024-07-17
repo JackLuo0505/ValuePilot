@@ -1,0 +1,6869 @@
+[
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A wakes up early on a weekend morning inside their urban apartment. The kitchen is prepared for a healthy meal, and roommates Agent B and Agent C are starting their day differently, with one ready for a workout and another just waking up.",
+    "actions": [
+      {
+        "description": "Agent A decides to begin the day by stretching and doing a series of calisthenics.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts together a nutritious and voluminous breakfast from the ingredients laid out on the kitchen counter.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A joins Agent B for the morning workout session outside in the park for fresh air.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A elects to take a power nap during the afternoon to replenish alertness for later activities.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rejects the idea of spending the day indoors and plans a hiking trip in the nearby trails.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites both Agent B and Agent C to participate in a group cooking session to prepare a healthy dinner.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to reorganize the living space for a more efficient and enjoyable living environment.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to take a quick, cold shower to invigorate the senses in the middle of the day.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a freelance illustrator, is in his kitchen prepping for a nutrient-packed smoothie. The kitchen environment is vibrant and conducive to healthful practices, with fresh air, music, and ingredients for a healthy lifestyle. His sister Agent B is reading at the kitchen island, his niece Agent C is playing in the backyard, and Agent D is occupied in the home office upstairs.",
+    "actions": [
+      {
+        "description": "Agent A prepares a smoothie with exotic fruits and superfood ingredients.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A switches from jazz to high-tempo dance music.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows to let in fresh air.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills the water pitcher to ensure hydration.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A performs a quick workout routine in the living room.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A spends time gardening for sunlight and physical activity.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to stand while working in his home studio.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets an alarm as a reminder to take breaks.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a short nap on the couch.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A and Agent B are in their home on a weekend morning with the intention of leading a healthier lifestyle. The environment is ready for them to engage in physical and nutrition-focused activities.",
+    "actions": [
+      {
+        "description": "Agent A stands up, stretches, and invites Agent B to join him for a morning workout in the park.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to prepare a nutritious breakfast for himself and Agent B using the ingredients in the kitchen.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to his room, changes into comfortable exercise clothes, and fills a backpack with water and snacks.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a deep breath of the fresh air from the open window, feeling energized to start the day productively.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent B that they should sign up for the gym membership mentioned in the brochure.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A skims through the healthy meal plan, making a grocery shopping list for later.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits down and creates a workout schedule for the week to keep track of their fitness goals.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to spend the morning lounging on the couch, not feeling motivated to exercise or eat healthily.",
+        "values": [
+          0.0,
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a nap on the couch, still tired and choosing extra rest over exercise.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is preparing a meal in the kitchen, which is filled with healthy food options and exercise plans. Agent B grabs a water bottle, while Agent C rests on the couch after exercising. The environment is tranquil, and Agent A is focused on creating a nutritious dinner, indicating a routine that encourages a balanced lifestyle.",
+    "actions": [
+      {
+        "description": "Agent A consumes the nutritious meal they have prepared.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B and Agent C to join in the meal.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "After the meal, Agent A cleans up the kitchen.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A refills their water bottle and drinks it.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows to allow more air in the room.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits down to plan the next day's meals and exercise.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A packs gym clothes for the next day's workout.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a protein shake for post-workout recovery.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proceeds to complete the daily workout routine.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, an amateur marathon runner, starts the morning by filling a water bottle, donning sportswear, and preparing for a long run. The kitchen displays a clean smoothie maker and a high-protein snack from the fridge. Agent A focuses on a healthy routine while household members are still resting.",
+    "actions": [
+      {
+        "description": "Agent A drinks a full glass of water before leaving the house.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A eats the high-protein snack for sustained release of sustenance during the run.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stretches thoroughly to prevent muscle strain.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets off for a long, paced run around the neighborhood.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A focuses on deep breathing exercises while running to improve air circulation.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A returns home and prepares a nutritious post-run meal.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a cool down walk to lower the heartbeat gradually.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews and logs the running metrics from their fitness tracker.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A hydrates steadily throughout the morning post-run.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "The fitness enthusiast, Agent A finds the house in silence with indications of his housemates' hurried mornings. Blender on the counter, dumbbells on the floor, and a spinning washing machine set a chaotic scene. He prepares to navigate his day focusing on his well-being amidst these signs of disarray.",
+    "actions": [
+      {
+        "description": "Agent A puts away the dumbbells and rolls up the yoga mat left by Agent C, creating a neat space for his workout.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to refill his water bottle and make sure he stays hydrated throughout the day.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows to let fresh air circulate in the living room before starting his workout.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts on his favorite workout playlist to energize his home exercise routine.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares his own nutritious post-workout meal.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a note to Agent B and Agent C, about a daily house tidying schedule.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the laundry progress and moves the finished load to the dryer.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts an interval training workout using the open space in the living room.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans his sleep schedule for a full night's rest.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A finds a healthy breakfast recipe, while Agent B has a protein shake, and Agent C prepares for an outdoor family breakfast, ensuring a setting that promotes nutritious eating and active lifestyle.",
+    "actions": [
+      {
+        "description": "Agent A crafts an oatmeal bowl with nuts and fruits, focusing on a balanced diet.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Leads the family in a stretching routine, encouraging physical activity.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Checks water bottles for adequate hydration.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Opens kitchen windows for fresh air.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Organizes a family walk in the park.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Takes a short nap to recharge for the day.",
+        "values": [
+          0.0,
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Prepares a vegetable-rich lunch with Agent B.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Engages family in a cleaning session.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Prepares green tea for relaxation before sleep.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in their home kitchen, perusing a cookbook for new recipes to try. With fresh ingredients spread out on the counter, they seem poised to embark on a culinary adventure. Agent B is at the dining table, looking on curiously, while Agent C reads in the living room, with fresh air flowing in through an open patio door.",
+    "actions": [
+      {
+        "description": "Agent A decides to prepare a complex, nutritious meal that requires careful preparation and timing.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts for a quick and easy snack instead of a full meal to save time.",
+        "values": [
+          0.0,
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a vigorous kitchen cleanup, organizing ingredients and tools for efficient space use.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ignores the available fresh ingredients and orders takeout.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to step outside for fresh air before beginning to cook.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to blend a variety of smoothies for an immediate nutritional boost.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agents B and C to join in preparing the meal for a collaborative effort.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a system to remind themselves to drink water throughout the day.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides against the use of fresh ingredients, utilizing only pantry staples.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is sitting in the kitchen where Agent B is preparing breakfast and Agent C is setting the table. Fresh produce is laid out on the counter, sports gear is visible in the living room, and the windows are open allowing fresh air inside. Agent A has returned from a jog and appears tired, possibly from insufficient rest.",
+    "actions": [
+      {
+        "description": "Agent A refills the water filter pitcher for breakfast hydration.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps make a fruit smoothie for breakfast.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A does post-jog stretching on the yoga mat.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a short rest on the couch.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A does a quick jump rope session before breakfast.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins eating breakfast with Agent C.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A steps outside for more fresh air before breakfast.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent C set the table.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a family hike for later in the day.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast in their late twenties, lounges in their well-lit living room on a Saturday morning, while Agent B prepares a healthy breakfast in the kitchen, and Agent C sits on the sofa. The environment is equipped for an active lifestyle, with sports equipment and signs of healthy living present.",
+    "actions": [
+      {
+        "description": "Agent A grabs a fruit from the basket to quickly snack on.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to turn off the music to create a calmer environment for their upcoming yoga practice.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins a series of stretches and rolls out their yoga mat.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A refills their water bottle from the kitchen tap, ensuring they stay hydrated.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a timer for their planned 30-minute high-intensity interval training (HIIT) session.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens additional windows to let in more fresh air, aiming to enhance the room's ventilation.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to join them in their workout, offering to guide them through a partner exercise regimen.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to skip the workout today, despite having planned for it, feeling less vigorous than usual.",
+        "values": [
+          0.0,
+          -0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to call it a day and nap on the couch after feeling a wave of exhaustion.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A wakes up in a shared house on a Saturday morning prepared to engage in the day's activities. With running trails nearby, a kitchen stocked with nutritious food, and a housemate skilled in yoga, Agent A is surrounded by opportunities to maintain a balanced lifestyle. The weather is inviting, encouraging outdoor activities.",
+    "actions": [
+      {
+        "description": "Agent A dons their running shoes and sets out for a jog on the recommended trail.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a nutritious breakfast for themselves and their housemates.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A joins Agent C for a morning yoga session.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills up a water bottle, ensuring hydration is maintained throughout the day.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ventilates the house, opening all the windows to let in fresh air.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pushes Agent B to embark on a longer run while promising companionship.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brief nap to recover after the morning's exertion.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A skips a high-intensity workout inviting for relaxation.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A spends time planning a week's worth of balanced meals.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a college student, contemplates cooking a nutritious and energizing meal in the kitchen. Roommate Agent B returns from a jog wanting a protein-rich smoothie, and Agent C desires to join them for lunch.",
+    "actions": [
+      {
+        "description": "Agent A decides to prepare a balanced meal with fresh vegetables and lean protein.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets out a pitcher of water on the table for hydration.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a 20-minute power nap before cooking.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows for fresh air while eating.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A partakes in a brief yoga session to boost mood.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cooks extra to have leftovers and avoid cooking later.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A skips the nap for elaborate meal prep, taking more time.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a long hot shower before lunch to refresh.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses meal preferences with Agent C for a pleasant lunch.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is a keen gardener, spending his Sunday at home to tend to his backyard vegetable patch. The sun has just begun warming the garden soil as he meticulously sows new seeds and waters the pots, with plans to repair the broken fence once finished.",
+    "actions": [
+      {
+        "description": "Agent A decides to take a break from gardening and join Agent B and Agent C for breakfast to refuel.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes back to the garden to continue planting after eating breakfast.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A repairs the broken fence to protect his garden from animals.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A collects rainwater in barrels for a more sustainable watering system for the plants.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to spend the rest of the afternoon weeding the garden to provide his plants with a better growing environment.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A skips his usual gardening routine to rest because he feels physically exhausted.",
+        "values": [
+          0.0,
+          -0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a new compost system to enhance the soil quality with organic matter.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a walk around the neighborhood to get some fresh air before returning to his gardening tasks.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes his garden tools and cleans the shed to ensure everything is in order for the next day.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast, comes home after a 10K run. She's in a sunny kitchen where Agent B is looking at new recipe books and Agent C is on his smartphone. She needs to eat, hydrate, and recuperate.",
+    "actions": [
+      {
+        "description": "Agent A decides to take a quick shower to freshen up after her run.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins flipping through a recipe book to find a post-run meal.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts prepping ingredients for a new smoothie recipe she's found.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up the dining table for a shared brunch with Agents B and C.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to stretch out her muscles on the patio to cool down.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to lie down on the couch, resisting the urge to eat or drink immediately.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A strikes up a conversation with Agent B regarding nutritious meal planning.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes online to search for local cooking classes they could attend as a group.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast, is pacing in their home considering activities related to physical well-being while their roommates, Agent B and C, prep meals and indulge in health-related reading respectively.",
+    "actions": [
+      {
+        "description": "Agent A decides to join Agent C for a cool-down stretching session after Agent C's jog.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a recipe they found online to cook a nutrient-rich meal for themselves and the roommates.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts putting together a grocery list that includes all the necessary items for the week's healthy meal plan.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a new workout challenge chart on the wall for all the roommates to participate in.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes for a long bike ride through the neighborhood for aerobic exercise.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agents B and C to join in a meal planning session to discuss their dietary needs and preferences.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reorganizes the kitchen for easier access to healthy snacks and meal prep essentials.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A meticulously preps ingredients for the week, portioning out servings of lean proteins and vegetables.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads a yoga session in the living room, adjusting the air flow for optimal comfort.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is preparing for a marathon training run in the kitchen by making a nutritious smoothie with an assortment of fruits and vegetables, arranging a water bottle, and gathering necessary gear while Agent B sorts supplements and Agent C grabs a yoga mat and sips water.",
+    "actions": [
+      {
+        "description": "Agent A blends a mixture of fruits, vegetables, and a scoop of protein powder to create a nutritious smoothie.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills up a water bottle to ensure hydration during the run.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A performs a quick series of dynamic stretching exercises to warm up.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jogs in place to establish a running rhythm.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a reminder to ensure going to bed early for quality sleep.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A routes the run through multiple parks for cleaner air intake.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a breathable outfit for the run.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the weather forecast to avoid peak heat hours.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to incorporate regular walking breaks into the run.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is actively working in the garden, tending to plants and thinking about the next tasks, while feeling the effects of a warm summer's day. Agents B and C are nearby, engaged in their leisure and occasionally observing Agent A's work.",
+    "actions": [
+      {
+        "description": "Agent A fills the watering can and waters the plants methodically.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a new compost pile with organic waste.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates shaded areas for comfort and plant protection.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a nourishing smoothie from garden produce.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A involves Agent C in gardening by teaching potting.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts a jogging inspection of the garden perimeter.",
+        "values": [
+          0.0,
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a weekly exercise routine incorporating gardening.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A implements a rainwater collection system for the garden.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A does stretching exercises after a long period of gardening.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast, prepares a protein shake after a morning run. Agent B is on her phone, and Agent C is napping. The setting includes a kitchen with healthy foods, a living room with workout equipment, and fresh air flowing into the home.",
+    "actions": [
+      {
+        "description": "Agent A drinks the protein shake he prepared to replenish after the run.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A refills his water bottle from the purifier to stay hydrated.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to the backyard to breathe in fresh air and stretch.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a quick workout session with free weights.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a quick shower to refresh himself.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the fridge to plan a balanced meal for lunch.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A maps out a new running route for tomorrow.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches his yoga mat and starts a series of poses.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a grocery list emphasizing whole foods for the week.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in the kitchen of their family home early on a Saturday morning, planning a nutrient-packed breakfast after a morning jog. They are searching for a smoothie recipe and surrounded by healthful food options and fresh air.",
+    "actions": [
+      {
+        "description": "Agent A decides to make a high-protein smoothie using nuts, seeds, fresh spinach, and a banana.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills various containers with water to take with them as they plan to spend the day outdoors.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to wake up Agent C by opening the curtains in the guest room to let in natural light.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A heads to the backyard to do a series of yoga poses, inviting fresh air into their lungs.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to avoid the freshly baked cookies on the counter, selecting almonds instead.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a challenge with Agent B to see who can complete the most steps by the end of the day.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts preparing a grocery list that focuses on healthful food options.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "After hydrating and eating, Agent A plans a midday break for a 20-minute power nap to refresh themselves.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to cycle to the local farmer's market instead of driving.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a track and field athlete, is unwinding at home after an exhilarating morning training session. Agent B is prepping a nutritious breakfast and Agent C is lounging and scanning through fitness magazines. The living room is bright and offers a setting for rest and nutrition with easy access to the track outside and a hydration station inside.",
+    "actions": [
+      {
+        "description": "Agent A decides to replenish by grabbing a glass of water from the hydration station.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to stretch and perform cool-down exercises near the sunny patio to promote recovery.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A could prepare a protein shake to aid in muscle repair after the intense practice session.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans to check the refrigerator for ingredients to make a balanced, nutrient-rich lunch later.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to join Agent B in the kitchen to learn about healthy breakfast options.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects an informative magazine from the coffee table to read up on new training techniques.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A feels compelled to step outside and walk through the backyard for a bit of fresh air.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A is motivated to call a sports nutritionist to seek advice on proper dietary habits.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast, begins their day in a household where others are sleeping, by engaging in activities that maintain their well-being without disturbing the rest.",
+    "actions": [
+      {
+        "description": "Agent A fills up a water bottle and drinks it to hydrate before the morning run.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A quietly prepares a nutritious pre-run breakfast.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows to allow fresh air into the kitchen.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the weather to decide on the appropriate clothing for the run.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A laces up running shoes and performs a series of dynamic stretches.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a note to Agent B and Agent C about the run.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a scenic route through nature trails for fresh air enjoyment.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to take the stairs instead of the elevator.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to increase the difficulty of the run with sprints and hill climbs.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A prepares for a marathon while Agent B cooks breakfast and Agent C tends to the garden. Each maintains a routine that aligns with their active lifestyles. The smell of breakfast and the sight of running gear prompt a morning filled with intention for Agent A.",
+    "actions": [
+      {
+        "description": "Agent A carefully plans a nutritionally balanced pre-run meal to maximize performance.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A drafts a new training schedule focused on increasing stamina for the upcoming marathon.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a personal challenge of adding extra miles to today's training.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A meticulously records all food and water intake to track nourishment levels.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads Agent B and Agent C in a morning stretching routine.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides against an invitation to a late-night party to get enough rest before the marathon.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A replaces old running shoes with a new pair to prevent injury.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a scenic and less populated route for a run to breathe in the clean air.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to run during a cooler part of the day to avoid heat exhaustion.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast, wakes up early on a Saturday morning in the family home and begins their day focused on a morning workout routine in their home gym while the rest of the household is still asleep.",
+    "actions": [
+      {
+        "description": "Agent A fills a water bottle to stay hydrated during their workout.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins a series of dynamic stretches to prepare their body for exercise.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up an exercise circuit for a full-body routine.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows in the gym room to allow fresh air to circulate.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a protein-rich breakfast to replenish their body after exercising.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a short power nap to recover from the intense workout.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes for a walk in the garden to cool down and enjoy the outdoors.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a new workout playlist for future exercise sessions.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes an exercise log to track their fitness progress.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A enters the kitchen where Agent B is making a smoothie and Agent C is looking at cookbooks for a post-workout meal. The scene hints at a day centered around maintaining a robust lifestyle.",
+    "actions": [
+      {
+        "description": "Agent A selects healthy ingredients to prepare breakfast.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills a water bottle for hydration.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens windows to let in fresh air.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares yoga mats for a pre-exercise stretch.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cooks with Agent B and C, discussing a balanced diet.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules a midday rest interval.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites B and C for a hike to enjoy the outdoors.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans meals for the week on a tablet.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans an early bedtime for full rest.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In a kitchen post-workout, Agent A prepares a nutritious smoothie, while Agent B is uninvolved, sipping coffee.",
+    "actions": [
+      {
+        "description": "Agent A measures protein powder for their smoothie.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rhythmically chops bananas and spinach for their smoothie.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A promptly cleans the blender after usage.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A consumes the smoothie in large gulps.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stretches to aid the absorption of nutrients.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens windows for fresh air.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A refills a water bottle for day-long hydration.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a daily movement goal on their fitness tracker.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a balanced lunch mentally.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In the suburban home kitchen early one morning, Agent A, a health-conscious fitness enthusiast, is embarking on their daily routine. The kitchen is airy, with sunlight streaming through an open window; a variety of colorful fruits and vegetables are neatly arranged on the counter next to a high-powered blender.",
+    "actions": [
+      {
+        "description": "Agent A begins chopping the assortment of fruits and vegetables for a smoothie.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills a glass with water from the filter tap and drinks it.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the window wider to let more fresh air into the kitchen.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A does a series of quick exercises like push-ups and jumping jacks next to the kitchen island.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets out their yoga mat next to Agent C and starts a series of sun salutations.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A consults a cookbook for a new healthy breakfast recipe.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brief power nap on the living room couch.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes down their food and water intake in a health journal.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to make extra smoothie to share with Agents B and C.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a middle-aged marathon runner, lives in a suburban home with a well-equipped kitchen, a home gym, and a lush backyard. The morning sun streams through the open windows, bringing with it the sound of birds and the rustle of trees. Agent A stands in the kitchen, surveying the contents of the refrigerator: a variety of fresh vegetables, fruits, lean meats, and bottles of water. Next to the fridge, a selection of dietary supplements is neatly arranged on the counter.",
+    "actions": [
+      {
+        "description": "Agent A prepares a balanced breakfast with an assortment of fruits and protein.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills a large water bottle to maintain hydration throughout the day.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls on workout attire and laces up running shoes for a morning jog.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges a nutritional plan for the upcoming week.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens all the windows to allow maximum fresh air into the house.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts for a quick nap to recover from an early morning workout.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs an exercise mat and starts a relaxing yoga session in the backyard.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A drinks a homemade post-workout smoothie, packed with nutrients.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a family outing that includes a brisk walk at a nearby park.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In a suburban home before dawn, Agent A, an early riser, prepares for the day with a focus on personal well-being. She considers her morning routine in the tranquil environment of her living room, near a yoga mat and a set of free weights, while her roommates are still asleep. The kitchen is ready for a healthy breakfast and a book about calisthenics rests on the dining table.",
+    "actions": [
+      {
+        "description": "Agent A fills her water bottle to ensure hydration during her activities.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins her day with yoga, starting a sequence of poses.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A steps outside for a brisk jog, breathing in the morning air.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews new exercises from a calisthenics book for her routine.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans her meals for the day, aiming for nutritional balance.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A does a strength training session with the free weights.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A meditates for mental clarity in the early morning quiet.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a to-do list with scheduled workout rest periods.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in the kitchen preparing to make a healthy breakfast bowl. The room is set up with various health-oriented items like a yoga mat and a water filter. Agent B is working at the dining table. The environment is primed for a day of productivity with an emphasis on maintaining physical well-being.",
+    "actions": [
+      {
+        "description": "Agent A begins slicing the vegetables methodically for the breakfast bowl.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "After preparing the fruits and vegetables, Agent A fills a large pitcher with filtered water to place on the dining table.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A steps onto the yoga mat and proceeds to do a series of stretches and breathing exercises.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a blender to prepare a nutritious smoothie with the previously cut fruits.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Deciding to stock up on healthy supplies, Agent A compiles a shopping list from the diet planner.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a glass of water beside Agent B, acknowledging their work focus.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the window further to allow more ventilation while starting to cook.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "After the meal, Agent A proposes a short walk outside with Agent B to refresh before they continue working.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a quick cleanup to maintain the cleanliness and orderliness of the kitchen.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, who has returned home from a day of manual labor, encounters the enticing aroma of dinner in the kitchen where Agent B is cooking and Agent C descends the stairs, appearing fatigued after studying. The setting hints at an impending family mealtime with opportunities for restorative activities.",
+    "actions": [
+      {
+        "description": "Agent A begins to eat the nutritious meal.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A hydrates themselves with lemon water.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unwinds in the garden for fresh air.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gets an early night's rest.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a walk post-dinner with Agent C.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A performs light exercises to relieve muscle tension.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses fruit for dessert.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages daily hydration.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares dinner ensuring everyone is well-fed.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A comes home from work and observes Agent B cooking a healthy meal and Agent C hydrating after a jog. With an open window providing fresh air and the house stocked with nutritious options, Agent A is in an environment that promotes a healthy lifestyle.",
+    "actions": [
+      {
+        "description": "Agent A changes into workout attire for an evening gym session.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a protein shake using ingredients from the kitchen.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a bottle of water from the refrigerator to stay hydrated.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects an apple from the fruit bowl for a quick snack.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to help Agent B in the kitchen with meal preparation.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stretches in the living room before heading to the gym.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows wider to allow more fresh air into the apartment.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A downloads a new fitness app for workout tracking.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets an early bedtime on a smart device to ensure ample rest.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A wakes up early on a bright Saturday morning in a quiet house. As the first to rise, they encounter a scene in the kitchen with three water bottles, a bowl of fresh fruit, a workout routine on a notepad, and an open window that lets in a breeze and the scent of a garden. Agent B and Agent C are still asleep, giving Agent A the opportunity to begin their day focused on their personal routine.",
+    "actions": [
+      {
+        "description": "Agent A fills up a water bottle and drinks, hydrating after a night's rest.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A eats an apple for a quick, nutritious start.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A follows the workout routine, starting with stretches and exercises.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows to ensure good airflow.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns up lively music to energize the atmosphere.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A changes into workout attire for a vigorous session.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rolls out a yoga mat for a comfortable exercise space.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jogs in place to warm up before intense activities.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in the kitchen, preparing to make a smoothie with healthy ingredients, with morning sunlight coming through the windows. Agent B is at the breakfast bar, looking at their phone, while Agent C exercises in the living room. The windows are open, letting in fresh air, setting the scene for a day of well-being.",
+    "actions": [
+      {
+        "description": "Agent A decides to prepare a well-balanced smoothie using the fruits, vegetables, and protein powder.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to skip breakfast entirely, choosing only a cup of coffee.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to stretch and do a series of calisthenics.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns on lively music and encourages others to join in a dance session.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retreats to the bedroom for a mid-morning nap, ignoring exercise.",
+        "values": [
+          0.0,
+          -0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows for maximum air circulation.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins meal prepping for the week with nutritious meals.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A watches TV for an hour, ignoring the exercise equipment.",
+        "values": [
+          0.0,
+          -0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites others to a group yoga session in the living room.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is prepping vegetables for a stew in the kitchen, while Agent B sips water and reads a cookbook at the table, and Agent C ties shoes for a jog in the naturally lit living room.",
+    "actions": [
+      {
+        "description": "Agent A carefully chopping vegetables to add to the stew.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A filling a pitcher with water to stay hydrated while cooking.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A setting out plates and utensils for the meal.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tidying up the cooking area to keep it organized.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A taking a few moments to stretch before continuing to cook.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A planning the next day's meal for balanced nourishment.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opening more windows to allow more air circulation.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A doing quick push-ups or jogging in place for a burst of activity.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A alternating standing and sitting while cooking to avoid being static for too long.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In the kitchen of their apartment, Agent A is meticulously preparing her weekly meals to maintain her well-being, while Agent B is caught up in work, and Agent C is engaged with social media. The smell of healthy cooking fills the spaces.",
+    "actions": [
+      {
+        "description": "Agent A decides to portion out her meals into individual containers for the week.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to dig into her freshly made salad, forgoing the meal prep for the moment.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brief break from meal prepping to lead Agent B through a quick stretch routine.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows widely to let fresh air circulate through the kitchen and living room.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A, feeling rejuvenated after a short walk outside, returns to finish her meal prepping.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets aside a portion of her meal to share with Agent C, who shows interest in her healthy recipes.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A blends together a homemade fruit smoothie to keep herself hydrated.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits down to calculate her nutrient intake for the day to ensure a balanced diet.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to join her for an early morning jog the next day.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast, is making a healthy meal in the kitchen of a shared apartment. Agent A observes the cluttered living room with personal sports equipment and breathes the fresh evening air through the slightly open windows.",
+    "actions": [
+      {
+        "description": "Agent A invites Agent B and Agent C to join in a shared exercise session.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to conduct a solo workout session using the sports equipment in the living room.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans and organizes the living room space to create a better environment for daily workouts.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to cook a healthy meal for Agent B and Agent C as well.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows to increase air circulation in the apartment.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to bed early to ensure a full night's rest.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses the sports equipment to set up an obstacle course for fun physical activity.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules a daily workout routine and invites B and C to attend.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches for local places where they can engage in outdoor activities.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "The sun illuminates the kitchen where Agent A is rinsing fruit and vegetables. Agent B is engrossed in a magazine, and Agent C's workout can be heard upstairs. A stir-fry cooks on the stove, and water bottles await their owners.",
+    "actions": [
+      {
+        "description": "Agent A fills a water bottle and takes a long drink.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plates the stir-fry for Agent C to have after finishing the workout.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows to allow more fresh air into the kitchen.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes upstairs to offer Agent C a towel or a drink.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pauses cooking to practice some standing yoga poses.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to rejuvenate by taking a short nap.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A snacks on a piece of fruit during meal preparation.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brisk walk outdoors post-meal.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a meal in advance for the next day’s lunch.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A begins the day in the kitchen, with sportswear on and a nutritious breakfast ready, exemplifying preparedness for a day of physical activity. Agent B and Agent C are also starting their morning in the adjacent living space.",
+    "actions": [
+      {
+        "description": "Agent A fills their water bottle for hydration.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A eats a planned nutritional breakfast.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows to allow sunlight and fresh air.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A performs a series of exercises and stretches on a yoga mat.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brisk walk in the neighborhood after eating.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a power nap replenishing after morning exercise.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans and prepares balanced meals for the week.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A declines snacks offered by Agent B.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plays upbeat music during their workout.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in the kitchen preparing a meal. On the countertop are fresh vegetables, lean proteins, and whole grains, laid out for a well-balanced lunch. Agent B is lounging on the sofa in the living room, watching a nature documentary. Agent C has just returned from a jog and is sipping on a bottle of water, refreshing after the exercise. The windows are open, allowing the fresh spring air to circulate through the home. The sun is bright, bathing the rooms in warm light. Notably, there's a blender, running shoes, and a yoga mat in the living room corner.",
+    "actions": [
+      {
+        "description": "Agent A uses the blender to make a nutrient-rich smoothie with fruits and vegetables.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up the table with plates and cutlery, indicating the intent to share the meal with Agents B and C.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans up the kitchen workspace meticulously after meal prep, maintaining a hygienic environment.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jots down the recipe and nutritional content of the meal prepared, to keep track of dietary intake.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows to let in additional fresh air into the home.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calibrates a new fitness watch to monitor daily activity levels.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a pitcher of water infused with lemon and mint, to keep within reach during the day.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a break to perform a series of stretching exercises using the yoga mat.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to schedule a time later in the day for both to do a workout together.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a 34-year-old marathon runner, has just returned from a morning run. She joins her spouse, Agent B, and child, Agent C, in the kitchen where they are preparing food that supports their active lifestyle.",
+    "actions": [
+      {
+        "description": "Agent A makes a recovery shake from banana, berries, and protein powder.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A focuses on soothing muscles with a temperature-regulated shower.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A wears compression gear and takes a nap to aid muscle recovery.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A hydrates with electrolyte-infused water and sets a sip timer.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in a post-run stretch routine on a yoga mat.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A optimizes her performance by planning her next training session.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks snacks like almonds and fruit for nutrient release.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A subscribes to a magazine for training techniques and nutrition tips.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A records her heart rate in a health log.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a high school cross-country runner, is in the kitchen making a post-workout smoothie with various fruits and vegetables. Agent B is organizing the pantry, while Agent C briefly enters the kitchen to get water and acknowledges Agent A. The kitchen has an open window allowing fresh air in.",
+    "actions": [
+      {
+        "description": "Agent A carefully washes the fruits and vegetables before using them.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A methodically measures each smoothie ingredient for optimal nutritional benefit.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans the blender immediately to avoid residue buildup.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares extra smoothie portions to refrigerate for later.",
+        "values": [
+          0.0,
+          -0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens additional windows in the kitchen for more air circulation.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a comfortable dining area near the window.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a brief, post-meal walk outside.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a quick stretching routine in the kitchen.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a cookbook to find new smoothie recipes.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In a lively home kitchen, a high school soccer player, Agent A, returns from training. Agent B bakes while Agent C gardens outside. The environment boasts nutritious foods and an atmosphere primed for rest and recovery.",
+    "actions": [
+      {
+        "description": "Agent A drinks a large amount of water to replenish fluids.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A slices fruit for a healthy snack.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assists Agent B with mixing granola.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A consumes a banana for quick nourishment.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in cooldown stretches.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A breathes fresh air while tending to the garden with Agent C.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a nutrient-packed smoothie.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A peruses recipes for a wholesome meal.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reclines for a brief rest on the couch.",
+        "values": [
+          0.0,
+          -0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is a marathon runner in her mid-twenties, living in a suburban house with a spacious backyard. Her brother, Agent B, is a freelance graphic designer, and their retired mother, Agent C, enjoys gardening. The sun is peeking over the horizon and a soft glow enters Agent A's room. She laces her running shoes, drinks water, and grabs a banana on her way out. Agent B is making coffee, its aroma filling the house. Agent C waters the plants, the sound of water blending with the morning serenity. Agent A steps into the backyard, ready to start her day.",
+    "actions": [
+      {
+        "description": "Agent A thoroughly stretches on the back deck before beginning her run.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes several deep breaths of fresh morning air.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts her morning run at a brisk pace around the neighborhood.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A keeps a water bottle with her during her run.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A returns home and prepares a protein-rich breakfast.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a cool shower after her run.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans her meals for the day for a balanced diet.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to take a short nap to recuperate.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to skip her nap, ignoring her body's signals.",
+        "values": [
+          0.0,
+          -0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in her home kitchen, where she is chopping fruits and vegetables for meal preparation with the windows open and a yoga mat visible. Agent B observes the water pitcher, while Agent C reads in the living room. The time suggests an upcoming evening jog is routine.",
+    "actions": [
+      {
+        "description": "Blend a selection of the chopped fruits into a nutritious smoothie.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Fill up a reusable water bottle to take on the evening jog.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Invite Agent B and Agent C to join in the jog for companionship and motivation.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Look up a new recipe to incorporate an unfamiliar vegetable in a creative way.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Set an early alarm for tomorrow to ensure a timely start to the day.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Complete a brief stretching routine before the jog to prevent injury.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Plan a menu for the week that includes all the fresh produce.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Discuss with Agent B the best time for their next grocery run to replenish supplies.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Opt to skip the jog today because of feeling unusually tired and decide to rest instead.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a marathon runner, is in the kitchen preparing a meal. Agent B, a freelance photographer, searches the fridge for a snack. Agent C, a high school student, works on homework at the table. Fresh air streams in from the open windows, and Agent A takes a moment to enjoy it.",
+    "actions": [
+      {
+        "description": "Agent A meticulously chops vegetables for her salad to ensure a variety of nutrients.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills up a large water jug to keep by her side throughout the evening.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets multiple alarms for stretching exercises as a reminder during her meal prep.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A consults a nutrition app for meal recommendations that might further be beneficial after her run.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs a light snack high in protein before starting to cook her main meal.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to sit at the table, maintaining a good posture, while eating her meal without hurry.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts for making a homemade smoothie with fruits and vegetables for added nutritional value.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to step outside for a few minutes to get more fresh air while waiting for her food to cook.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a 10-minute meditation session after the meal to promote mental relaxation and repair.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in a sunlit kitchen choosing what to make for breakfast with various ingredients laid out on the counter and a garden of fresh herbs outside. Agent B is still sleeping but will wake soon.",
+    "actions": [
+      {
+        "description": "Agent A prepares a large batch of smoothies using various fresh ingredients.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes an elaborate brunch for themselves and possibly others.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks a simple fruit salad for its quick and refreshing nature.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A heads outside for a brisk walk in the garden to pick fresh herbs.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in meal prepping for the upcoming week.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A does kitchen-counter push-ups while waiting for coffee.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a shopping list focused on nutritious food items.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to brew a pot of green tea over strong coffee.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks through a cookbook for a new healthy recipe.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, an enthusiastic home chef, is prepping for a big family dinner, staying hydrated, and planning a post-dinner workout. Agent B is stretching in the living area while Agent C brings in fresh garden produce. The kitchen is alive with cooking, and the agents are excited about a healthful meal together.",
+    "actions": [
+      {
+        "description": "Agent A sets a timer for the food in the oven and dashes for a quick 20-minute outdoor jog.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stands by the open window to take deep breaths while stretching.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a mini food plating competition with Agent B and C.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to replace dessert with a fruit salad.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A convinces Agents B and C to join in for a group yoga session before dinner.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brief power nap to rejuvenate before the guests arrive.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads a hydration challenge, encouraging everyone to finish a bottle of water before mealtime.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A declines Agent B's offering of soda, choosing herbal tea instead.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages a family dance-off to lively music for fun and to stay active after dinner.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A gets up early to tend to his backyard garden, considering whether to begin his morning exercise routine or to continue with gardening activities. The setting of the house includes a stocked kitchen ready for breakfast preparation, and his roommate is expected to join him for a workout session soon.",
+    "actions": [
+      {
+        "description": "Agent A waters the plants in his garden.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prunes overgrown tomato plants.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A harvests vegetables and herbs.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A treats any plant diseases or pests.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up an outdoor workout area.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a smoothie from garden produce.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to relax and breathe in the garden.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a bird feeder.",
+        "values": [
+          0.0,
+          -0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A wakes up Agent B for their workout.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a fitness enthusiast, arrives home from work and is greeted by the smells of dinner being prepared by Agent C and the sounds of Agent B watching a football game. Agent A feels hungry but is also mindful of their lack of physical activity for the day. They are at a crossroads of choosing between satisfying their hunger or adhering to their workout routine.",
+    "actions": [
+      {
+        "description": "Agent A changes into workout attire and begins a HIIT session in the living room.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to go for a quick run around the neighborhood before dinner.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to join a live-streamed yoga class.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A performs a series of push-ups and sit-ups in their bedroom.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs a jump rope and starts a jump-rope session in the garage.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to take a comprehensive stretching session.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A does breathing exercises after opening the windows.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A joins Agent B, doing squats and lunges during the halftime show.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a bottle of water and drinks deeply.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a nutritionist who enjoys maintaining an active lifestyle, returns from a jog to find his roommates, Agent B and Agent C, engaged in their respective activities. He contemplates various health-focused activities while navigating the spaces of their home.",
+    "actions": [
+      {
+        "description": "Agent A decides to prepare a nutritious breakfast for himself using the ingredients available in the kitchen.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to join for an outdoor fitness class to show support for their culinary pursuits.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans up the living room, picking up the empty takeout boxes and soda cans to create a tidier environment.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows to let fresh air circulate through the house, especially around Agent C's workspace.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A politely suggests to Agent C the benefits of a cleaner workspace for mental clarity.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A heads to the nearby farmers' market to shop for fresh ingredients for the week's meal prep.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes the kitchen pantry, optimizing the arrangement to make healthy food choices more accessible.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to take a brief nap to compensate for the early morning activities and regain alertness for the rest of the day.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans and executes an effective workout routine in the backyard, using the space to enhance physical well-being.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is a freelance photographer who has been working all day at home. As evening approaches, Agent B begins to prepare dinner, while Agent C takes a break from homework. Agent A feels fatigued and needs to change the room's lighting to maintain productivity.",
+    "actions": [
+      {
+        "description": "Agent A turns on the lights in the home office.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brief walk outside.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A hydrates with a glass of water.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assists with meal preparation.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to relax and stop working for the day.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a reminder to stretch every hour while working.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A works at a standing desk to avoid sitting.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a family workout session before dinner.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares for an early bedtime to rest fully.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is preparing a breakfast omelet and has set up a yoga mat for a morning exercise routine; Agent B is watering plants, letting fresh air into the kitchen; Agent C is reading in the living room. The atmosphere suggests a day begun with a focus on well-being.",
+    "actions": [
+      {
+        "description": "Agent A decides to add spinach to his omelet for an extra boost of nutrients.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills up a water bottle to keep hydrated.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows wider to let in more fresh air while he eats.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to make a large batch of smoothie to share with his family.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminds Agent C to drink water.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a schedule on the fridge for family workouts.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to take a 20-minute power nap.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks his watch to ensure he sleeps 8 hours tonight.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs the yoga mat to start his morning stretching routine.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A begins the day in a sunny kitchen, considering the fresh fruit and whole grains on the table. Agent B reads the newspaper while Agent C packs a bag for an outing. The household is vibrant with early activity, and external cues suggest a focus on an active and well-maintained lifestyle.",
+    "actions": [
+      {
+        "description": "Agent A prepares a nutritious breakfast with fruits and whole grains.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills a water bottle for hydration.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the house windows to let in more fresh air.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides on a morning jog for exercise.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a stretching and deep breathing break.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks through cookbooks for healthy meal planning.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tends to the backyard vegetable garden.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a reminder for early bedtime.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a bike race to Agent C.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is a fitness enthusiast preparing for his morning workout regimen in the kitchen with fresh produce and water, while Agent B and C are occupied with their tasks. The environment is calm, with fresh morning air and an open space for exercise.",
+    "actions": [
+      {
+        "description": "Agent A fills his water bottle from a filter pitcher and takes a long drink.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a variety of fruits and vegetables to make a nutritious smoothie.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A laces up his running shoes, signaling preparation for a morning jog.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews a workout plan sketched out on a whiteboard hanging on the fridge.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rolls out a yoga mat in the sunlit spot of the living room for a stretching routine.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A strides to the window to take several deep breaths, ensuring regular fresh air intake.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a fitness tracker to monitor his heart rate and activity levels.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a reminder on his phone for a mid-day break to walk around and avoid prolonged sitting.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jots down a grocery list focused on replenishing his stock with healthy options.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is in the kitchen, restless and aware of the approaching lunch hour. Agent B is absorbed in a book in the living room. The scent of spices from dinner the night before lingers in the air. The fridge hums, and a bowl of fruit sits on the island. Unwashed workout gear piles near the back door, and the sun shines in through a window.",
+    "actions": [
+      {
+        "description": "Agent A decides to prepare a balanced meal for lunch using various vegetables, lean meats, and whole grains.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes for a brisk walk outside to breathe in the fresh air after meal prepping.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to do a short, high-intensity workout before showering, leaving the workout gear to be washed later.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills a large water bottle to stay hydrated during the chores and afternoon activities.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a reminder on their phone to wind down early tonight, aiming for a full 8 hours of sleep.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a healthy snack from the fruit bowl and cuts it up to enjoy throughout the day.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to open all the windows in the house for a complete air exchange.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits down to create a grocery list, planning to include various nutrient-rich food items for the week.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns on upbeat music to energize the atmosphere of the home and motivate Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is a middle-aged parent home from work with the house to themselves, surrounded by ingredients for dinner, gym equipment, and an open window.",
+    "actions": [
+      {
+        "description": "Agent A begins chopping vegetables for a healthy dinner.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills up a water bottle to stay hydrated while cooking.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets an alarm for a power nap before dinner preparation.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens all house windows for better air circulation.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a brief workout session to upbeat music.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A preps a pitcher of flavored water with fruit for the family.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a darker environment for a restful nap.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A spends time in the garden picking fresh herbs while breathing in the fresh air.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shuts off all home electronics for a calmer atmosphere.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A returns home from work, noticing their workout equipment and a notepad reminder for jogging, indicating a window of time before dinner preparations that could be used for physical activity, despite feeling tired.",
+    "actions": [
+      {
+        "description": "Agent A grabs an apple from the fruit bowl for a quick snack before heading upstairs to engage in a brief workout session.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills up a water bottle to stay hydrated during their home exercise routine.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rolls out a yoga mat in the living room for a stretching and meditation session.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows in the living area to let in fresh air before starting their workout.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A walks upstairs to their bedroom for a short nap, choosing to skip the workout.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets an alarm for an early morning workout the following day.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts on sneakers and starts using the treadmill in the spare room.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a menu for the next week's meals with nutritious ingredients.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brisk walk around the neighborhood to soak in the evening air.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a high school track runner, comes home and finds Agent B making a protein shake in the kitchen, while Agent C is organizing vitamins on the dining table. The late afternoon sun fills the open kitchen with light and a breeze brings in the smell of fresh cut grass.",
+    "actions": [
+      {
+        "description": "Agent A grabs a bottle of water from the fridge.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the pantry to select ingredients for a snack.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits at the table to drink the protein shake.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A steps outside for a brisk walk.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets her alarm early.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A changes into workout clothes.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the windows wider.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stretches and warms up.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A, a passionate cook, is preparing a homemade stew in the kitchen, surrounded by fresh produce and infused with the smell of herbs. Agent B is reading a book in the living room, and Agent C is doing yoga on the patio. The house is filled with the warm scents of spring and cooking.",
+    "actions": [
+      {
+        "description": "Agent A prepares a large batch of stew to share with neighbors.",
+        "values": [
+          0.0,
+          -0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A freezes part of the stew for future meals.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A incorporates a new recipe for nutritional enhancement of the stew.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a break to drink a glass of water while cooking.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a variety of vegetables for a balanced meal.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a timer for the stew to ensure quality.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes for a brisk walk to enjoy the fresh air.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A practices mindful eating with the stew.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans the kitchen after cooking to maintain hygiene.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In a spacious kitchen, Agent A is preparing a nutritious meal, while Agent B is making a smoothie and Agent C is practicing yoga. The environment promotes good health with fresh food, hydration, and exercise.",
+    "actions": [
+      {
+        "description": "Agent A preheats the oven to roast the chopped vegetables.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills a large pitcher with water and lemon for hydration.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a break timer to stretch and prevent fatigue.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A drafts a varied meal plan for balanced nutrition.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brief yoga break with Agent C.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A skips the yoga session to focus on meal prep.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows for better ventilation.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules a nap after meal prepping.",
+        "values": [
+          0.0,
+          -0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A integrates high-intensity exercises between cooking.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is preparing for a morning run, with his family members still asleep. He has made preparations the previous night, suggesting his thoughtfulness regarding his routine.",
+    "actions": [
+      {
+        "description": "Agent A stretches thoroughly to warm up his muscles before the run.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills up his water bottle with more water and a pinch of electrolytes.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the door wider to breathe in the fresh morning air before setting out.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a timer on his wearable device to monitor his run progress.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leaves a note for Agent B suggesting a nutritious breakfast option for when they wake up.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jogs on the spot as he waits for his fitness tracker to find a GPS signal.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to follow a new running route that he researched yesterday.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A arrives home and enters a kitchen where Agent B is cooking a healthy meal. Agent C is selecting a workout on a fitness app. The environment is conducive to making health-oriented decisions.",
+    "actions": [
+      {
+        "description": "Agent A decides to start preparing a fruit and vegetable smoothie using the juicer.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A joins Agent C to select and start a workout routine from the fitness app.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B in the kitchen and learns about nutrient-rich recipes.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a weekly meal prep schedule to maintain healthy eating habits.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets a target to drink a precise amount of water daily and starts tracking it.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A downloads a sleep tracking app to ensure better sleep quality.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brisk walk around the neighborhood after dinner for digestion and fresh air.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A commits to taking short breaks during work hours to stand and stretch.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A purchases a pair of running shoes to begin morning jogging sessions.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In a shared apartment kitchen, Agent A contemplates the contents of the fridge and counters a collection of vitamins and dietary plans while roommate Agent B makes a protein-packed smoothie and Agent C returns from a jog.",
+    "actions": [
+      {
+        "description": "Agent A decides to cook scrambled eggs with spinach to fuel up for her morning classes.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opts to make a sandwich with spinach and roasted chicken, skipping highly processed spreads.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A browses through the meal plan to verify that her food selections align with her nutritional targets for the week.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills her water bottle to ensure she stays hydrated throughout her physically demanding day.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to join Agent C for a short cool-down stretching session after the latter’s jog.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A substitutes her usual morning coffee with a green tea for a less jittery caffeine kick.",
+        "values": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs an apple from the fruit basket for a mid-morning snack before heading out.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules a 30-minute nap in her day’s itinerary to compensate for her late study session the previous night.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A scans the vitamin supplements, considering which would best support her health without over-reliance.",
+        "values": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "Agent A is experiencing her first morning in a new house. She's unpacked a blender and has an assortment of fresh produce ready on the kitchen counter. The morning sun fills the home with light, and space in the living room invites the possibility of exercise. Agent B, her roommate, is yet to wake up.",
+    "actions": [
+      {
+        "description": "Agent A makes a nutritious smoothie using the new blender.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges furniture to make room for exercising.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts her day with a stretching routine on a yoga mat.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A buys fresh groceries for healthy meal prep.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills a water bottle to maintain hydration.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks up local trails for an outdoor run.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assembles new furniture for better space management.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets an alarm to ensure enough sleep at night.",
+        "values": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens windows to let in fresh air.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "energy"
+    ],
+    "scenario": "In a small, well-lit kitchen early in the morning, Agent A is preparing a nutritious vegetable stew, while fresh air flows through an open window. Agent B contemplates breakfast options, and Agent C sets up for a workout. Agent A adheres to a checklist promoting a wholesome start to the day and exemplifies a proactive approach towards well-being.",
+    "actions": [
+      {
+        "description": "Agent A serves the nutritious stew for breakfast to themselves and their housemates.",
+        "values": [
+          0.0,
+          -0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens more windows to let in additional fresh air.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B plan nutritious meals for the day.",
+        "values": [
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A joins Agent C for a morning workout routine.",
+        "values": [
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a brisk walk outside after breakfast to enjoy nature.",
+        "values": [
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures everyone has filled water bottles for the day.",
+        "values": [
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a power nap to recharge in the afternoon.",
+        "values": [
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a grocery list focused on whole foods.",
+        "values": [
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to bed early to maintain good sleep hygiene.",
+        "values": [
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  }
+]

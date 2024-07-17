@@ -1,0 +1,2561 @@
+[
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In the family kitchen, Agent A, a teenager, prepares cookies with Agent B and Agent C around. Agent C has dietary restrictions and looks tentatively at the cookies.",
+    "actions": [
+      {
+        "description": "Agent A offers a cookie to Agent B and then a special one to Agent C, accommodating their dietary needs.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A invites both Agent B and Agent C to help make the next batch, considering Agent C's dietary needs in the recipe.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A notes to replace the vanilla extract used up during baking for everyone's benefit.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A suggests sharing cookies with an elderly neighbor.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A waits for Agent B and Agent C to take cookies before taking any themselves.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A reminds Agent B to save cookies for Agent C when Agent B reaches for a third one.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A cleans up the kitchen after baking.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A proposes splitting the last cookie if there's an argument.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A adds the recipes to a family binder for everyone to use.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A returns home from work to find Agent B, their teenage child practicing guitar for an upcoming school show, and Agent C, their younger child, intent on watching a TV show, both scheduled at the same time due to a calendar mishap.",
+    "actions": [
+      {
+        "description": "Agent A suggests using a timer to split the evening between the guitar practice and TV watching.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A listens and provides feedback during Agent B's practice session.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          -0.2
+        ]
+      },
+      {
+        "description": "Agent A offers to record Agent C's TV show to watch immediately after the practice.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A works with both children to create a new, conflict-free schedule on the family calendar.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          1.0
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent C the value of supporting Agent B's practice.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          -0.1
+        ]
+      },
+      {
+        "description": "Agent A engages in a conversation about respect and communication with both children.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A takes Agent C out for ice cream as a treat after waiting for the TV.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A temporarily relocates the TV to allow both activities without interference.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.3,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent C to engage in an alternative activity like drawing.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.2
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In a family living room, Agent A, a teenager, is seated at a big table filled with art supplies. On one end, Agent B, their younger cousin, is working on a small canvas, while Agent C, Agent A's best friend, is flipping through an art book, and Agent D, Agent A's sibling, is sketching in their notebook. As evening approaches, the soft glow from the windows fills the room with a comfortable atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A offers Agent B some gentle guidance on brush techniques, showing them how to blend colors more smoothly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to collaborate on a large poster, suggesting they combine ideas to create a thematic masterpiece.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A sets up a small exhibition on one side of the room, encouraging Agent D to display their sketches alongside their own work.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A notices Agent B struggling to reach a high shelf for a new canvas and retrieves it for them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A decides to clear the table, organizing the supplies so that everyone has equal access to the materials.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.8
+        ]
+      },
+      {
+        "description": "After seeing that certain color paints are running low, Agent A proposes pooling their money to buy a new set collectively.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A starts a discussion about what music to play, seeking a consensus to ensure the ambiance suits everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.6
+        ]
+      },
+      {
+        "description": "As the evening wears on, Agent A suggests ordering food, making sure to check everyone's preferences and dietary restrictions.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A offers to frame Agent B's completed painting, recognizing their effort and dedication.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.3
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "The family is gathered working on a world map puzzle. Agent A notices Agent C struggling and Agent B sorting pieces methodically. Agent D is happily contributing to the puzzle.",
+    "actions": [
+      {
+        "description": "Agent A chooses a piece and looks for its correct placement.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A suggests pattern recognition to Agent C for finding pieces.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A sets a playful competition for placing puzzle pieces.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to team up with Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A creates a rule to pass pieces around to include everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A makes refreshments for the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          -0.1
+        ]
+      },
+      {
+        "description": "Agent A praises Agent D but encourages sharing the task.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A photographs the family to capture the moment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          -0.2
+        ]
+      },
+      {
+        "description": "Agent A prompts a discussion on the puzzle's interesting sections.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.1
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A has made breakfast and set the table for two. Agent B, their sibling, and Agent C, a friend who stayed over, are both present at the apartment. The atmosphere is cozy with food ready on the table and everyone preparing to eat together.",
+    "actions": [
+      {
+        "description": "Agent A offers the last pancake to Agent B and Agent C, asking them to decide who wants it.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A suggests a quick and fun game of trivia, with the winner getting the last pancake.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B whether they should invite Agent C to join their weekly grocery shopping trip.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A prepares a cup of tea for Agent C after noticing they haven't had anything to drink with breakfast.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A engages in a considerate conversation with Agent B about how they have been feeling lately since their last talk felt unresolved.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A proposes to rearrange the living room furniture together with Agent B and Agent C to make it more comfortable for everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A includes Agent C when discussing plans for the day, making sure they feel welcome to join any activity.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B for input on where they should store their shared games and movie collection for easier access.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A decides to clean up the breakfast dishes, even though it was Agent B's turn, understanding that Agent B had a tough week.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          -0.3
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A, a teenager, is playing a board game in the living room with Agent B, A's cousin. The game is intense and competitive. Agent C, A’s younger sibling, watches from the couch. The game arrives at a critical turning point involving a promise made between A and B.",
+    "actions": [
+      {
+        "description": "Agent A keeps the promise made to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A breaks the promise to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.7,
+          -0.8
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to join the game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A proposes to end the game early for B's rest.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A suggests a different game for all to play.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A lets Agent B reverse a disadvantageous move.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A makes a strategic move but explains it to B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A makes a less advantageous move to keep the game enjoyable.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A causes tension with a game move.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.6,
+          -0.5
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A and their roommate, Agent B, live together with a common interest in plants and books. They are joined by Agent C, a close friend, who brings a board game to play. Agent B is initially occupied with work but is encouraged to join in the game.",
+    "actions": [
+      {
+        "description": "Agent A invites Agent B to take a break and join the game, offering to help them with the project later.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A sets up the board game, ensuring equal starting resources for all players.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          1.0
+        ]
+      },
+      {
+        "description": "Agent A suggests rotating the leader role in the board game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A listens to Agent C’s personal challenges during the game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A shares snacks equally with everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A defers their turn to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A discusses strategies with Agent C openly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A encourages open discussion during a dispute in the game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A acknowledges Agent B's stress with words of encouragement.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.4
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A is a teenager finishing her homework in a calm, shared living room environment, with Agent B sorting old video games and Agent C reading a book, feeling slightly disengaged. A sense of family responsibility and joint decision-making pervades the scene.",
+    "actions": [
+      {
+        "description": "Agent A invites Agent C to help them decide which video games to keep.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A suggests they take a family vote on which games to keep.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A offers Agent B some criteria for sorting the games.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A proposes to Agent B to donate a portion of the games.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A decides to sit with Agent C and engage in a conversation about their book.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to let Agent C have a few games.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A organizes a game night for later in the week.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A sets up a sharing system for the video games.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          1.0
+        ]
+      },
+      {
+        "description": "Agent A takes the initiative to cook dinner for everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.4
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A and Agent B, lounging in their living room, are joined by Agent C who brings a box of old photographs and mementos. They engage in a nostalgic activity, sharing past experiences and fostering a sense of companionship.",
+    "actions": [
+      {
+        "description": "Agent A offers to go through the box with Agent B and Agent C, suggesting a trip down memory lane.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A proposes that they each tell the story behind their favorite photograph in the box.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A recognizes a photo where Agent B wasn't present and decides to put it aside so as not to make Agent B feel excluded.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A finds an object in the box that was borrowed long ago from Agent C and insists on returning it immediately.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          1.0
+        ]
+      },
+      {
+        "description": "After reminiscing, Agent A initiates a discussion about creating a photo album together with Agent B and Agent C to document their collective history.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A acknowledges Agent C's thoughtfulness for bringing the box and expresses gratitude.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A disagrees with an embarrassing memory brought up by Agent C and carefully explains the reasons without creating tension.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          -0.3
+        ]
+      },
+      {
+        "description": "Agent A volunteers to prepare refreshments for everyone, ensuring that Agent B's dietary preferences are considered.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.8
+        ]
+      },
+      {
+        "description": "When an argument arises between Agent B and Agent C regarding a past event, Agent A intervenes, gently guiding them towards a mutual understanding.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.7
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A and siblings are at home on a quiet evening. There's one slice of cake to share, and the family is together in the living room and dining area.",
+    "actions": [
+      {
+        "description": "Agent A cuts the cake slice into two even pieces and offers the larger piece to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A sets aside the book, approaches Agent B, and offers assistance with the school project.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A strikes a conversation with Agent B about their day, listening attentively.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A cleans up the dining area to avoid burdening the others with chores.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A leaves a note for their parents explaining how they managed the cake situation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A rearranges the luggage for Agent C, making space for everyone in the shared room.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A ensures that the noise levels are kept low while Agent C rests after the shower.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A prepares bedtime drinks for all three of them, respecting everyone's preferences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.8
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "It is a Sunday afternoon in the suburban home of Agent A, sitting at the dining table surrounded by various tax documents. Agent B, their spouse, is in the kitchen. Agent C, their teenager, is doing homework upstairs, and Agent D is drawing in the living room. The family is quietly productive but keeps a caring and responsive atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A pauses their work and genuinely inquires about Agent B's well-being.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          -0.1
+        ]
+      },
+      {
+        "description": "Agent A offers to take over the kitchen duties.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A checks in with Agent C to offer help with homework.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A sits to color with Agent D, engaging in conversation about the drawings.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          -0.2
+        ]
+      },
+      {
+        "description": "Agent A suggests a family meeting to discuss household chores.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A decides to take on a larger portion of household tasks for the week.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A actively involves Agent C in solving a complex tax issue.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A sets up a video call with extended family members.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          -0.1
+        ]
+      },
+      {
+        "description": "Agent A coordinates a schedule for Agent C and Agent D for the entertainment system.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A is in the kitchen making dinner, making sure to cater to the family's diverse dietary needs. Agent B is busy fixing the dining room shelf, Agent C has just come in from playing basketball, and Agent D is curious about the ongoing activities.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent C about their day while continuing to cook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A invites Agent D to help prepare a simple dish, providing guidance.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A reminds Agent B about the importance of a timely dinner.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A offers a taste of the meal to Agent C for their opinion.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B hold a shelf in place as a teamwork gesture.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A allocates tasks during dinner prep to involve everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A sets aside part of the meal for Agent C due to allergies.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          1.0
+        ]
+      },
+      {
+        "description": "Agent A considers seating to accommodate Agent D's left-handedness.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A starts a conversation about future meals preferences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A and Agent B, siblings, along with their cousin Agent C, are tidying up their cluttered basement on a rainy Saturday. They are sorting through old items, reminiscing, and deciding together what to keep, donate, or throw away.",
+    "actions": [
+      {
+        "description": "Agent A suggests creating a memory corner in the basement.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A assigns tasks to each person, ensuring everyone has an equal amount of work.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A decides to donate the comic books.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C for her opinion on which board games to keep.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A proposes a break and prepares snacks for the group.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A sets up an area for each person to display items they're attached to.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A facilitates a discussion on repurposing some items.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B carefully pack the comic books.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A agrees to play a requested board game with Agent C after cleaning.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.3
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A, an older brother, is in his family home's living room with Agent B, his younger sister, and Agent C, their cousin. They are interacting with a photo album and board games, with an undercurrent of choosing an activity that respects everyone's feelings and provides equal enjoyment.",
+    "actions": [
+      {
+        "description": "Agent A proposes that they create a new photo album together, including recent pictures and memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A suggests a collaborative board game that requires team strategy, reducing competition.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A asks everyone to share a favorite memory associated with a photo from the album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent C to pick the game, assuring that the fun lies in playing, not winning.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A recognizes Agent B's attachment to the memories and offers to digitize the album for preservation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A decides to make a rotating schedule for board game selection, ensuring everyone's choices are honored.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          1.0
+        ]
+      },
+      {
+        "description": "Agent A brings out snacks and refreshments for everyone to enjoy while they engage with the photo album and board games.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A listens attentively as Agent C explains the rules of a game they are unfamiliar with, showing respect for their knowledge.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A initiates a conversation on how they can balance game time with other shared activities in the future.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In a cozy living room, Agent A, a high school senior, plays guitar while Agent B, his younger cousin, struggles with music theory. Agent C, Agent A's parent, prepares snacks in the kitchen. Agent A pauses his playing, offers a patient smile to Agent B and moves over to help, showing a familial bond and a potential for mutual learning and connection.",
+    "actions": [
+      {
+        "description": "Agent A moves to sit next to Agent B to explain music theory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A plays music highlighting the particular theory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A suggests writing a new song together with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to join with makeshift instruments.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A allows Agent B to use his guitar.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A and Agent B switch roles, each teaching the other.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A offers to help Agent C in the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A chooses to play a classical piece for Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A plays in a way that showcases Agent B’s progress.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A and Agent B are housemates spending time in their shared living space, with Agent B working on a puzzle and Agent A on a laptop. The room atmosphere is cozy as they have planned to cook dinner together later.",
+    "actions": [
+      {
+        "description": "Agent A offers to help or keep company to Agent B with their puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A suggests a joint dinner preparation break to offer a fresh perspective on the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A shares a similar frustrating experience to show understanding.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.2
+        ]
+      },
+      {
+        "description": "Proposes an activity switch after dinner, allowing Agent B to lead.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.5
+        ]
+      },
+      {
+        "description": "Looks up strategies to help Agent B without solving the puzzle for them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "description": "Agrees to mutually devote time to assist with each other's tasks.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.9
+        ]
+      },
+      {
+        "description": "Reallocates resources for Agent B's comfort and puzzle-solving.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.7
+        ]
+      },
+      {
+        "description": "Shares puzzle-solving stories to motivate Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.3
+        ]
+      },
+      {
+        "description": "Subtly improves the environment for Agent B without interfering.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.4
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A hosts a dinner party with friends, Agent B and Agent C. They prepare a vegetarian menu, compliment Agent B’s dessert, and engage with Agent C about a topic of interest, creating a warm, inclusive atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A invites Agent B to share their dessert preparation experience with everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A offers the seat of honor at the table to Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A suggests that they all play Agent C's favorite board game after dinner.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.3,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A proposes a toast to honor the group's work on a collaborative project.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A serves themselves last, after everyone has taken their share of the food.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.2,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A encourages inclusive topics of conversation for everyone to contribute.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A assists in cleaning up a spill during dinner discreetly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A actively listens to Agent B's explanation of a new art project.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A evenly divides the leftover food for Agent B and Agent C to take home.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In a living room, Agent A, studying abroad, returns home to find Agent B (parent) knitting, Agent C (sibling) solving a puzzle, and Agent D (family friend) helping out. The atmosphere is warm and cookies have been baked; Agent A's arrival is a pleasant surprise for everyone.",
+    "actions": [
+      {
+        "description": "Agent A walks over to Agent C and helps with the puzzle without taking over.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A points out a puzzle piece to Agent D letting them place it.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A inquires about knitting from Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A offers to prepare tea for the group, considering each one's taste.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A proposes a board game that all like.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A tells inclusive stories from their experiences overseas.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A suggests each person talks about their day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A passes the cookies to Agent C first.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A suggests reminiscing over a family photo album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.2
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In a cozy suburban home, Agent A, a parent, is gathered with their teenage children, Agent B and Agent C, in the family room, engaged in a shared jigsaw puzzle activity. Each member has their own space to work on the puzzle and the tradition fosters cohesion.",
+    "actions": [
+      {
+        "description": "Agent A compliments Agent B and Agent C on their strategy for organizing the puzzle pieces.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A takes turns with Agent B and Agent C, to find and place a batch of puzzle pieces.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A suggests taking a group photo with the puzzle once everyone has finished their sections.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent B the technique for finding the right piece, providing guidance, and listening to their perspective.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A offers to swap places with Agent C, so that they can experience working on a different section of the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A smiles and reminisces about previous puzzles the family has completed together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A ensures that the lighting in the room is adequate for everyone to see the puzzle pieces clearly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A proposes a short break, where they can all refresh themselves with snacks and drinks.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A decides to take on the more challenging parts of the puzzle to help Agent B and Agent C progress more smoothly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In a cozy family home setting, the family engages in weekly meal planning, reflecting collective decision-making and consideration for each other's preferences and dietary needs.",
+    "actions": [
+      {
+        "description": "Agent A actively seeks Agent B and Agent C’s input for meal planning to ensure everyone’s preferences are included.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A goes to the garden to pick fresh vegetables that Agent C likes, showing engagement with C's dietary choice.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A sits next to Agent C on the couch to help them with their school project, fostering a sense of support.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A reserves a portion of a dish before adding a non-vegetarian component, considering Agent C’s vegetarianism during meal preparation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A organizes a rotation schedule for weekly chores with Agent B and Agent C, to distribute household responsibilities equally.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A rearranges the living room to create a comfortable study space for Agent C’s project after the meal.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A suggests turning meal planning into a learning activity for Agent C, to enhance their knowledge of nutrition.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A creates a list of alternative ingredients, respecting dietary restrictions and availability of items.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A proposes a new tradition of sharing highlights of the day during dinner, encouraging closer family bonds.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.4
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A is organizing a family board game night in the living room, listening to game suggestions from Agent B, their cousin, and Agent C, their younger sibling, making sure the game selected is enjoyable for all.",
+    "actions": [
+      {
+        "description": "Agent A suggests playing a game they all know and enjoy.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.6
+        ]
+      },
+      {
+        "description": "Agent A offers Agent B the honor of rolling the dice first.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A engages in conversation with Agent B about their life.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A makes a conscious effort to explain the rules again for Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A chooses to let Agent C have the coveted game piece.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to suggest a game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A validates Agent C's feelings when upset about losing a turn.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A refrains from using a competitive strategy.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "Agent A, a teenager, is at the family dining table where Agent B is trying to fit the last piece of a jigsaw puzzle, and Agent C watches attentively, feeling a bit excluded. The jigsaw puzzle is of a landscape from a collective family trip memory.",
+    "actions": [
+      {
+        "description": "Agent A suggests a break to have snacks together with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A shares a memory about the family trip related to the jigsaw picture.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A offers to frame the puzzle for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to help place the final puzzle piece.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A engages Agent C in conversation to make them feel included.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A lets Agent C decide where to display the framed puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A helps both Agent B and Agent C put the final piece in together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A observes as Agent B and Agent C converse about the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.1,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A suggests all participants sign the back of the completed puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In a cozy family room, Agent A is a thoughtful teenager on a sofa. Agent B, the cousin, is absorbed in a novel with earphones. Agent C, the younger sibling, is struggling with a puzzle. Agent D, the aunt, prepares snacks in the kitchen.",
+    "actions": [
+      {
+        "description": "Agent A decides to put away his own music player to maintain a quiet environment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          -0.1
+        ]
+      },
+      {
+        "description": "Agent A offers to help Agent C with the puzzle without taking over.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to join in the puzzle without pressuring participation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A sets the table, considering everyone's dietary preferences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A offers to carry the snacks to the table for Agent D.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A suggests playing a board game and seeks consensus on the choice.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A corrects Agent C’s puzzle contribution discreetly to avoid embarrassment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A focuses on creating a fun atmosphere during the board game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.2
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy",
+      "fairness"
+    ],
+    "scenario": "In the shared bedroom, Agent A takes note of their cousin Agent C’s quiet demeanor and makes efforts to involve him, reflecting on the history of their shared space with personal mementos on display.",
+    "actions": [
+      {
+        "description": "Agent A starts a conversation with Agent C about his interests.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.2
+        ]
+      },
+      {
+        "description": "Agent A arranges more space for Agent C on the air mattress.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.5
+        ]
+      },
+      {
+        "description": "Agent A lets Agent C choose a game or book for the evening.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.8
+        ]
+      },
+      {
+        "description": "Agent A suggests a vote on the evening's activities.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.9
+        ]
+      },
+      {
+        "description": "Agent A shares a personal childhood story.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.1
+        ]
+      },
+      {
+        "description": "Agent A proposes to rearrange the room together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.7
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent C a traditional card game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.4
+        ]
+      },
+      {
+        "description": "Agent A and B share prepared snacks with Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.3
+        ]
+      },
+      {
+        "description": "Agent A listens to Agent C intently as he speaks.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.1
+        ]
+      }
+    ]
+  }
+]

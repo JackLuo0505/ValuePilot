@@ -1,0 +1,1568 @@
+[
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Professional cartoonist, Agent A, inspired by a masterful still-life painting by Pierre-Auguste Renoir, decides to sketch the painting on his day off. The painting is a gift from his elder brother, Agent B to commemorate his first art exhibition.",
+    "actions": [
+      {
+        "description": "Agent A grabs his sketch book and premium drawing pencils to sketch the painting.",
+        "values": [
+          0.8,
+          0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the painting thoroughly, appreciating the details and color scheme.",
+        "values": [
+          1.0,
+          -0.1,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online to learn more about the painting techniques of Renoir.",
+        "values": [
+          1.0,
+          -0.5,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tries to sketch the painting from memory to challenge himself.",
+        "values": [
+          1.0,
+          0.1,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a healthy snack plate to munch while sketching.",
+        "values": [
+          -0.5,
+          1.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to do exercises during breaks in sketching.",
+        "values": [
+          -0.6,
+          1.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A meditates for a few minutes before starting to sketch.",
+        "values": [
+          -0.4,
+          0.8,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stimulates his creativity by listening to classical music while sketching.",
+        "values": [
+          0.1,
+          -0.4,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes frequent breaks to rest his eyes and keep his concentration.",
+        "values": [
+          0.2,
+          1.0,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a food and travel blogger, explores his new neighborhood to experience the diverse multicultural food scene. He visits top-rated restaurants, trying a wide range of dishes, interacts with locals, and documents his experiences for his blog.",
+    "actions": [
+      {
+        "description": "Agent A decides to start with the first restaurant on his list, noted for its authentic Thai cuisine.",
+        "values": [
+          0.7,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a retired geologist, is organizing his vast library of books, maps, and rock samples at home. He stumbles upon an incomplete geological map of a nearby mountain range that he hadn't yet explored. His twin grandchildren, Agents B and C, come over to visit. Agent B brings a DIY crystal growing kit, and Agent C shares a new geology app on her tablet.",
+    "actions": [
+      {
+        "description": "Agent A decides to simulate a geological exploration mission for his grandchildren, using the incomplete geological map and his outdoor gear.",
+        "values": [
+          0.9,
+          0.7,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to help Agent B grow the crystal, discussing every aspect of the project and documenting the growth process.",
+        "values": [
+          0.5,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a fun quiz about geology for Agents B and C, rewarding them with rock samples.",
+        "values": [
+          0.5,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is a professional photographer residing on his family farm. One morning he decides to wander into the countryside with his camera. Spotting a new hiking trail not too far off, he embarks on an adventure hoping to capture unique elements of rural life.",
+    "actions": [
+      {
+        "description": "Agent A decides to climb the hill.",
+        "values": [
+          0.9,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to traverse the stretching hiking trail.",
+        "values": [
+          1.0,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to return home to get a packed lunch from Agent C.",
+        "values": [
+          -0.4,
+          1.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is a mid-twenties software engineer, who's working from home. On a weekday afternoon, after finishing his lunch, he is sitting near the window, looking at the park outside and seeing children playing around. The weather is pleasant. He sees his laptop placed on the desk, inviting him to resume his work. However, the children playing the game of treasure hunt in the park stir up something in him. He imagines participating in the treasure hunt.",
+    "actions": [
+      {
+        "description": "Agent A decides to step outside and casually approach the children, asking if he can join their amusing game of treasure hunt.",
+        "values": [
+          0.9,
+          0.6,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A comes back home, fetches a notebook and a pen, and starts sketching out a treasure hunt game plan for his own amusement.",
+        "values": [
+          0.8,
+          0.3,
+          0.0,
+          -0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A watches the treasure hunt from his window, taking mental notes and tries to solve the clues himself.",
+        "values": [
+          0.7,
+          -0.3,
+          0.0,
+          -0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to ignore the outside activities and focus back on his work.",
+        "values": [
+          -0.6,
+          -0.5,
+          0.0,
+          -0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts to read widely about different variants of the Treasure Hunt game on the internet.",
+        "values": [
+          1.0,
+          0.1,
+          0.0,
+          0.2,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A talks to his friends or family members about the treasure hunt game he saw and shares his interests.",
+        "values": [
+          0.5,
+          -0.1,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts creating his own treasure hunt game in his house using everyday items.",
+        "values": [
+          0.9,
+          0.5,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A began cooking some of his favorite foods to calm his mind.",
+        "values": [
+          -0.1,
+          -0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a high school student, in a relaxed home environment finds an unopened pack of jigsaw puzzles. Despite the presence of his engaged family members, he expresses interest to spend time on the puzzle.",
+    "actions": [
+      {
+        "description": "Agent A decides to open the pack and start sorting the pieces.",
+        "values": [
+          0.8,
+          0.5,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A considers recording a time-lapse video of the assembly process.",
+        "values": [
+          0.9,
+          -0.6,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites D to join him in putting the puzzle together.",
+        "values": [
+          0.6,
+          0.9,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes breaks from the puzzle assembly to join his mom in the kitchen.",
+        "values": [
+          -0.6,
+          0.8,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A approaches C and teases him about his work routine.",
+        "values": [
+          -0.2,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the finished puzzle and contemplates hanging it.",
+        "values": [
+          0.5,
+          -0.4,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages family members to gather and admire the completed puzzle.",
+        "values": [
+          0.3,
+          0.6,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls his grandparents to thank them for the fun gift.",
+        "values": [
+          -0.3,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests starting a puzzle competition within the family.",
+        "values": [
+          0.5,
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "In a cozy townhouse lived three roommates, Agents A, B, and C. All three shared a day off, and Agent A proposed an indoor triathlon involving cooking, home decorating, and board games. The hesitant Agents B and C agreed, and the preparation for the exciting day began.",
+    "actions": [
+      {
+        "description": "Agent A suggests a friendly competition between the members for the first round, a cooking challenge.",
+        "values": [
+          0.5,
+          -0.2,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A insists on using personally sourced ingredients from the local farmers market for the cooking challenge.",
+        "values": [
+          0.6,
+          0.8,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A and his cousin, Agent B, are at home with Agent C, the caretaker, who is baking cookies. Agent A gets inspired by a magazine Agent B is reading and suggests various activities related to the international content he has been recently reading and enjoying.",
+    "actions": [
+      {
+        "description": "Agent A invites Agent B to start a puzzle.",
+        "values": [
+          0.7,
+          0.3,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A learns a new song on the guitar.",
+        "values": [
+          0.6,
+          0.5,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in a DIY project with Agent B.",
+        "values": [
+          0.5,
+          0.6,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent B to a fact-finding contest.",
+        "values": [
+          0.8,
+          -0.2,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a comic strip.",
+        "values": [
+          0.4,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A bakes with Agent C.",
+        "values": [
+          0.2,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stages a trivia game.",
+        "values": [
+          0.7,
+          0.2,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges furniture for an exotic setting.",
+        "values": [
+          0.3,
+          0.7,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a themed get-together.",
+        "values": [
+          0.6,
+          0.4,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is a science enthusiast who has found a book on home science experiments. He contemplates the experiments in his living room with his cousin, Agent B, and friend, Agent C.",
+    "actions": [
+      {
+        "description": "Agent A gathers household materials to attempt a homemade volcano experiment.",
+        "values": [
+          0.9,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B and Agent C to join him in an experiment.",
+        "values": [
+          0.8,
+          0.4,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to take photographs of each experimental step.",
+        "values": [
+          0.7,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a friendly competition with paper airplanes.",
+        "values": [
+          0.6,
+          0.7,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A self-records videos of the experiments.",
+        "values": [
+          0.8,
+          0.3,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a makeshift laboratory in the living room.",
+        "values": [
+          0.5,
+          0.6,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A demonstrates how a prism can split light into a spectrum.",
+        "values": [
+          1.0,
+          0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent C collect different types of leaves for an experiment.",
+        "values": [
+          0.9,
+          0.4,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and his companions cook a complex recipe together.",
+        "values": [
+          0.6,
+          0.5,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "In a bright suburban kitchen, Agent A, the adventurous teenager, concludes breakfast preparation. The table is invitingly set, exuding a lively aura. Agent B is engrossed in a book about planets, while Agent C hangs a picture frame and Agent D gears up for a run, all within the warmly lit kitchen atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A sets up a DIY sundial outside to tell time naturally, showing Agent B how it works.",
+        "values": [
+          0.6,
+          -0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a spontaneous picnic in the park with the family.",
+        "values": [
+          0.3,
+          -0.1,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A flips through Agent B's solar system book, sparking a discussion on extraterrestrial life.",
+        "values": [
+          1.0,
+          -0.4,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A designs a mini-obstacle course for a family competition.",
+        "values": [
+          0.2,
+          0.9,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plays upbeat tunes to energize the kitchen mood.",
+        "values": [
+          0.1,
+          -0.2,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sketches a birdhouse design for learning about local birds.",
+        "values": [
+          0.7,
+          -0.3,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns dish stacking into a competitive game with Agent B.",
+        "values": [
+          0.1,
+          0.1,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A bakes adventurous, spiced cookies from a new recipe.",
+        "values": [
+          0.5,
+          -0.1,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, an avid amateur chef, is in her kitchen surrounded by cooking ingredients and utensils. Agent B, her roommate, is nearby, and Agent C, their neighbor, has been invited over. The atmosphere is engaging with a mix of aromas, sounds, and visual appeal, including an intriguing new kitchen gadget on the counter.",
+    "actions": [
+      {
+        "description": "Agent A welcomes Agent C into the kitchen and offers to show them how to prepare a new dish from the cookbook.",
+        "values": [
+          0.7,
+          0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A attempts to use the new kitchen tool that Agent B brought back, trying to figure out how it works.",
+        "values": [
+          0.8,
+          0.5,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks a recipe she has never tried before, expressing enthusiasm to learn it during the dinner preparation.",
+        "values": [
+          0.9,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A jumps between cooking stations, efficiently multitasking to prepare all dishes.",
+        "values": [
+          0.3,
+          0.9,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to teach Agent B and Agent C playful cooking techniques.",
+        "values": [
+          0.4,
+          0.6,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a game-like challenge for everyone to guess spices and ingredients.",
+        "values": [
+          0.6,
+          0.4,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A records a video of the cooking process, planning to share it online.",
+        "values": [
+          0.8,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A improvises a new way to present the dishes, focusing on the visual layout.",
+        "values": [
+          0.5,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a 13-year-old girl with a knack for creative activities, has just finished her homework and is looking around her room for her next adventure. The walls are adorned with her colorful paintings and several inventions. Agent B, her mother, is preparing a meal, and Agent C, her best friend, has brought a puzzle set featuring world landmarks. A gentle breeze from the open window energizes the room.",
+    "actions": [
+      {
+        "description": "Agent A grabs the puzzle set and suggests starting with the Eiffel Tower puzzle.",
+        "values": [
+          0.9,
+          0.5,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a puzzle challenge with Agent C.",
+        "values": [
+          0.7,
+          0.6,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to paint the Eiffel Tower from memory.",
+        "values": [
+          0.8,
+          0.3,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to help make dessert.",
+        "values": [
+          0.4,
+          0.7,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens the window wider for more air.",
+        "values": [
+          -0.1,
+          0.4,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to search for more puzzles in the attic.",
+        "values": [
+          1.0,
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a gallery of completed puzzles.",
+        "values": [
+          0.6,
+          0.2,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to create a fun documentary of the day.",
+        "values": [
+          0.8,
+          0.6,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a 16-year-old biology enthusiast, is found in the garage engaged in a microscopic examination of pond water. Agent B, A's cousin and a DIY craft enthusiast, joins A's exploration with genuine intrigue. Agent C, A's best friend and an avid coder, is nearby, potentially ready to collaborate. The sunny day represents an ideal backdrop for engaging in exploratory science within a domestic setting.",
+    "actions": [
+      {
+        "description": "Agent A decides to take a closer look at different samples from the backyard and compare them under the microscope.",
+        "values": [
+          0.8,
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to help create detailed sketches of the microscopic organisms found in the water samples.",
+        "values": [
+          0.7,
+          -0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes an impromptu backyard expedition to collect more samples with Agent B.",
+        "values": [
+          1.0,
+          0.8,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compiles their observations into an informal research report, adding it to their growing collection of projects.",
+        "values": [
+          0.6,
+          -0.4,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a marathon experiment session to test the effects of various substances on the growth of bacteria from the samples.",
+        "values": [
+          0.9,
+          1.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent C brainstorm ideas for a simple app that can log and categorize observations of various samples.",
+        "values": [
+          0.7,
+          -0.2,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes the garage to make space for future experiments and displays of finished projects.",
+        "values": [
+          -0.1,
+          -0.5,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges Agent B to a \"scientific showdown\", where they both use household items to create the most interesting chemical reaction.",
+        "values": [
+          0.7,
+          0.6,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A scours the internet for virtual biology competitions or citizen science projects they can participate in.",
+        "values": [
+          1.0,
+          -0.5,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "In a sunlit living room, Agent A lounges on a casual morning with travel magazines nearby, while Agent B prepares fruit in the kitchen and Agent C reads in an armchair.",
+    "actions": [
+      {
+        "description": "Agent A rises and observes people walking outside, intrigued by the view from the window.",
+        "values": [
+          0.6,
+          -0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A peruses a travel magazine for potential vacation inspiration.",
+        "values": [
+          0.7,
+          -0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A impulsively dances to lively kitchen radio music.",
+        "values": [
+          -0.3,
+          0.8,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A slices fruit and converses with Agent B about exotic foods.",
+        "values": [
+          0.5,
+          0.7,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A lifts the pet cat, pretending to fly it around the room.",
+        "values": [
+          -0.2,
+          0.4,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a mini exercise session in the living room.",
+        "values": [
+          -0.4,
+          0.9,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates an abstract painting with no particular intention.",
+        "values": [
+          0.8,
+          0.5,
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses the novel with Agent C while enjoying a cup of coffee.",
+        "values": [
+          0.4,
+          -0.1,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reorganizes the bookshelf into unique thematic categories.",
+        "values": [
+          0.9,
+          0.3,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A is a teenager who recently started exploring culinary arts and is making a challenging homemade dinner. Agent B, her cousin, is visiting and lounges on the sofa, and Agent C, her brother, is working on an art project at the dining table.",
+    "actions": [
+      {
+        "description": "Agent A refines her cooking technique by experimenting with flavors, adding an unexpected twist to the recipe.",
+        "values": [
+          0.7,
+          0.6,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges the food aesthetically on plates to create a visual feast for her family.",
+        "values": [
+          0.4,
+          0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of her cooking process to share her progress with friends online.",
+        "values": [
+          0.6,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a game for the whole family to play together after dinner.",
+        "values": [
+          0.4,
+          0.2,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A documents the reactions of her family members as they taste the dish, collecting memories.",
+        "values": [
+          0.6,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A challenges herself to clean up the kitchen promptly after cooking.",
+        "values": [
+          -0.2,
+          0.7,
+          0.0,
+          0.1,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a handmade menu for the dinner to enhance the dining experience.",
+        "values": [
+          0.4,
+          0.3,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches the cultural background of the dish she's preparing to share during dinner.",
+        "values": [
+          0.8,
+          0.4,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A saves a portion of the meal to share with a neighbor.",
+        "values": [
+          0.1,
+          -0.3,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, a teenager with a keen interest in culinary arts, discovers an old family cookbook in the attic and decides to try an elaborate recipe from it, planning a variation. Agent B, her father, is visible in the garden, and Agent C, her cousin, lounges on the sofa.",
+    "actions": [
+      {
+        "description": "Agent A decides to bake a complex cake from the cookbook with an intricate design she's envisioned.",
+        "values": [
+          0.8,
+          0.6,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls up her grandmother to ask about the history behind a specific family recipe.",
+        "values": [
+          1.0,
+          -0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a cooking competition with Agent C, challenging each other to make a dish from the cookbook.",
+        "values": [
+          0.7,
+          0.8,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a food blog to document her attempts at mastering and innovating the family recipes.",
+        "values": [
+          0.9,
+          0.5,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the kitchen to create a better workflow area for her cooking activities.",
+        "values": [
+          -0.3,
+          0.7,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ventures to a farmer's market to find organic ingredients that will make her dish more authentic.",
+        "values": [
+          0.7,
+          0.5,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments by adding a new ingredient not listed in the recipe to see if she can improve the flavor.",
+        "values": [
+          1.0,
+          0.3,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B and Agent C to taste test her dish and provide feedback.",
+        "values": [
+          0.6,
+          -0.1,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes detailed notes and photos of her cooking process for future reference.",
+        "values": [
+          0.7,
+          0.2,
+          0.0,
+          0.3,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "Agent A, an amateur painter, is in her home studio with natural light pouring in. Agent B, her roommate, engages with an art book. Agent C visits, bringing pastries. The studio atmosphere is charged with excitement for the new painting.",
+    "actions": [
+      {
+        "description": "Agent A decides to start a new painting, inspired by the morning light and mood.",
+        "values": [
+          0.9,
+          0.5,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up her canvas and selects a vibrant palette.",
+        "values": [
+          0.7,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B for thoughts on the impressionist technique.",
+        "values": [
+          0.9,
+          0.3,
+          0.0,
+          0.8,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to add a stroke to the canvas.",
+        "values": [
+          0.5,
+          0.4,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A incorporates an innovative method into her art.",
+        "values": [
+          1.0,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns on music to add rhythm to the activity.",
+        "values": [
+          0.3,
+          0.8,
+          0.0,
+          0.9,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A eats pastries to refuel.",
+        "values": [
+          0.2,
+          0.9,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes pictures of her surroundings for ambiance.",
+        "values": [
+          0.7,
+          0.2,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A experiments with new color combinations.",
+        "values": [
+          1.0,
+          0.3,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "curiosity",
+      "energy",
+      "happiness"
+    ],
+    "scenario": "In a sunny suburban home, Agent A, an active high school student, finds himself alone in the spacious living room with a collection of items prompting investigation and creativity. The room is open to the kitchen, where Agent B is baking, and a friend is expected later with a new game.",
+    "actions": [
+      {
+        "description": "Agent A starts assembling the puzzle on the coffee table without looking at the box cover.",
+        "values": [
+          0.7,
+          0.3,
+          0.0,
+          0.5,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up the guitar and learns a new song by ear, practicing chords and melody.",
+        "values": [
+          0.8,
+          0.4,
+          0.0,
+          0.6,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A straps on the new rollerblades and skates around the living room to test them out.",
+        "values": [
+          0.3,
+          0.8,
+          0.0,
+          0.7,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a book from the library stack and explores the content with interest, jotting down notes along the way.",
+        "values": [
+          1.0,
+          -0.3,
+          0.0,
+          0.4,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  }
+]

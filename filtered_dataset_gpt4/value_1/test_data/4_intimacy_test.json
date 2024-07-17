@@ -1,0 +1,6592 @@
+[
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a young mother, is seated in the living room with her children, Agent B and Agent C, and the family dog, Agent D. The quiet of the evening envelops them as they engage in personal discussions about the future and share moments of family life.",
+    "actions": [
+      {
+        "description": "Agent A sets aside her distractions and turns towards Agent B, giving him her full attention as they talk about his future college plans.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares her own college experiences with Agent B, fostering a connection through personal anecdotes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently encourages Agent C to join the conversation and share her thoughts.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens thoughtfully as Agent B expresses his fears and concerns about college life, showing empathy without judgment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a light-hearted joke to ease the tension in the room and bring a smile to Agent B's face.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent B that they visit college campuses together to make informed decisions.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stands up, walks over to Agent C, and asks if there’s a particular passage in her book that Agent C would like to read aloud to the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent C to tell the family about her favorite character in the book she’s reading.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A softly strokes Agent D, acknowledging the comforting presence of their pet.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are engaging in a significant discussion about caring for their parent, Agent C, featuring emotional support and sharing responsibilities.",
+    "actions": [
+      {
+        "description": "Agent A acknowledges Agent B's efforts and expresses gratitude.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to share more caregiving responsibilities.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings up a cherished family memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches over to comfort Agent B with a gentle touch.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes compiling a list of Agent C's favorite meals and volunteering to cook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A lays out a plan for house renovation for Agent C's comfort.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to drive Agent C to medical appointments.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings a box of tissues to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests setting up regular family meetings.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, after a long day, arrives home to find Agent B looking contemplative with a college pamphlet and Agent C in the kitchen. Sensing a need for support, Agent A sits with Agent B, ready to engage in a meaningful conversation.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent B how they feel about the colleges they are considering.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to help Agent B organize campus tours to get a better feel for their options.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a personal anecdote about their own college experience to create common ground.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a family meeting to discuss the potential financial aspects of Agent B's college education.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A props up the pamphlet and begins to go through it with Agent B, showing interest in their child's thoughts and worries.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a family photo album to reminisce about past events and the growth they've witnessed in Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gives a gentle, reassuring hug to Agent B, without saying a word.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tells Agent B they will support any decision Agent B makes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A mentions calling Agent D, an older sibling or family member who recently went through the college selection process, for advice.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are sitting in their living room. Agent B brings out a box of family photos, suggesting they look through them together.",
+    "actions": [
+      {
+        "description": "Agent A puts the book aside and joins Agent B on the floor to explore the family photos.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up a photo of their parents and shares a fond, childhood memory associated with it.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests grabbing a blanket and some snacks to make the experience more comfortable.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds a playful photo and builds a humorous story around it to make Agent B laugh.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A comes across a picture of a family vacation and expresses a wish to visit that place again, with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully selects some photos and proposes creating a new photo album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds a photo with hidden details and points it out to Agent B, sparking a lively discussion.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up a somewhat faded photo and decides to digitize it for preservation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to share their own memories and listens attentively.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B live in a cozy apartment and are spending a quiet evening in their living room. Agent A is seated on the couch, and Agent B is reading a book in an armchair. They are surrounded by photographs and keepsakes from their shared memories. The room is dimly lit and filled with soft music and the sound of rain, creating a peaceful and reflective atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A sets aside the mug and moves to sit closer to Agent B on the armchair.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about the book, showing genuine interest in what they are reading.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens attentively as Agent B shares thoughts and insights about the book's narrative.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens a photo album that’s on the coffee table and starts reminiscing with Agent B about past experiences they’ve shared.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A mentions how a particular scene from the book reminds them of a personal experience they had together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently touches Agent B's arm in a comforting manner as they discuss a more emotional part of the book.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests that they plan another trip to make more memories similar to the ones in their photographs.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B decide to turn off all distractions and continue their evening by sharing stories of their day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a blanket for both of them to share, adding to the cozy atmosphere.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are lounging on a couch with books in hand. Agent B shows signs of stress, and Agent A sets their book aside, looking for a way to engage.",
+    "actions": [
+      {
+        "description": "Agent A reaches over to gently squeeze Agent B's hand.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A closes their book, turns to Agent B, and asks if they'd like to talk.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a walk with Agent C for fresh air.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a soft blanket and covers Agent B's shoulders.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a light joke to share a laugh.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A silently accompanies Agent B in reading, sharing snippets.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A adds an extra cushion for Agent B's comfort.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make tea for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A subtly mirrors Agent B’s body language.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, siblings, occupy the family library, lost in books, basking in the comfort of each other's silent company along with their cousin, Agent C. They plan to extend this shared experience into the evening.",
+    "actions": [
+      {
+        "description": "Agent A closes their book and inquires about Agent B's reading, expressing genuine interest in the narrative.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to prepare hot beverages for everyone, creating an atmosphere conducive to sharing and warmth.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A recounts stories of their college experiences that Agent B might find amusing or enlightening.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests pulling out an old family photo album to reminisce about childhood memories together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to share their artwork, showing appreciation for their talent.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes playing a board game that they used to enjoy as kids, for collective entertainment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A walks over to the window and suggests watching the sunset together, acknowledging the beauty of the moment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses to order Agent B's favorite takeout dinner to surprise them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a conversation about future aspirations and expresses support for Agent B’s upcoming life changes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a young mother, steps out of the nursery where her infant sleeps. Agent B, her spouse, sits at the kitchen table organizing family photographs into albums. Agent A approaches Agent B, touched by the memories these photos represent.",
+    "actions": [
+      {
+        "description": "Agent A sits beside Agent B and begins to help sort the photographs.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a photo of a happy family event and shares memories with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently takes Agent B's hand, offering a silent moment of connection.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests taking a new family photo with their child.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make a cup of tea for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds a photo with a relative who has passed away and reflects on their impact with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes setting aside a special picture to give to their child when they're older.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to frame a photo to surprise a family member.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A kisses Agent B's cheek as a token of appreciation after finishing the albums.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are sitting in their shared apartment's living room on a relaxed Sunday afternoon. Agent A is lounging on the couch with a guitar resting on their lap, fingers lightly strumming the strings. Agent B is curled up in an armchair opposite, a book in hand, their eyes occasionally exchanging a warm glance with Agent A. Agent C, a childhood friend of both, is expected to drop by later for a visit.",
+    "actions": [
+      {
+        "description": "Agent A sets the guitar aside and picks up an old photo album to reminisce about past adventures with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out to adjust the blanket over Agent B's legs.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to play Agent B's favorite song on the guitar.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a conversation about a shared memorable event.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares two cups of tea and serves one to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A consolidates a pile of Agent B's scattered notes neatly on the side table.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks into Agent B's eyes and expresses appreciation for their presence.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A joins Agent B in the armchair.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to play a duet.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A returns home after a hectic day and finds Agent B, their partner, deeply engrossed in work. Agent A observes the tension in Agent B and decides to offer support without intruding.",
+    "actions": [
+      {
+        "description": "Agent A gently massages Agent B’s shoulders to alleviate some of the tension.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a cup of herbal tea known to be Agent B's favorite and places it beside them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a seat opposite to Agent B and listens attentively as they share details about their work.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers helpful suggestions or feedback on Agent B’s work if requested.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stays at the table doing their own quiet activity, offering silent companionship.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A draws a warm bath for Agent B to relax in after their lengthy work session.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully organizes the scattered papers into neat piles to clear some working space for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A softly plays a piece on the piano that they know Agent B finds soothing.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A quietly reads a book beside Agent B, occasionally sharing interesting snippets to lighten the mood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, a middle-aged couple, are at home on a quiet weekend. Agent A is in the kitchen, and Agent B is in the living room with old photo albums. Agent C, their adult child, has recently moved out, leaving the house still. Agent A joins Agent B to look at a photo showing the family on vacation.",
+    "actions": [
+      {
+        "description": "Agent A brings the freshly prepared cup of tea to Agent B and sits down beside them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently leans against Agent B as they look at the photo album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a conversation about a shared memory from the vacation in the photograph.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests organizing the photo albums together by themes and memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B if they would like to plan another family vacation with Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves a keepsake from the vacation and presents it to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B for a walk outside to talk and spend quality time together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make dinner, cooking Agent B’s favorite meal.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out to hold Agent B’s hand while looking at photos.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "On a cold evening, inside a cozy living room, Agent A allows Agent B to rest their head on their shoulder, looking through an old photo album with Agent C.",
+    "actions": [
+      {
+        "description": "Agent A silently hands a tissue to Agent B who seems to have teary eyes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls a throw blanket over themselves and Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A softly hums a tune from their childhood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminisces with Agent B about past family holidays.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a warm drink for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens attentively as Agent B shares their thoughts.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B watch their favorite childhood movie.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to play a board game with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A messages a cousin to plan a surprise visit for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A returns home for a weekend visit, finding Agent B with a photo album and Agent C with a jigsaw puzzle, while Agent D is making coffee. A calm, warm atmosphere invites a reflective family gathering.",
+    "actions": [
+      {
+        "description": "Agent A sits down beside Agent B and looks at the photo album together, reminiscing about past family holidays.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make a snack for everyone to enjoy while they spend time together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A joins Agent C in completing the jigsaw puzzle, discussing shared memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A accepts a cup of coffee from Agent D and expresses thanks.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings out an old board game to play together with the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens attentively to Agent B's stories about the photographs.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently teases Agent C about their puzzle technique.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent D clean up in the kitchen after coffee.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers a group hug to everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, adult siblings, share an apartment. Agent A finds Agent B absorbed in a novel on the couch. They sit together in a serenely lit room with a quiet atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent B about the book they’re reading and expresses genuine interest in hearing more about it.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares two cups of tea and offers one to Agent B, settling in for a conversation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests that they order in their favorite meal and spend the evening catching up.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up another book from the coffee table and sits silently reading alongside Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently nudges Agent B with a friendly tease about being a bookworm.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A notices Agent B looks a bit tired and offers to talk if they need to unwind or share anything.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to participate in a board game they used to enjoy playing together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens attentively as Agent B enthusiastically describes a compelling part of the novel.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a funny anecdote from work to lighten the mood and engage Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A walks into the living room to find Agent B perusing a photo album, with Agent C writing reflectively, and Agent D lounging at Agent B’s feet. The room is filled with a sense of calm and nostalgia.",
+    "actions": [
+      {
+        "description": "Agent A sits down next to Agent B and expresses a desire to view the photo album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects a photograph to share a heartfelt memory related to it.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shows interest in Agent C’s journal writings and asks to listen to their content.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to make tea for everyone, creating an opportunity for communal enjoyment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A connects with Agent D, acknowledging them as a cherished part of the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A introduces the idea of playing a familiar board game together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds an empty scrapbook and suggests creating a new family album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes taking a group photo to add to the family collection.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers a blanket to Agent B for added comfort.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy home setting, Agent A is engaged in creating a handmade card, surrounded by her family members, Agent B and Agent C, who are involved in their own peaceful activities. The warm atmosphere lays the foundation for expressions of care and association.",
+    "actions": [
+      {
+        "description": "Agent A chooses to write a deeply personal message in the card for her grandfather who lives far away.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes time to select photos of shared memories to include in the card.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges a family video call to involve Agent B and Agent C in sending well-wishes to her grandfather.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A spends an afternoon compiling a playlist of her grandfather's favorite songs to send along with the card.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully wraps a care package with items her grandfather enjoys, including some of the freshly baked cookies.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to surprise her parents by baking a cake for their upcoming anniversary.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A crafts a DIY photo album filled with family pictures as a gift for her parents.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a heartfelt thank you letter to her parents, expressing her appreciation for their love and care.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to help Agent B with dinner preparation to learn her mother's recipes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy suburban home, Agent A returns from work to find Agent B and Agent C in the living room with photo albums and mementos. They are laughing and sharing stories over family treasures while organizing them into scrapbooks. Agent A is invited to join by the open space on the sofa and the warmth in the room.",
+    "actions": [
+      {
+        "description": "Agent A sits on the sofa beside Agent B and begins to look through the photo albums.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings in a box of their own mementos to contribute to the scrapbook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A points out a forgotten family memory, which initiates a group conversation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully places a newly found photo into the scrapbook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A embraces Agent B and Agent C in a group hug after finding a particularly touching photo.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tells a funny story from their childhood, eliciting laughter from all.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make drinks for everyone while they work on the scrapbook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests playing a family favorite song that compliments the contents of a photo.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a photo of the group with the scrapbook to capture the moment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy, softly-lit living room, Agent A, a young adult, is reminiscing over an old family album. Agent B, an older relative, joins in, followed by Agent C, a sibling. They share stories and memories, fostering a close-knit atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent B to share a story about a particular photo.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently puts an arm around Agent C as a gesture of inclusion as they listen to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully sets the album aside and gets up to make a cup of tea for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C to sit closer and gives them a section of the album to look through together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to take a new photo of all of them together to add to the album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminisces about a shared family holiday and asks Agents B and C for their memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uncovers a box of old letters and suggests to read some aloud.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent C to share their feelings about a picture where they are very young.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds an amusing childhood artifact and shows it to both Agent B and Agent C to spark laughter.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A finds her younger brother, Agent D, appearing distressed on the couch. The house is filled with family mementos, and the atmosphere suggests a need for emotional support.",
+    "actions": [
+      {
+        "description": "Agent A sits beside her brother on the couch, silent company as a form of comfort.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently asks her brother about his challenging day at school.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to listen if Agent D wants to talk about his troubles.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminisces with Agent D over a family photo album to lift his spirits.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent D to make a snack together, engaging in a familiar soothing routine.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gives her brother a consoling arm around his shoulders.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests playing a co-operative board game to distract from negative feelings.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a heartfelt note expressing her support for Agent D to find later.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a joint call to their parents to share their day and reconnect.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a home setting, Agent A actively engages with Agent B, who is occupied with journaling, and Agent C, who is arranging flowers. The environment is filled with the aroma of coffee and the sounds of soft music. The actions of Agent A are aimed at creating shared experiences with Agents B and C.",
+    "actions": [
+      {
+        "description": "Agent A prepares a cup of coffee for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent C pick a sentimental vase for flower arrangement.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares an old photo album with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shows interest in Agent B's journal entries.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A changes the music to a playlist Agent B and Agent C both enjoy.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a conversation about planning a future trip with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teams up with Agent C to make a surprise brunch for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decorates the brunch table with the arranged flowers.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compliments Agent C's choice of flowers.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B live together. Agent B has been feeling disheartened and sits quietly on the balcony. Agent A joins Agent B with a warm and comforting presence.",
+    "actions": [
+      {
+        "description": "Agent A sits next to Agent B and attentively listens as Agent B shares their feelings.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a story from their own life that relates to the struggle Agent B is going through.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests going through a photo album together, reminiscing about the good times they've shared.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A quietly remains beside Agent B, offering silent companionship.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to the kitchen to prepare Agent B's favorite comfort food as a gesture of care.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A wraps a warm blanket around Agent B's shoulders as the evening air grows chilly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently encourages Agent B to talk about their concerns and offers reassuring words.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a walk in the nearby park to change the scenery and provide a refreshing environment for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings out a puzzle they've been wanting to finish together, suggesting they work on it as a way to focus on a task mutually enjoyed.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are a couple who have recently moved into a cozy apartment together, with the living room cluttered with moving boxes and disassembled furniture. Agent A is working on assembling a shelf, while Agent B is carefully unpacking kitchen items.",
+    "actions": [
+      {
+        "description": "Agent A sets aside the screwdriver and offers to help Agent B unwrap glasses.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes two cups of coffee to share with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A playfully pops bubble wrap to lighten the mood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B decide together on the placement of unwrapped ornaments.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a fond memory associated with an unpacked picture frame.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks for Agent B's help with assembling furniture.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compliments Agent B's care with delicate items.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plays their favorite album to create a pleasant atmosphere.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests donating unused kitchen gadgets.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are cohabiting partners sitting on their couch on a quiet evening. Agent B is dealing with work-related stress and appears reserved. Agent A sensibly turns off the television and gently approaches Agent B, offering a comforting presence.",
+    "actions": [
+      {
+        "description": "Agent A reaches out to gently take the crumpled tissue from Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A expresses a desire to listen to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests they look through old photo albums together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A wraps an arm around Agent B, providing a supportive embrace.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a hot beverage for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins to softly play Agent B's favorite song on the guitar.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to order in from Agent B's favorite restaurant.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A lights candles and dim the lights for tranquility.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes a weekend getaway to a favorite place.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, a married couple, are enjoying a quiet evening at home in their cozy living room filled with personal memories. Agent A is reading while Agent B is knitting.",
+    "actions": [
+      {
+        "description": "Agent A sets their book down, walks over to Agent B, and asks if they can help with the knitting project.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gets up from the couch to make two cups of tea and brings one to Agent B as a small gesture.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inquires about Agent B's knitting project, expressing a genuine interest in the details of the work.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to join in deciding which new book to read together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shows Agent B an old photo album they found and starts reminiscing about shared memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts on a favorite song of Agent B, creating a background ambiance that Agent B appreciates.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns the television off when a disturbing news story starts, to maintain the peaceful environment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leans over and gives Agent B a gentle shoulder rub while they continue to knit.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests starting a new hobby together that they both have been interested in.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy living room, Agent A, a recent graduate, is engaged in a heartfelt conversation with their sibling Agent B and cousin Agent C. They share stories, advice, and laughter, creating a warm and engaging atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A focuses fully on Agent B's situation to better understand it.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a similar past experience with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings out a family board game to play together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compliments Agent C and suggests making music together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A provides a comforting hug to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a group storytelling game, enhancing the group's connection.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests making a snack jointly in the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A narrates a story behind an old photo to everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A thanks Agent C for their effort to visit.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy kitchen setting, Agent A prepares a meal while Agent B observes, and Agent C arranges flowers. The environment is warm and homely, bathed in natural light with soft music playing. Each character is poised for interaction that fosters closeness.",
+    "actions": [
+      {
+        "description": "Agent A offers Agent B a taste of the sauce, inviting their opinion.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C about their day, showing genuine interest.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets aside a special portion of the meal adjusted to Agent C's preferences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to add their own ingredient to the dish.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a group hug with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leaves a thoughtful note under Agent B's plate.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a childhood story related to cooking.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully plates the meal for aesthetic appeal.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A switches on Agent C's favorite background music.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A is in the kitchen preparing a homemade dinner. A childhood friend, Agent B, is visiting and looking through a photo album in the living room. Agent C, Agent A’s sibling, is sitting at the kitchen island. The home is filled with the aroma of cooking food and the sense of a shared history among them.",
+    "actions": [
+      {
+        "description": "Agent A invites Agent B to help with the cooking, bonding over the shared task.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A serves the meal on their grandmother's plates, sharing their history with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C about their day and listens attentively.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests playing an old favorite board game together after dinner.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A surprises Agent C with a favorite dessert.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A lets Agent B choose music for the evening.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings an extra chair for Agent B to join in the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminisces about a shared family holiday with Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a kept memento from childhood with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A is sitting in the living room, sorting through photo albums and sharing memories with her younger brother, Agent B. They are joined by their cousin, Agent C, who brings a homemade pie.",
+    "actions": [
+      {
+        "description": "Agent A selects a heartwarming photo to share with Agent B, reminiscing about the past.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes through a photo album with Agent C, recalling family anecdotes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent C prepare the table to enjoy the pie together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers everyone for a new group memory photo.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A crafts a handmade photo frame as a gift for Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sends a cherished photo with a note to a distant family member.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests compiling a new photo album with the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares her emotions about a photo with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a family quiz night using photos as questions.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, adult siblings, are sorting through their deceased father's belongings in the family home. Agent A is perusing a photo album, while Agent B examines items in a locked box. Agent C arrives with a homemade dish.",
+    "actions": [
+      {
+        "description": "Agent A offers to share a particularly funny story from their childhood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pauses to hug Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent C inside.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds an old board game they used to play.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to make two cups of tea.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A comes across a vinyl record.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully puts away a delicate family heirloom.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reads a passage from a discovered diary.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes that they open the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are spending a Sunday afternoon in their cozy suburban house living room. Agent A is crafting a greeting card while Agent B reads, surrounded by domestic bliss. Agent A invites Agent B to join them on the sofa for a close moment.",
+    "actions": [
+      {
+        "description": "Agent A reaches over to pick up the unfinished greeting card and shares their creative process with Agent B, inviting input.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a warm cup of tea and offers it to Agent B, taking a moment to sit together and enjoy the beverage.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets aside the crafting materials and pulls a soft blanket over both themselves and Agent B, creating a shared cocoon of warmth.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about the book they are reading, showing genuine interest in their thoughts and opinions.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens to Agent B as they read out a particularly delightful passage from the book.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to Agent B that they should take a break and take a leisurely walk together around the neighborhood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a fond memory related to the greeting card’s intended recipient, prompting a mutual storytelling session.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent B they choose a new book to read aloud together in the coming weeks.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stands up to play their favorite music album softly in the background, enhancing the ambiance.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are siblings in a peaceful household on a rainy day. Agent A is reading, and Agent B is focused on a family jigsaw puzzle. When Agent A finds a moving passage in their book, there's a quiet urge to connect with Agent B.",
+    "actions": [
+      {
+        "description": "Agent A closes the book, walks over to Agent B, and sits down across from them at the dining table.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B if they can help with the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up a piece of the puzzle that represents a memory they both cherish, and starts reminiscing about that day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently suggests taking a break to make hot cocoa for both of them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A, noticing Agent B's concentration, silently arranges the edge pieces in silence not to disturb.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens up about a personal challenge they're dealing with, seeking advice.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B agree to flip through old photo albums after completing a section of the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A softly plays Agent B's favorite playlist in the background to enhance the setting.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to share about any new developments in their own life.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A arrives home to find the living room dimly lit with scented candles and calming music playing subtly in the background. Agent B is stretched out comfortably on the sofa, deeply engrossed in a large, worn photo album. Agent C is leaning against the doorframe, holding another album and looking on with a smile. A sense of tranquility is palpable as laughter is gently shared.",
+    "actions": [
+      {
+        "description": "Agent A decides to sit beside Agent B on the sofa and ask about the photos being looked at.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up one of the emptied mugs from the table and offers to make a fresh round of tea or coffee for everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches for a nearby blanket and drapes it over Agent B's legs for warmth.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls another cushion closer, choosing to rest close to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently taps into the conversation, recalling a shared memory triggered by the album’s contents.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A observes silently for a moment before commenting on the nostalgic atmosphere.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests playing a song that is significant to all present.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to take the plate to the kitchen, clearing the space.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up another photo album from the shelf to bring back memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, siblings, are at home on a rainy afternoon. Agent B is browsing through a family photo album, and Agent C is brewing tea. Agent A joins Agent B to reminisce over the photos, inviting conversation and shared memories.",
+    "actions": [
+      {
+        "description": "Agent A decides to sit closer to Agent B to better view the photo album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently asks Agent B about their most cherished memory from the family trips showcased in the photo album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a humorous anecdote related to one of the pictures with Agent B to lighten the mood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests recreating an old family photo from the album with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to Agent B to start compiling a digital archive of their family memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A, embracing nostalgia, offers to make a scrapbook with Agent B using the pictures and decorating them with personal notes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A volunteers to make a warm cup of tea for Agent B, just like the one Agent C is preparing.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A relays a touching story about their grandparents to Agent B that they heard from Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to plan a future family trip, similar to those in the album, once the weather improves.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy suburban home, Agent A and Agent B work on a jigsaw puzzle in a room filled with familial mementos, suggesting a shared history and emotional connection.",
+    "actions": [
+      {
+        "description": "Agent A finds a piece of the puzzle that fits into a spot where Agent B has been struggling and hands it to them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminisces about a family vacation captured within the puzzle image with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a photo album that includes pictures from the trip to share with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers Agent B a more comfortable chair to enhance their comfort.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a break and prepares a snack for both, including Agent B's favorite treat.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens attentively as Agent B shares their thoughts.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assists Agent B in finding a challenging puzzle piece, promoting teamwork.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teases Agent B with a friendly challenge to find the next piece.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plays some soft background music that both enjoy.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B sit in a cozy living room on a rainy afternoon. Agent B is engrossed in a book, and Agent A watches this with a gentle glance. Agent C enters with a tray of hot tea and cookies.",
+    "actions": [
+      {
+        "description": "Agent A drapes a blanket over Agent B's legs.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A refills Agent B's mug with warm tea quietly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a photo album with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks about the book's plot.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers a homemade cookie to Agent B playfully.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a note of gratitude to Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens intently to Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A orders Agent B's favorite dinner.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses a relaxing playlist.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are in Agent A's living room. Agent A recently experienced a breakup and Agent B is there to offer support. They sit together on a couch surrounded by a calm atmosphere.",
+    "actions": [
+      {
+        "description": "Agent A begins to open up about their feelings, sharing the hardships and challenges faced during the breakup.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Listening attentively, Agent A nods in response to Agent B’s perspective on the situation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes tea for both of them, choosing Agent B's favorite blend.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out an old photo album, flipping through memories and discussing them with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "When moments of silence fall, Agent A fills the space with soft, gentle humor to lighten the mood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A thanks Agent B for their support, expressing gratitude for the friendship.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Redirecting the conversation, Agent A asks about Agent B's own life and listens intently.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares an emotionally charged memory that they hadn’t shared with anyone else before.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "At the end of the visit, Agent A gives Agent B a heartfelt hug.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A comes home to find Agent B visibly upset and sitting on the couch. The atmosphere in the apartment is gloomy, with muted lighting and evidence of an emotional event.",
+    "actions": [
+      {
+        "description": "Agent A sits down beside Agent B and remains silent, offering a comforting presence.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B if they would like to talk about what's bothering them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out for the box of tissues and offers one to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares two cups of tea, brings them over, and offers one to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently puts a hand on Agent B's shoulder in a reassuring gesture.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a personal story of their own struggle to help Agent B feel not alone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests watching Agent B’s favorite movie together to create a distracting and soothing atmosphere.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent B to their feet and gives them a supportive hug.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to take some time off work to deal with the personal matters.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, siblings in their early twenties, are at their childhood home during a power outage. They are sitting together with a family photo album, looking at old photographs and sharing memories.",
+    "actions": [
+      {
+        "description": "Agent A turns the page of the photo album to reveal more family images.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to share his own memories connected to the photos.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a couple of warm drinks from the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests they recreate one of the past family events.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to switch places on the couch to give Agent B a better view.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to call their parents to share the nostalgia.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully removes a photo to frame it as a gift.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B plan a future family gathering.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a conversation about preserving these family memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In the living room, Agent A is looking through family photo albums with Agent B. Emotions and laughter fill the room as they reminisce. Agent C joins them, creating a quiet, emotionally charged atmosphere as they collectively remember and share past moments captured in pictures.",
+    "actions": [
+      {
+        "description": "Agent A gently asks Agent B about a picture of a family trip they don’t remember well.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers Agent B a tissue as they wipe away a tear from laughter over a funny childhood photo.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully places a fallen photo back into the album, restoring it to its proper place.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares with Agent C a story about their early childhood that Agent C was too young to remember.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A hugs Agent B when a picture evokes a particularly emotional memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent C for their opinion on which photos best capture the family's essence.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes space on the couch for Agent C to sit closer to view the album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a picture of the current moment to add to the family’s collection of memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests they all take a new family photo to add to the album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, adult siblings, are in their living room looking at an old photo album together after dinner. They share a quiet and reflective atmosphere, illuminated by the soft glow of a streetlamp.",
+    "actions": [
+      {
+        "description": "Agent A gently points to a photograph in the album and shares a fond memory associated with that day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests lighting some candles to make the room cozier as they continue looking through the album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to the kitchen to bring a blanket back for both of them to share.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A props up some cushions on the couch to make Agent B more comfortable.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a moment to express heartfelt gratitude for having Agent B as a sibling.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to play a soft tune on the guitar that belonged to their parent, which is lying in the corner of the room.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to create a digital copy of the photo album so they can always have it no matter where they are.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings a box of tissues just in case emotions surface while reminiscing.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to call their parents to share the nostalgia and include them in the moment, putting them on speakerphone.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A invites Agent B to look through a family photo album together in the living room, setting the stage for sharing and connecting over fond memories.",
+    "actions": [
+      {
+        "description": "Agent A opens the family album and begins to recount stories behind the photographs.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B to share any memories they associate with the pictures in the album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers Agent B the choice of which photo to start discussing, encouraging them to lead the conversation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A laughs warmly at a funny memory tied to a photo, inviting Agent B to join in the laughter.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A attentively listens to Agent B's stories, nodding and showing verbal signs of empathy.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently places a hand on Agent B's shoulder while they share a particularly emotional memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests planning a future family gathering, building on the connections highlighted in the photos.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully replaces a loose photo back into the album, showing respect for the shared history.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a friendly tease about one of the childhood photos of Agent B, lightening the mood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, sitting in a comfortable armchair in a cozy living room, interacts with Agents B and C who are engaged in knitting and looking through photo albums respectively. The room is warm, inviting, and filled with the comforting sound of a classical record playing.",
+    "actions": [
+      {
+        "description": "Agent A puts down the book and asks Agent B if they need help choosing the next color for the scarf.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes to Agent C, sits beside them, and starts recounting memories associated with the photos they are looking at.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stands up and adjusts the volume of the record player to accommodate the preference of the others in the room.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully selects a photo from the album and suggests framing it as a gift for their parents' upcoming anniversary.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make hot beverages for everyone, taking into account each person's favorite.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A lights a few candles to add to the room's warmth and ambiance.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B and C to help choose the next record to play and discuss their musical preferences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes organizing the pictures into a new album as a collective project for the evening.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts a conversation about a shared childhood vacation, inviting B and C to share their own recollections.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a woman in her thirties, arrives home to find Agent B cooking in the kitchen and Agent C reading in the living room. The home environment exudes a sense of warmth and familiarity amidst the evening sun and relaxed settings.",
+    "actions": [
+      {
+        "description": "Agent A leaves her briefcase at the door and joins Agent B in the kitchen to offer help with dinner prep.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compliments Agent B on the delicious smell that fills the kitchen and inquires about what they're cooking.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A approaches Agent C, expresses interest in their book, and suggests discussing it together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets the dining table with special attention to Agent B's preferences, including their favorites like placemats and candles.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A wraps Agent B in a warm embrace from behind as they focus on the stove.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits with Agent C, engages with them about the book they're reading by listening intently.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes that the family plays a familiar board game after dinner for collective enjoyment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pours a drink for themselves and Agent B, suggesting a moment to relax and connect with a toast after a long day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cozies up to Agent C and asks them to share a passage from their book, enjoying the sound of reading aloud.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a university student, is in the two-bedroom apartment she shares with Agent B and Agent C. It's a stormy evening and they are each engaging quietly in their personal activities; A on her laptop, B sketching, and C reading. The atmosphere is warm and peaceful, contrasting with the weather outside.",
+    "actions": [
+      {
+        "description": "Agent A closes her laptop, moves to the couch, and asks Agent B about her sketch.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests setting up a movie night for the apartment, allowing everyone to pick their favorite film.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares hot chocolate for everyone in the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B and Agent C to share childhood memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A expresses her gratitude to Agent B and Agent C, telling them how much she appreciates their company.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up her guitar and starts playing a song that the three of them loved during their teenage years.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to collaborate on a creative project showcasing their friendship.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, a couple in their late twenties, are in their living room on a tranquil Sunday afternoon. Agent A is reading, and Agent B is sketching. The room is imbued with soft classical music and natural light.",
+    "actions": [
+      {
+        "description": "Agent A sets the book aside and scoots closer to Agent B to observe the sketch, expressing admiration.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently inquires about the inspiration behind Agent B's artwork.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make a cup of coffee for Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches an old photo album to share and reminisce over past moments together with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a new book discovery with Agent B, reading aloud a particularly striking passage.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests playing a duet on their old, slightly out-of-tune piano in the corner.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A captures Agent B's concentrated expression while sketching to remember the serene moment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a warm blanket and drapes it over both of them, given the slight chill the breeze brought in.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a surprise snack and places it next to Agent B being careful not to disturb the drawing process.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A arrives home and expresses nonverbal support for Agent B's guitar practice, while sharing a silent emotional connection with Agent C's photo album activity.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent B to teach them a few chords on the guitar.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compliments Agent B on their progress and suggests a weekly family music night.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes looking through old family movies together to reconnect with shared memories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to take a break and offers to make a snack for them to enjoy together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a story from their day, linking it with a lesson learned as a child and relating it to Agent B's current challenges.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent C with the photo album, discussing the stories behind the pictures.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a conversation about how proud they are of Agent B's dedication to learning guitar.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a small impromptu concert inviting Agent C to listen to the newest piece Agent B has learned.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent B that they write a new song together, perhaps a family anthem.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a college student, is at home for the weekend. Agent A joins Agent B, who is arranging a family photo album in the living room, while Agent C is reading on the sofa. Agent A engages in a conversation with Agent B about the memories in the photographs.",
+    "actions": [
+      {
+        "description": "Agent A asks Agent B about the story behind a particular old photograph.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully takes a recent photo of Agent C reading and adds it to the photo album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests creating a new section in the album dedicated to their college experiences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to repair a torn corner of an aged photo.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminisces with Agent B about a past family holiday, sharing personal perspectives.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent C select their favorite photos together, reliving shared experiences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves additional photos from their room to include in the family album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates handmade decorations for the photo album cover.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent B how to scan and digitize the photos for preservation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, who are siblings, find themselves at home on a chilly autumn evening. They are seated together with old family photo albums, reminiscing about past family gatherings.",
+    "actions": [
+      {
+        "description": "Agent A points out a funny childhood photo of Agent B, teasing gently.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to sit beside them and share recollections of the family events.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens attentively to Agent B's described memory spurred by the photos.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers Agent B a warm blanket.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens up about a personal challenge they are facing.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes creating a new family album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a secret with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A supports Agent B’s idea to invite family for a reunion.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B preserve their grandparents' love letters.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are at home on a Sunday afternoon, with Agent A looking through a photo album and Agent B arranging old letters. The setting fosters a warm and personal atmosphere conducive to shared memories.",
+    "actions": [
+      {
+        "description": "Agent A gently calls out to Agent B to come and sit next to them on the couch to look through the photo album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully selects a particular photo and reminisces about the shared memory with Agent B, describing the scene and emotions of that day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make a cup of Agent B’s favorite tea, to enjoy while they continue to sort through the letters.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests they take turns reading the letters aloud to each other, starting from the oldest to the most recent.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reaches out and gives Agent B a comforting hug after coming across a particularly emotional letter.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gets an empty scrapbook and some decorative materials to start creating a new memory book with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes they pick the best photos and letters to frame and hang on the living room wall as a timeline of their relationship.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, in the calm home environment, prepares a meal for the family, and while everyone is busy with their own activities, decides to engage with each of them to foster a feeling of closeness and shared experiences.",
+    "actions": [
+      {
+        "description": "Agent A sits beside Agent B, places the plate on the coffee table and opens the family photo album to a random page.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently taps Agent C on the shoulder and nods towards the meal, indicating it's time to take a break.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a conversation with Agent D about the importance of nourishment during study sessions.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A starts recounting a story related to a photo in the album, trying to spark a collective memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B to select the next family vacation destination from a travel brochure next to the album.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A extends an invitation to Agent C and D to join in looking at the photo album, once they are done with their homework.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to help Agent D with a particularly challenging homework question.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the living room seating to create a more inclusive circle for the family to share the meal together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places a gentle hand on Agent B's shoulder, sharing a moment of silent connection.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, a married couple, are sharing a quiet evening in a cozy, ambient-lit living room, listening to a sentimental playlist while Agent B works on a jigsaw puzzle. Agent A is reflective on the couch, observing Agent B with a sense of calm connection.",
+    "actions": [
+      {
+        "description": "Agent A walks over and sits close to Agent B to contribute to the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a conversation by asking about Agent B's day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a warm drink for Agent B, knowing their preference.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a blanket with Agent B on the floor.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A hums a meaningful song to both, reminiscing shared moments.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A playfully reveals the final puzzle piece.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a personal childhood memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers a reassuring back rub during a quiet moment.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests looking through a photo album together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a young adult, returns home to find Agent B, their partner, stressed in the kitchen. Agent C, their child, is working on a school project at the table. Agent A shows presence and solidarity by placing a hand on Agent B's shoulder.",
+    "actions": [
+      {
+        "description": "Agent A offers to take over the cooking to allow Agent B a moment to relax.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a gentle conversation with Agent B to understand their stressful day.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent C with their school project to ease the workload of Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets the dining table mindfully, giving attention to Agent B's preferences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fetches a glass of water for Agent B, knowing the importance of staying hydrated.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to join them in taking a short, relaxing break together on the couch.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a humorous story from their day to lighten the mood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans a future date night to give Agent B something enjoyable to anticipate.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A whispers words of affirmation and gratitude to Agent B to boost their spirits.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B are siblings revisiting their childhood home. The atmosphere is reflective as they sift through memorabilia that includes old family albums and boxes of keepsakes. Both are engaged in separate but parallel activities that revolve around the artifacts of their past.",
+    "actions": [
+      {
+        "description": "Agent A finds a photo of their late parents and shows it to Agent B, reminiscing about a family holiday.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully repacks a delicate heirloom that they find in a box, recognizing its sentimental value to Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uncovers Agent B's childhood diary and asks for permission before considering reading it.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out an old board game they used to play and invites Agent B to join for a round.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make a cup of tea for both, knowing Agent B's preference for how it's made.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes they use some of the old letters and photos to create a scrapbook together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently inquires about a sensitive topic they find alluded to in one of the letters, showing concern.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests they take some of the boxed items to their childhood bedrooms, giving them each space to individually reflect.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A notices Agent B seems overwhelmed and offers a comforting hug.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a 35-year-old parent, is engrossed in a novel in the living room on a rainy Sunday afternoon. Their child, Agent B, is focused on assembling a jigsaw puzzle on the floor. The atmosphere is calm and comfortable.",
+    "actions": [
+      {
+        "description": "Agent A puts down their book and sits beside Agent B on the rug.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A begins helping Agent B by sorting the puzzle pieces into colored piles.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently asks Agent B about their day, looking into their eyes with genuine interest.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A smiles and tells a personal anecdote related to the puzzle image.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to prepare a snack together later to enjoy while they work on the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers a subtle high-five to Agent B whenever they fit a piece into the right place.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A playfully covers a puzzle piece with their hand, prompting Agent B to guess which piece is hidden.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests they take a photograph of the completed puzzle to send to Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers words of encouragement when Agent B successfully completes a challenging part of the puzzle.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A is in the family kitchen preparing a surprise birthday cake for Agent B. Agent C enters and offers assistance, setting the stage for a bonding experience.",
+    "actions": [
+      {
+        "description": "Agent A carefully explains to Agent C how to use the piping bag to decorate the cake.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent C select colors that hold significance for Agent B and discuss what each represents.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A lets Agent C take the lead in decorating, encouraging their creativity.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminisces with Agent C about memorable family occasions and learns about Agent C's preferences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent C an heirloom frosting recipe, sharing family culinary heritage.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent C quickly hide the unfinished cake upon hearing Agent B's early return.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A adds a sentimental ingredient to the cake, explaining its significance.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently corrects a mistake by Agent C, demonstrating patience.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent C engage in light-hearted talk while cleaning up the baking space together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy suburban home, Agent A puts aside a book to connect with Agent B, a visiting best friend, and Agent C, their sibling, through shared memories and personal artifacts.",
+    "actions": [
+      {
+        "description": "Agent A closes their book and invites Agent B to look through their shared digital photo album on their laptop.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make a round of tea for everyone, as a means to gather them to the kitchen table for a casual conversation.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A picks up some of the photographs from the shelf and starts recounting the stories behind them to Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes a seat next to Agent C on the floor, helps with the jigsaw puzzle, and initiates a conversation about future plans.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests playing a board game that has emotional significance to their friendships and sets it up on the coffee table.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts on a playlist of songs that have been important to them over the years and sings along with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes out their own phone and starts sharing recent events in their life through photos and stories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out a box of keepsakes and passes around various items, sharing their sentimental value.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A looks for and finds an old home video, proposes to watch it together for a shared laugh and trip down memory lane.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A is seated in the living room with Agent B working on a jigsaw puzzle and Agent C knitting on the couch. The home is filled with personal items and pictures suggesting a place rich with shared memories.",
+    "actions": [
+      {
+        "description": "Agent A decides to sit beside Agent B and helps with the jigsaw puzzle without saying a word, trying to find the right piece for a particularly tricky section.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stands up to close the window as the breeze intensifies, ensuring that the puzzle pieces don't get blown away.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about their day and listens attentively as they share details about their experiences.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gets up to prepare hot beverages for everyone in the room, considering each person’s favorite drink.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings out an old photo album, flits through memories, and engages Agent B in a discussion about past family vacations.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A notices Agent C's knitting seems complex and asks for a lesson, showing an interest in their hobby.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compliments Agent C on the progress of their knitting project, expressing admiration for the skill involved.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A playfully suggests a friendly competition with Agent B to see who can fit more puzzle pieces in the next ten minutes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gently nudges Agent C, signaling them to join the puzzle assembly, making it a collective family activity.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, seated cozily on the family sofa, is going through an old photo album filled with childhood memories. Agent B joins in, holding their late grandfather’s guitar, and they both start reminiscing.",
+    "actions": [
+      {
+        "description": "Agent A turns a page to a picture from a family trip and shares the memory with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to play a song their grandfather used to perform.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gets a box of their grandfather’s sheet music for Agent B to choose a song.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B play a duet, recreating their grandfather’s melodies.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A records their music session to capture the new memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests making a digital archive of the photos for the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a humorous childhood story from a photo album memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes an annual gathering to celebrate their grandfather's life.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A shares a personal note written behind a photograph.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a suburban home, 'Agent A' and 'Agent B' are seated on a couch with a scrapbook and a photograph, reminiscing in the evening warmth.",
+    "actions": [
+      {
+        "description": "Agent A reaches out to gently take the photograph from Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests picking out more photos to add to their scrapbook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A expresses gratitude for shared experiences and support from Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A selects sentimental memorabilia to place in the scrapbook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A asks Agent B about their perspective on a family story.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens empathetically as Agent B shares a story.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully writes a caption under a photo in the scrapbook.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A initiates a hug with Agent B after a poignant memory.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A offers to make a pot of tea for them.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A, a parent, observes Agent B and Agent C, their children, playing a make-believe game. The agents are in a warm, inviting living room. Agent A's participation or intervention in the children's activities will determine the actions that follow.",
+    "actions": [
+      {
+        "description": "Agent A gently interrupts the children to ask if they can join in their game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully picks up a toy that Agent B and Agent C were struggling over and mediates a turn-taking system.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes into the kitchen and returns with snacks for Agent B and Agent C to share.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens attentively as Agent B explains the rules of their make-believe game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests a group hug with Agent B and Agent C after playing.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A kneels on the floor to repair a toy that Agent B accidentally broke.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a soothing voice to reassure Agent C when they express a worry about the next day at school.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unfolds a blanket over Agent B and Agent C when they notice the room is getting chilly.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reads a story out loud at the request of Agent B and Agent C, giving each character a different voice.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "Agent A and Agent B, siblings, have moved into a new apartment together. Amidst unopened boxes in their living room, they find objects that hold significant sentimental value, including old photos, games, and shared items from their childhood.",
+    "actions": [
+      {
+        "description": "Agent A unpacks a box labeled \"Shared Childhood Memories\" and shows Agent B their favorite childhood board game.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A finds a mixtape they made together as teenagers and suggests they listen to it while unpacking.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uncovers a pair of walkie-talkies they used to play with and proposes a playful communication game while organizing different rooms.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts together a small photo collage of their family to hang in the living room.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discovers a forgotten recipe book their grandmother gave them and offers to cook a family recipe for dinner.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls out an old video game console and sets it up for a nostalgic gaming night together.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a shared digital photo album of their move-in day and invites Agent B to contribute.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A writes a heartfelt note about their new beginning and places it on Agent B's pillow.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assembles a comfort zone in the living room with old blankets and pillows from their childhood.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "intimacy"
+    ],
+    "scenario": "In a cozy living room, Agent A wraps a gift while Agent B enters with a homemade card. A family photo on the wall reflects past happiness as Agent B looks toward Agent A with anticipation.",
+    "actions": [
+      {
+        "description": "Agent A hands over the wrapped gift to Agent B and watches as it's being opened.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A engages in conversation with Agent B about the memories associated with the gift.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B reminisce over family photos and share stories.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A invites Agent B to help wrap presents for other family members.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens as Agent B reads their homemade card aloud.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests going together to present the gift to Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B decide to make a new family photo for the wall.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent B to make a special wrapping bow.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A encourages Agent B to express their feelings about recent life changes.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  }
+]

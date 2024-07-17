@@ -1,0 +1,1376 @@
+{
+    "all_sorted_scenarios": [
+        {
+            "person_id": 1,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 2,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 3,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 4,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 5,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+
+
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 6,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 7,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 8,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 9,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 10,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 11,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario":
+
+ "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "person_id": 12,
+            "sorted_scenarios": [
+                {
+                    "scenario": "You are a 20-year-old college student. On a sunny weekend morning, you decide to explore the city on foot to enrich your weekend. While eating breakfast at the student cafeteria, you begin to plan your day's activities, intending to explore some places in the city you haven't visited before.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You, B, and C are university roommates. The dorm is usually messy, and no one cleans the common space. Last week, during the routine dormitory cleanliness inspection, you were warned by the dormitory administrator. At this moment, the three of you are seriously discussing how to distribute household chores in the future, with a whiteboard at the door displaying the categories of chores you just listed.",
+                    "ranked_actions": [
+                        "1",
+                        "2",
+                        "4",
+                        "5",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You, A, and B are a family living together in a suburban area of a quiet town. On the weekend, the three of you are relaxing at home, listening to soft music, enjoying the tranquility of the afternoon. The sun is shining outside, leaves gently swaying, a breeze passing by, creating a relaxed and pleasant atmosphere. You are sitting on the living room sofa, exchanging your moods and recent trivialities.",
+                    "ranked_actions": [
+                        "5",
+                        "4",
+                        "1",
+                        "2",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are in the kitchen adjusting the stove temperature, as dinner for your family is being cooked. B is your husband, tired from work, sitting idly in the kitchen. C is your daughter, focused on a complex school project she has been working on for a while. A severe storm has started outside.",
+                    "ranked_actions": [
+                        "2",
+                        "5",
+                        "4",
+                        "6",
+                        "1",
+                        "3"
+                    ]
+                },
+                {
+                    "scenario": "You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.",
+                    "ranked_actions": [
+                        "3",
+                        "4",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a high school student who has just moved to a new community. After school, you sit in your room feeling a bit bored. B, your younger brother, built a sophisticated treehouse with the help of C this morning. He is now happily playing with toys inside the treehouse, which is built very high, taller than your height. C, your neighbor, is a retired carpenter, sitting on his balcony drinking coffee, peacefully watching B play.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You and B are college students living together off-campus. One hot summer noon on a weekend, both of you are at home. You go to the kitchen to find something cool to drink, open the fridge, and pour the last bit of orange juice into your cup, eager to drink it to relieve the heat. Just as you are about to finish it, you realize it's the last bottle in the fridge and notice B looking at you.",
+                    "ranked_actions": [
+                        "5",
+                        "1",
+                        "6",
+                        "3",
+                        "2",
+                        "4"
+                    ]
+                },
+                {
+                    "scenario": "You are a teenage boy living in a villa, currently using 3D modeling software in your room to create a digital model of a dinosaur skeleton for a school extracurricular research project, currently facing a bottleneck and unsure how to proceed. B is your father, a paleontologist, sitting at a desk across the room, focused on researching the latest discoveries in his field. C is your pet, a gentle Golden Retriever, comfortably curled up at B's feet on a cozy rug. Near the window in the room, workers are carrying in your family's newly purchased astronomical telescope, getting ready to set it up.",
+                    "ranked_actions": [
+                        "3",
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "In a cozy family setting on a typical Thursday evening, you, B, and C, three members of the family, are discussing your weekend plans together. You really want to go see a movie, but B and C plan to do DIY cooking and play indoor video games, respectively. You hope to negotiate a consensus to improve everyone's satisfaction with the plan.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2",
+                        "5"
+                    ]
+                },
+                {
+                    "scenario": "You are a professional triathlete, just finished a grueling morning training session, and are both tired and hungry. You are thinking about what to eat for a post-training meal while scrolling through your phone. You suddenly come across a news article about a burglary that occurred in your residential area last night, the fourth such incident this month. Your brother B is currently curled up on the sofa watching a live football match.",
+                    "ranked_actions": [
+                        "1",
+                        "3",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "scenario": "You are a 30-year-old sports enthusiast, currently enjoying a weekend morning with your wife and kids at your comfortable suburban home. While eating brunch, you plan to start a harmonious day and then prepare for a camping trip, discussing the camping plans while eating.",
+                    "ranked_actions": [
+                        "3",
+                        "5",
+                        "2",
+                        "1",
+                        "4"
+                    ]
+                }
+            ]
+        }
+    ]
+}

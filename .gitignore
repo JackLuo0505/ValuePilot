@@ -1,0 +1,4 @@
+preprocessed_dataset/
+inference_results/
+model_save/
+wandb/

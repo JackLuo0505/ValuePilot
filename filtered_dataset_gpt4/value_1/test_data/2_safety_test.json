@@ -1,0 +1,4608 @@
+[
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is in the kitchen preparing dinner, the stove is on and water is about to boil. Agent A checks the locks on the back door, securing it. Agent B is sorting through electrical cords in the living area, while Agent C is reading upstairs. The house is filled with the aroma of food, and the sound of boiling water.",
+    "actions": [
+      {
+        "description": "Agent A turns down the heat on the stove to prevent the pot from boiling over.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places a fire extinguisher within arm's reach of the cooking area.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures a loose rug on the kitchen floor with double-sided tape to prevent tripping.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans up a water spill on the tile floor immediately to prevent slips.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the smoke detectors in the house to confirm they are working properly.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A educates Agent B on proper disposal of frayed electrical cords and power strips.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a carbon monoxide detector in the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves flammable materials away from the stove and oven.",
+        "values": [
+          0.0,
+          0.0,
+          0.85,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stores all cleaning supplies in a locked cabinet to prevent accidental poisoning.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is organizing the medicine cabinet. Agent B is observing. Agent C carries emergency supplies to a closet. Agent D reviews the family's evacuation plan.",
+    "actions": [
+      {
+        "description": "Agent A replaces expired medications with fresh supplies.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a child-proof lock on the medicine cabinet.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A purchases a first-aid kit for the family vehicle.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A compiles a list of emergency contact numbers and posts it on the refrigerator.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the batteries in the smoke detectors and carbon monoxide alarms.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A attends a community class on CPR and emergency first response.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a family emergency plan and discusses with everyone.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a schedule for maintaining the household fire extinguishers.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts a mock evacuation drill with the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, is in the kitchen with the stove on, preparing dinner. Teenage Agent B is doing homework at the dining table, and Agent C is checking the locked doors and windows. A radio forecast predicts a severe storm, which prompts Agent A to start storm preparations.",
+    "actions": [
+      {
+        "description": "Agent A turns off the stove to prevent potential accidents.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A informs Agent B and Agent C about the incoming storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the battery levels in flashlights.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs electronic devices to protect them.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures outdoor furniture.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A relocates valuable items to higher ground.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that a first aid kit is easily accessible and stocked.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves potted plants that are on the porch inside.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews a list of emergency contacts.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is a parent inspecting their new home's windows to ensure all locks function properly when they notice one with a faulty lock. Agent B is setting up an alarm system, Agent C is being educated on household measures, and Agent D is playing with toys.",
+    "actions": [
+      {
+        "description": "Agent A marks the faulty window for repair.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches online for a local handyman to fix the window lock.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A educates Agent C on the importance of not opening the door to strangers.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the smoke and carbon monoxide detectors to ensure they function correctly.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A purchases fire extinguishers for the kitchen and garage.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A enrolls in a first aid course to be prepared for accidents.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a list of emergency contacts and posts it on the refrigerator.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, is in their home with Agents B and C, checking the house is secure on a windy autumn evening.",
+    "actions": [
+      {
+        "description": "Agent A walks over to the window to double-check that it is locked due to the increasing wind outside.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the smoke detectors in the home to ensure they are functioning correctly.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminds Agent B and Agent C of the family's emergency plan for a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures any outdoor furniture that might be vulnerable to the wind.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the weather forecast to stay informed about the storm's progression.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent C how to apply a bandage using the first aid kit.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that all electronic devices are charged in case of a power failure.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares flashlights and candles and places them around the house in case the lights go out.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the house's supplies, ensuring there is an adequate amount of food and water.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is a homeowner who begins to secure their home and family's well-being as a strong storm approaches.",
+    "actions": [
+      {
+        "description": "Agent A checks all windows to ensure they are securely shut and locked.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves outdoor furniture and the family pet indoors to prevent them from being thrown around by the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects and clears the gutters and drains to prevent blockages and potential flooding.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers candles, flashlights, and batteries in case of a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A relocates valuable and sentimental items to higher ground in anticipation of possible flooding.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the family emergency plan with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that Agent B’s medical devices have backup power sources and are easily accessible.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A brings in a supply of clean water and non-perishable food items to last the family through potential service disruptions.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is installing a smoke detector in the living room, while Agent B assembles a first-aid kit and Agent C updates the household's contingency plan.",
+    "actions": [
+      {
+        "description": "Agent A tests the newly installed smoke detector to ensure it works correctly.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A educates Agent B on how to properly use the first-aid kit components.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent C the best routes for evacuation in case of an emergency.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a carbon monoxide detector alongside the smoke detector.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the house for any potential fire hazards.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews and updates the house's insurance policy.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a digital backup of important family documents and stores them in a secure cloud service.",
+        "values": [
+          0.0,
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a family meeting to rehearse the contingency plan.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes the household's emergency supplies, ensuring they are easily accessible.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is at home with Agents B and C during a severe storm with heavy rainfall and potential flooding. Agent A notes the worsening weather conditions and understands the importance of preparing for an emergency.",
+    "actions": [
+      {
+        "description": "Agent A goes to the basement to check if there is any water seeping in through the foundations.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the escape plan with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures all doors and windows.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves valuable items to higher ground in the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps Agent C gather medical supplies.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A has a conversation with Agent B about staying away from the windows.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs electronic equipment.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that all family members have flashlights and that the batteries are fresh.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, is ensuring the household is secure in the face of an incoming storm. Agent B and C, the children, are indoors, with a potential danger from the storm due to open windows and precarious tree branches nearby.",
+    "actions": [
+      {
+        "description": "Agent A closes and secures all windows in the home.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves valuable items from the floor to higher grounds in case of flooding.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses a meet-up point with Agents B and C for potential evacuation.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A instructs Agents B and C to charge their mobile devices in case of a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares an emergency kit with essentials.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs electronic devices to protect them from a power surge.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the supply of non-perishable food and water.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers important documents and places them in a water-proof container.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the conditions outside periodically to monitor the storm’s progression.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is in the kitchen of their family home, where Agent B, their spouse, is brewing coffee. There is a simmering pot on the stove, ingredients spread on the table, and a thunderstorm is beginning outside. A first-aid kit hangs on the wall, recognizing the importance of easy access.",
+    "actions": [
+      {
+        "description": "Agent A turns on the extractor fan to alleviate smoke and steam from the sauté pan.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves oven mitts before assisting with the hot soup pot.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the weather forecast to assess if precautions are needed.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures all doors and windows are securely closed.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places a non-slip mat where water has spilled.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reminds Agent B to keep sharp utensils away from the counter edge.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks that the fire extinguisher is within reach and working.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves the first-aid kit to a more accessible location.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the smoke alarms in the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "In a suburban home, Agent A is conducting household maintenance with Agents B and C present. Agent B points out a loose floorboard and Agent A decides to address the issue, emphasizing the importance of a well-maintained and secure environment.",
+    "actions": [
+      {
+        "description": "Agent A fetches his toolkit from the garage to address the loose floorboard.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cordons off the area around the loose floorboard to prevent anyone from tripping.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the fire extinguisher to ensure it’s fully charged and operational.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a carbon monoxide detector in the hallway near the bedrooms.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures heavy bookshelves to the wall to prevent them from tipping over.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the smoke detectors in each room to ensure they are functional.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A leads a brief conversation with Agents B and C on the importance of knowing where the emergency exits are located.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A replaces the batteries in the emergency flashlights and places them in easily accessible locations.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent and homeowner, oversees the living room where Agent B reads and Agent C organizes art supplies, noting the sturdy furniture and family photos. The scene is peaceful, with a gentle breeze and a ticking clock.",
+    "actions": [
+      {
+        "description": "Agent A installs window guards to prevent potential falls.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules a family meeting for discussing emergency plans.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A replaces outdated fire extinguishers.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks smoke and carbon monoxide detectors for functionality.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A restocks the home’s first-aid kit.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A bolts heavy furniture to walls to prevent tipping.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A practices mindfulness meditation in the backyard.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A comes home and notices potential hazards in the living room. Agent B is playing while Agent C is engrossed in their tablet. A pending thunderstorm has Agent A mindful of previous power outages.",
+    "actions": [
+      {
+        "description": "Agent A ensures all windows are closed and secure.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tidies the room to ensure clear walkways.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calls a meeting to discuss storm preparations.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A verifies the emergency kit is fully stocked.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs unnecessary electrical appliances.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the smoke and carbon monoxide detectors.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures outside furniture to prevent storm damage.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes over the household evacuation plan.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent B how to contact emergency services.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "In a quiet, tidy home in a suburban neighborhood, Agent A, a parent, is in the living room with Agent B, their young child. The room is well-organized, with a shelf containing neatly arranged family photo albums. A small first aid kit can be seen on a higher shelf, out of reach from Agent B. Near the hallway, a list of emergency numbers and a fire evacuation plan are posted on the wall. The curtains are drawn, and soft, non-slip mats are placed on the hardwood floor. Agent A is sitting on a couch, poring over a booklet titled \"Home Safety Guidelines,\" while Agent B is playing with a set of interlocking foam blocks nearby. Agent C, the other parent, is momentarily out running errands. Suddenly, Agent B stands up, walking towards the kitchen.",
+    "actions": [
+      {
+        "description": "Agent A places bookmarks in the \"Home Safety Guidelines\" booklet and sets it on the coffee table.",
+        "values": [
+          0.0,
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A follows Agent B into the kitchen to supervise their activity.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks that the cabinet locks are secure to prevent Agent B from accessing household cleaners.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent B about the importance of not touching the stove.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A scans the living room to ensure no sharp objects are within Agent B's reach.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a gate to block access to the staircase, preventing falls.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the batteries in the smoke detectors.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A practices a mock fire drill with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a family meeting to discuss the emergency plan when Agent C returns.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A and their family are preparing their house for an expected significant storm. Windows are taped, emergency supplies are ready, and a checklist on the refrigerator outlines the family's preparation for the event. Agent A is actively involved in ensuring that the emergency protocols are in place and understood by everyone, including securing the house, double-checking emergency supplies, and coordinating with family members and neighbors about the plans.",
+    "actions": [
+      {
+        "description": "Agent A reassesses the emergency kit to ensure it includes first aid supplies.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures all doors to prevent them from flying open during the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A verifies that all family members know the emergency plan.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A double-checks the shut-off valves for gas, water, and electricity.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that electronic devices are fully charged in case of a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves family heirlooms to a secure location within the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks on the neighbors to make sure they are prepared.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reinforces garage doors to prevent wind damage.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers blankets and warm clothes in case heating is lost.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a homeowner, notices a heavy bookshelf that isn’t secured and wobbles. Agent B is assembling furniture and Agent C is discussing community vigilance. Children are playing outside.",
+    "actions": [
+      {
+        "description": "Agent A inspects the bookshelf to assess the risk of it tipping over.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A searches the utility drawer for a wall anchor kit.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reads through the manual on the proper installment of the bookshelf to ensure it is secured correctly.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses a stud finder to locate the studs in the wall for a more secure installation.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A carefully pushes all heavy items on the lower shelves to reduce the top-heavy risk until they can secure the shelf.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A informs Agent B about the wobbly bookshelf and requests assistance in securing it.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cordons off the area around the bookshelf to prevent anyone from bumping into it accidentally.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to rearrange the room, so the bookshelf is in a lower traffic area, reducing the chance of accidents.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is home, ensuring the home is secure during an approaching storm, checking windows, and stays informed about emergency procedures.",
+    "actions": [
+      {
+        "description": "Agent A moves a floor lamp away from the window to prevent it from possibly falling over.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A grabs a flashlight from the drawer, in case the power goes out.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the batteries in the smoke detectors throughout the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the listed emergency evacuation routes.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A recharges the portable power bank, ensuring they have a power source for their phone.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves valuable items and electronics off the floor in case of any leaks.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A texts a family member to inform them about their whereabouts during the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that all the doors are locked and boosts home security.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes and places important documents in a waterproof container.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, is in the kitchen preparing dinner with various ingredients and cooking utensils around. Agent B, the teenage child, is at the dining table working on a school project, papers spread out. Agent C, another parent, is fixing a loose handrail on the stairs, tools and parts visible on the steps.",
+    "actions": [
+      {
+        "description": "Agent A turns down the heat on the pot to prevent it from boiling over.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent B clears the papers away from the edge of the table, where they could easily be knocked off.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stores the sharp knives immediately after use, instead of leaving them on the countertop.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent C uses a level to ensure the handrail is fixed straight, reducing the risk of disorientation or accidents.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A wipes up a spill on the kitchen floor promptly to avoid a slip hazard.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent B the importance of keeping walkways clear of clutter to prevent tripping.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent C checks the durability of their repairs by applying slight pressure to the handrail after affixing it.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent B tucks the chair under the table after standing up to make more space and reduce the chance of tripping.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rechecks the pot to make sure it's cooking at the correct temperature to prevent food-related illnesses.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is reviewing a map and preparing emergency procedures with Agent B and Agent C, as they are bracing for the upcoming storm season.",
+    "actions": [
+      {
+        "description": "Agent A creates a checklist of essentials to stock up on, like food and water.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A practices shutting off the home's main utilities as a drill.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose outdoor items to prevent them from becoming projectiles.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A applies protective film to windows to prevent glass shattering.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs an emergency notification app for timely alerts.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses evacuation routes and meeting points with Agents B and C.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules a visit to learn more about local emergency protocols.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks and restocks all necessary batteries for flashlights and radios.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stores important documents in a waterproof container.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, preparing for an upcoming storm, secures the home and ensures the family's readiness. Agent B is working, and Agent C is studying, while Agent A takes proactive steps to protect the household.",
+    "actions": [
+      {
+        "description": "Agent A secures all windows with storm shutters.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the integrity of the smoke and carbon monoxide detectors.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the family emergency plan with Agents B and C.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers necessary documents and places them into a waterproof container.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A charges all necessary electronics, like phones and portable radios.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares an evacuation bag with essential items for each family member.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the house for any structural damage.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A relocates outdoor furniture and loose items.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a communication plan with nearby relatives.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is in the garage, holding Agent B, surveying the clutter including tools and paint, as Agent C works nearby and a storm brews outside. The priority is keeping everyone secure against potential dangers and the impending inclement weather.",
+    "actions": [
+      {
+        "description": "Agent A moves paint cans from the high shelf to a locked cabinet.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes the tools onto a wall-mounted pegboard, out of reach of young children.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures the lawn equipment with straps to prevent them from tipping over.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the weather report on their phone to keep informed about the storm outside.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the garage windows and reinforces them with protective tape.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that the garage door is properly closed and locked.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers flashlights and batteries in case of a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places a first-aid kit on the workbench, accessible but out of reach of Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A oversees Agent B playing and Agent C working on a loose stair railing. A whistling kettle is on the stove, tools are on the floor, and a storm is approaching, with Agent A checking a weather advisory.",
+    "actions": [
+      {
+        "description": "Agent A removes the whistling kettle from the stove to prevent accidents.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the layout of the room to ensure a clear path in case of power loss.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent C the need to secure loose tools before the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks batteries in the flashlights for readiness.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves a potted plant from the window sill to prevent it from falling.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs electronics to prevent damage from power surges.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A securely closes all windows and checks the locks.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A listens to storm updates on a battery-powered radio after a blackout.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A notices a steady drip of water coming from the ceiling in the hallway after a day of heavy rainfall. Agent A observes the pool of water on the floor and the bulging ceiling paint while Agent B cooks and Agent C is upstairs.",
+    "actions": [
+      {
+        "description": "Agent A fetches a bucket and places it under the drip.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the ceiling for signs of collapse.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns off the main electrical breaker.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes upstairs to inform Agent C of the situation.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A and Agent B discuss calling a professional.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A takes photos of the damage for insurance.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves furniture and items away from the area.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A opens windows to ventilate the area.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A makes a temporary wet floor sign.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "In a bustling home on a cold evening, Agent A reinforces the window seals, Agent B reads under a blanket, Agent C constructs with blocks, and Agent D cooks stew.",
+    "actions": [
+      {
+        "description": "Agent A prepares a first aid kit and places it in an easily accessible area.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews a family emergency plan with Agents B and C.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs smoke alarms in key areas around the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the carbon monoxide detectors to ensure functionality.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a clean-up, removing clutter around the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent C about the dangers of touching hot surfaces.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures all electronic devices are properly charged.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the home’s lighting system for proper illumination.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is organizing the living room, securing loose items, and preparing emergency supplies as the weather forecast predicts a severe storm. Agent B is working at the dining table, and Agent C is in the kitchen. Agent A is focused on ensuring the apartment and its occupants are prepared for the storm.",
+    "actions": [
+      {
+        "description": "Agent A checks the batteries in all flashlights and portable radios.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the apartment's emergency evacuation plan with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose items on the balcony that could be tossed about by strong winds.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs non-essential electrical appliances to protect against power surges.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves important documents and electronics to higher ground in case of flooding.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A fills containers with potable water in preparation for any service disruptions.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A anchors heavy furniture to the walls to prevent tipping during possible strong gusts.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs weatherstripping on doors and windows to prevent water seepage.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a first-aid kit and places it in an easily accessible location.",
+        "values": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, is in the living room checking the weather warning on their phone about a severe storm approaching. Their teenage child, Agent B, is upstairs with headphones on, and Agent C, the other parent, is in the kitchen. The living room is organized with the furniture secured.",
+    "actions": [
+      {
+        "description": "Agent A texts Agent B to come downstairs and join the family.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves a vase from a high shelf to a more secure lower position.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the batteries in the flashlights and places them within easy reach.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gathers essential items and places them in an emergency kit area.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A charges their phone and a portable battery pack in case of power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures the windows and verifies that the storm shutters are in place.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses the storm plan with Agent C to ensure everyone knows what to do.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks that the first-aid kit is fully stocked and accessible.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns off and unplugs non-essential electrical devices to prevent damage.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A observes the storm outside and takes necessary precautions inside the home where Agent B is playing video games near a window and Agent C is working on an electrical science project.",
+    "actions": [
+      {
+        "description": "Agent A suggests Agent B move away from the window area for added precaution.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places an accessible flashlight in the living room.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures all windows and doors in response to the weather conditions.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the weather updates on their phone.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses the importance of a meeting spot with Agent B in case of emergency.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the family emergency plan with both Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks and makes note of the supplies needed for the family's emergency kit.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs electrical devices to prevent damage from electrical surges.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is a homeowner organizing her collection of family photographs and documents for digitization. The tables are set for the task with a blowing wind from the window fluttering the documents. Agent B is working on a school project, and Agent C is knitting occasionally overseeing the process.",
+    "actions": [
+      {
+        "description": "Agent A shuts the open window to prevent any more wind from disrupting the documents.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reorganizes the disheveled documents and photos.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A instructs Agent B to help secure the loose papers.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to split the scanning project into two stages.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A digitizes the most fragile documents first.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A establishes a 'no food or drink' rule around the documents.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates backup copies of the scanned files.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches and invests in archival-quality storage solutions.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A arranges the physical copies in fireproof and waterproof storage boxes.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is preparing his home for a night in with friends, anticipating a severe storm. He checks the windows, the emergency supplies, and sets up entertainment in the living room while Agent B cooks and Agent C finishes homework.",
+    "actions": [
+      {
+        "description": "Agent A double-checks the batteries in the flashlights and replaces any that are low on power.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the first-aid kit, replenishing any supplies that may be needed.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures any loose items in the yard that could become hazardous in strong winds.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the house's sump pump to make sure it’s functioning in case of flooding.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the family's emergency plan with Agent B and Agent C.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A instructs Agent C to charge all necessary electronic devices.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs unnecessary electronic devices to protect them from power surges.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures there is an ample supply of water bottles.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "In the family kitchen, Agent A is preparing breakfast with several hazards around like a hot stove and sharp knives. Agents B and C are the young children seated at the table, with Agent B showing signs of restlessness and being on the verge of reaching out for something at a dangerous height.",
+    "actions": [
+      {
+        "description": "Agent A places all sharp knives back into the secured drawer after using them.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A turns off the toaster after use and unplugs it.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stores cleaning chemicals in a locked cabinet immediately after wiping the counter.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A gives Agent B and C non-slip socks to prevent slipping on the kitchen tiles.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A positions the chairs away from the kitchen counter to prevent climbing for high-placed items.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a stove guard to prevent Agents B and C from accidentally touching the hot stove.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets down clear rules for Agents B and C about staying seated at the table while the kitchen is busy.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A talks to Agents B and C about the dangers of cooking unsupervised and why they should wait patiently at the table.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, finishes a meal with their family and discusses the weekend plans as a storm approaches. Agent A reviews preparedness around their home, addressing the potential impact of the storm, while Agents B and C engage in conversation.",
+    "actions": [
+      {
+        "description": "Agent A checks the house's sump pump to ensure it's working to handle potential flooding.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the window and door seals to prevent water seeping in during the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures outdoor furniture that could be blown around in high winds.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the family emergency plan with Agents B and C.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a basic emergency supply kit with essentials.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A charges power banks and ensures flashlights and other devices have fresh batteries.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a weather app with alerts on Agent C's smartphone.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A instructs Agent C on using the main water shut-off valve in case of a pipe burst.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures important documentation in a waterproof container.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is a parent in a two-story house, tidying up the living room on a stormy evening. Heavy rainfall and strong winds are noticeable, and Agent A is conscious of a recent community alert regarding a severe storm. Upstairs, Agent B, a teenager, seems oblivious to the storm, consumed by their music. Agent A acknowledges the heightened risk, especially concerning the home's windows and the nearby garden tree swaying in the strong winds.",
+    "actions": [
+      {
+        "description": "Agent A checks that all windows and doors are securely shut.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves valuable electronics away from windows.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares flashlights and candles in case of a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A goes upstairs to inform Agent B about the weather.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose items in the yard that could become airborne.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reassures Agent B of the house’s integrity.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the emergency supplies.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A plans an evacuation route and discusses this with Agent B.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reinforces vulnerable areas of the fence.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, is inspecting the newly installed smoke detectors around their suburban home while Agent B updates the first-aid kit and Agent C clears the yard for the evening's family BBQ, each member ensuring their environment is well-prepared for any potential issues.",
+    "actions": [
+      {
+        "description": "Agent A drafts and prints out an emergency evacuation plan for the household.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the batteries in all the smoke detectors to ensure functionality.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a carbon monoxide detector near the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places non-slip mats in the bathtub and shower areas.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A purchases a fire extinguisher for the home and demonstrates its use to Agents B and C.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures heavy furniture to the walls to prevent tipping.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A stores household chemicals out of reach of young relatives who are visiting.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a homemaker, is in the kitchen sorting groceries, while Agent B is on the living room sofa with headphones, and Agent C is upstairs drawing.",
+    "actions": [
+      {
+        "description": "Agent A carefully checks the expiration dates on perishable items before storing them in the fridge.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A cleans the counters with a household cleaner to ensure the kitchen remains hygienic.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A double-checks that the oven and all the stove knobs are turned off after cooking.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sits down to draft a list of emergency contacts and a family emergency plan.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A runs a weekly test on the smoke detectors to ensure they are functioning properly.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose rugs to prevent tripping and falls in the home.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a family meeting to discuss what to do in case of various emergencies.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A disposes of outdated medication found in the medicine cabinet.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the house locks and windows before going to bed each night.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is preparing for an incoming storm, ensuring the household is protected against potential damage. Agent B is packing an emergency kit, Agent C secures windows, and Agent D monitors weather updates.",
+    "actions": [
+      {
+        "description": "Agent A fetches tools to fix the cellar door.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the sump pump in the basement.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs weather stripping around windows.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the backup generator.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A helps organize the emergency kit.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reviews the emergency plan with Agent D.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches how to shut off the main water valve.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves outdoor furniture into the garage.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A double-checks the first aid kit.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A observes an approaching storm and takes actions to ensure the home environment is secure and comfortable for themselves and their young child, Agent B.",
+    "actions": [
+      {
+        "description": "Agent A checks the weather forecast on their phone to ascertain the severity and duration of the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A calmly starts a conversation with Agent B about the storm to gauge their emotions and provide comfort if needed.",
+        "values": [
+          0.0,
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A ensures that all windows and doors are properly closed to prevent water from entering the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose items in the garden that could be thrown about by the wind, like the barbecue grill and garden furniture.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tidies up the living room, including securing the juice bottle cap, to prevent any accidental spills.",
+        "values": [
+          0.0,
+          0.0,
+          0.3,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A pulls the drapes to block the view of the storm, reducing the chance of Agent B becoming frightened by lightning.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places a few candles and a flashlight in an accessible place in case of a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares a small emergency kit with essentials, should the need arise due to the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts a light-hearted indoor activity with Agent B, such as building a pillow fort, to distract them from the storm.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "It's a stormy evening in a suburban home, and the power has gone out. Agent A, a parent, is sitting with their family in the living room, lit by flashlights and candles. Agent A had retrieved the flashlights from an emergency kit and conserved cell phone power. A tree branch outside sways dangerously close to the house in the storm.",
+    "actions": [
+      {
+        "description": "Agent A checks the flashlights to ensure they are functioning properly and replaces batteries where necessary.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A speaks to Agents B and C to maintain a calm atmosphere, suggesting a board game.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the weather updates and power outage status on a phone.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reassures Agent C after hearing a loud noise outside.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves a family photo album to a higher place to prevent damage.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A proposes to Agent B and C that they sleep in the same room tonight.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the integrity of windows and doors.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose items on the porch.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the room for any potential hazards.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is reading in the living room. Agent B is in the kitchen preparing tea and Agent C is upstairs. When the power goes out, Agent A takes action to ensure everyone's well-being in the darkness.",
+    "actions": [
+      {
+        "description": "Agent A stands up and calmly directs Agent C to stay where he is to avoid stumbling in the dark.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A instructs Agent B to turn off the kitchen appliances to prevent any potential hazards.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A locates the emergency kit with a flashlight inside and turns it on to provide light.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the windows and doors to make sure they are locked and secure.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A uses the flashlight to accompany Agent C back upstairs to retrieve a phone.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A advises everyone to use their phones sparingly to conserve battery power.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A retrieves blankets for Agent C and Agent B in case the power outage lasts for an extended period and it gets cold.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A double-checks the candle on the table to ensure it isn’t a fire hazard.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A suggests to Agent B and Agent C that they all stay in the same room for company and reassurance.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is a parent in a family of four, who upon hearing a severe thunderstorm warning, takes various measures to ensure the family and the home are prepared for the storm.",
+    "actions": [
+      {
+        "description": "Agent A ensures all windows are closed and latches are secure.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A instructs Agents C and D to move away from windows and stay in the lower part of the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the batteries in all flashlights and places them around the house.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A unplugs all nonessential electrical devices for protection against power surges.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares an emergency kit with essentials in an accessible location.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose items in the backyard that could become projectiles.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A reinforces the family's shelter plan if the storm escalates.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a battery-powered radio to receive weather updates.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a parent, comes home to find their children, Agent B and Agent C, have built an intricate fort in the living room. Agent A spots potential hazards like exposed sharp edges, an unstable bookshelf, and the presence of the family dog.",
+    "actions": [
+      {
+        "description": "Agent A gently guides the dog out of the living room.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A replaces the chair with sharp edges with an ottoman.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A supports the unsteady bookshelf with heavy books.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches stability assessment to Agents B and C.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places pillows around the fort.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks light fixtures inside the fort.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses the importance of an organized play area.",
+        "values": [
+          0.0,
+          0.0,
+          0.4,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a baby gate at the living room entrance.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "In the living room of a suburban home, Agent A goes through the family first-aid kit, checks the smoke detectors, and reviews the emergency plan on the fridge. Agent B is reading a book on the couch, and Agent C is fixing a loose railing. The scene suggests Agent A will continue to ensure the household is prepared for emergencies.",
+    "actions": [
+      {
+        "description": "Agent A organizes a family meeting to discuss the emergency plan and makes adjustments where necessary.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A creates a digital inventory of valuables and important documents for insurance purposes.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A assembles a disaster supply kit with water, food, and other essentials.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the expiration dates of all perishable items in the disaster supply kit.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A places reflective tape on the stairs to improve visibility during a power outage.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a carbon monoxide detector near the bedrooms.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules a home inspection to identify potential issues.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A conducts a drill to practice the emergency escape plan.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A researches and enrolls in a local CPR and first aid certification class.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A checks expiration dates and the refrigerator's emergency contact list while Agent B secures the house and Agent C practices guitar at a considerate volume.",
+    "actions": [
+      {
+        "description": "Agent A tightens the loose handle on the cabinet.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A installs a lock on the cabinet to store cleaning chemicals.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A sets up a carbon monoxide detector in the kitchen.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures a heavy vase on a high shelf with a non-slip mat.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A tests the smoke alarms.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A organizes a family meeting to discuss the emergency evacuation plan.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A purchases a high-quality air purifier.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves the guitar amplifier to avoid tripping.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A chooses non-toxic cleaning products for the home.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A is a parent who installs a new smoke alarm and tests it, starting a cascade of checks and precautions throughout the house, involving family members indirectly or by planning to share the information with them.",
+    "actions": [
+      {
+        "description": "Agent A checking the expiration date on the fire extinguisher to ensure it's still operational.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A prepares an escape plan to discuss with Agent B, and post it in a common area.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A decides to purchase a carbon monoxide detector to add an extra layer of protection to the home.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A schedules regular family meetings to discuss procedure in case of an emergency.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A subscribes to a weather alert service for advance warnings about severe conditions.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures heavy bookshelves to the wall to avoid accidents with Agent D or C.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A puts non-slip mats under rugs to prevent slips and falls.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A walks through the house and clears all escape routes, removing clutter and obstacles.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A teaches Agent D how to dial emergency services in a fun and engaging way.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A, a freelance web developer, is working from home and notices a storm approaching. He takes several precautions, including backing up his work and securing important documents as the household prepares for the incoming storm. He also informs his partner, Agent B, who is preparing for an art exhibition, and their teenage child, Agent C, who is reading by the backyard doors.",
+    "actions": [
+      {
+        "description": "Agent A ensures all electronic equipment is protected via surge protectors.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the first-aid kit is stocked.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A backs up data onto cloud services.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A notifies Agent B of the weather and suggests securing art materials.",
+        "values": [
+          0.0,
+          0.0,
+          0.5,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the smoke detectors and flashlights function properly.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A advises Agent C to move away from potential harm by the French doors.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects windows to endure they are secure.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A moves furniture away from windows to minimize injury risk.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "values": [
+      "safety"
+    ],
+    "scenario": "Agent A and Agent B live in an apartment that leads to a windy balcony with a panoramic view of the city’s skyline. Agent A notices a heavy potted plant near the edge of the railing and, aware of the forecasted storm, assesses potential risks.",
+    "actions": [
+      {
+        "description": "Agent A moves the heavy potted plant away from the balcony railing to a more secure spot.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A checks the stability of the balcony railing.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A secures loose items on the balcony.",
+        "values": [
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A closes and locks the balcony door.",
+        "values": [
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A discusses with Agent B the importance of monitoring weather and securing balcony items.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A examines the apartment windows to ensure they are shut.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A inspects the home emergency kit for essential items.",
+        "values": [
+          0.0,
+          0.0,
+          0.9,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A informs Agent B of the upcoming storm warning.",
+        "values": [
+          0.0,
+          0.0,
+          0.7,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "description": "Agent A rearranges the living room furniture away from windows.",
+        "values": [
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  }
+]
