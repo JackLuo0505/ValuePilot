@@ -1,4 +1,3 @@
-
 # README
 
 This project involves generating, processing, training, and testing a dataset using several scripts. The following steps outline the entire process:
@@ -25,5 +24,7 @@ After training the models, test the value-module using the `inference_combine_re
 
 ## 6. Test Action Selection in Scenarios using `action_chosing.py`
 
-Finally, test the action selection in different scenarios using the `action_chosing.py` script. This script evaluates and ranks actions based on user preferences and the results from the trained models.
+Then, test the action selection in different scenarios using the `action_chosing.py` script. This script evaluates and ranks actions based on user preferences and the results from the trained models.
 
+## 7. Compare final results using `human_study/compare.py`
+Finally, test model performance in action choosing with real human and other benchmark LLM models using `human_study/compare.py`. This script list out the similarity between real human data and models, including our ValuePilot and other large language models.
