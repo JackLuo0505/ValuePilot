@@ -116,7 +116,11 @@ def preprocess_sample_separate(sample, device='cuda', encoder_model_name='t5-bas
     with torch.no_grad():
         outputs = encoder_model(**inputs)
 
-    last_hidden_state = outputs.encoder_last_hidden_state
+    # Get the last hidden state
+    if encoder_model.config.model_type == 't5':
+        last_hidden_state = outputs.encoder_last_hidden_state
+    else:
+        last_hidden_state = outputs.hidden_states[-1]
     pooled_output = adaptive_pooling_layer(last_hidden_state.permute(0, 2, 1)).permute(0, 2, 1)
     pooled_output = pooled_output.squeeze(0)
 
