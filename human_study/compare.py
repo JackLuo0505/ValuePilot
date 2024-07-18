@@ -113,7 +113,7 @@ def compute_similarities(file1, file2):
 if '__main__' == __name__:
     parser = argparse.ArgumentParser()
     parser.add_argument('-e', '--encoder_model', type=str, default='t5-base', help='Encoder model to use', 
-                        choices=['t5-small', 't5-base', 'flan-t5-base', 'bert-base-uncased', 'roberta-base'])
+                        choices=['t5-small', 't5-base', 'flan-t5-base', 'bert-base-uncased', 'roberta-base', 'ensemble-model'])
     encoder_model = parser.parse_args().encoder_model
     
     consolidate_order_records(encoder_model)
@@ -132,3 +132,6 @@ if '__main__' == __name__:
     print("\n")
     print("llama:")
     compute_similarities('human_study/benchmarks/llama.json', 'human_study/result_en.json')
+    print("\n")
+    print("ensemble:")
+    compute_similarities('human_study/ValuePilot/results_from_ensemble-model.json', 'human_study/result_en.json')
