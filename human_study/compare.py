@@ -37,59 +37,58 @@ def consolidate_order_records(encoder_model):
         json.dump(all_data, output_file, indent=4)
 
 def set_based_measure(list1, list2):
-    # 初始化变量，用于存储每个深度下的交集比例
     depth_similarity = []
 
-    # 遍历不同的深度
+    # iterate over the depth of the lists
     for depth in range(1, min(len(list1), len(list2)) + 1):
-        # 提取前depth个元素组成的子列表
+        # get the sublist of each list up to the current depth
         sublist1 = list1[:depth]
         sublist2 = list2[:depth]
 
-        # 将子列表转换为集合
+        # transform the sublists into sets
         set1 = set(sublist1)
         set2 = set(sublist2)
 
-        # 计算交集大小
+        # compute the size of the intersection
         intersection = len(set1.intersection(set2))
 
-        # 计算交集大小相对于当前深度的比例
+        # compute the similarity as the size of the intersection divided by the depth
         similarity = intersection / depth
 
-        # 将交集比例存储到列表中
+        # store the similarity
         depth_similarity.append(similarity)
 
-    # 计算平均相似度
+    # compute the average similarity
     avg_similarity = sum(depth_similarity) / len(depth_similarity)
 
     return avg_similarity
 
 def compute_similarities(file1, file2):
-    # 读取两个JSON文件
+    # load the data from the files
     with open(file1, 'r') as f:
         data1 = json.load(f)
     with open(file2, 'r') as f:
         data2 = json.load(f)
     
-    # 获取排序列表，并将 lists1 中的字符串转换为整数
+    # extract the lists of actions for each person
     all_lists1 = [            
         [[int(action) for action in scenario['ranked_actions']] for scenario in person['sorted_scenarios']]
         for person in data1['all_sorted_scenarios']
     ]
     all_lists2 = [group['choices'] for group in data2]
 
-    # 确保处理过程中不会超出索引范围
+    # find the minimum length of the two lists
     min_len = min(len(all_lists1), len(all_lists2))
 
-    # 存储所有人的相似度
+    # initialize a list to store the similarities for each person
     all_similarities = []
 
-    # 计算每对排序列表的相似度
+    # iterate over the people
     for person_idx in range(min_len):
         person_lists1 = all_lists1[person_idx]
         person_lists2 = all_lists2[person_idx]
         
-        # 确保每个人的列表数量相同
+        # find the minimum length of the two lists
         scenario_len = min(len(person_lists1), len(person_lists2))
         
         similarities = []
@@ -99,12 +98,12 @@ def compute_similarities(file1, file2):
             similarity = set_based_measure(list1, list2)
             similarities.append(similarity)
         
-        # 计算并输出每个person_idx的相似度平均值
+        # compute the average similarity for the person
         avg_similarity = sum(similarities) / len(similarities)
         all_similarities.append(avg_similarity)
         print(f"Person {person_idx+1} average similarity: {avg_similarity}")
 
-    # 计算所有人的相似度平均值和标准差
+    # compute the overall average similarity and standard deviation
     overall_avg_similarity = sum(all_similarities) / len(all_similarities)
     overall_std_dev_similarity = statistics.stdev(all_similarities)
     print(f"Overall average similarity: {overall_avg_similarity}")
@@ -117,7 +116,7 @@ if '__main__' == __name__:
     encoder_model = parser.parse_args().encoder_model
     
     consolidate_order_records(encoder_model)
-    # 调用函数计算相似度
+    # compute similarities
     print("similarity_model:")
     compute_similarities(f'human_study/ValuePilot/results_from_{encoder_model}.json', 'human_study/result_en.json')
     print("\n")
@@ -132,6 +131,3 @@ if '__main__' == __name__:
     print("\n")
     print("llama:")
     compute_similarities('human_study/benchmarks/llama.json', 'human_study/result_en.json')
-    print("\n")
-    print("ensemble:")
-    compute_similarities('human_study/ValuePilot/results_from_ensemble-model.json', 'human_study/result_en.json')

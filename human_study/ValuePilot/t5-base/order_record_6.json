@@ -34,11 +34,11 @@
   {
     "question": 4,
     "model output order": [
+      4,
       2,
       3,
-      4,
-      6,
       1,
+      6,
       5
     ],
     "tester order": []
@@ -80,8 +80,8 @@
     "model output order": [
       4,
       3,
-      6,
       1,
+      6,
       5,
       2
     ],
@@ -103,8 +103,8 @@
     "model output order": [
       1,
       3,
-      2,
-      4
+      4,
+      2
     ],
     "tester order": []
   },

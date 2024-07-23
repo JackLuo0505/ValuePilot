@@ -36,8 +36,8 @@
     "model output order": [
       4,
       2,
-      3,
       6,
+      3,
       5,
       1
     ],
@@ -56,9 +56,9 @@
   {
     "question": 6,
     "model output order": [
-      1,
-      4,
       2,
+      4,
+      1,
       3
     ],
     "tester order": []
@@ -78,9 +78,9 @@
   {
     "question": 8,
     "model output order": [
-      6,
-      2,
       1,
+      2,
+      6,
       3,
       5,
       4
@@ -112,8 +112,8 @@
     "question": 11,
     "model output order": [
       3,
-      5,
       4,
+      5,
       2,
       1
     ],
