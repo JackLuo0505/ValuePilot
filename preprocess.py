@@ -78,7 +78,7 @@ def load_and_shuffle_data(data_dir, mode, value_pairs):
     random.shuffle(all_samples)
     return all_samples
 
-def preprocess_sample_separate(sample, device='cuda', encoder_model_name='t5-base'):
+def preprocess_sample_separate(sample, device='cuda', encoder_model_name='t5-base', target_seq_len = 100):
     device = device
 
     # Initialize tokenizer and T5 model
@@ -101,7 +101,7 @@ def preprocess_sample_separate(sample, device='cuda', encoder_model_name='t5-bas
         param.requires_grad = False
 
     # Set up adaptive pooling layer
-    target_seq_len = 100
+    target_seq_len = target_seq_len
     adaptive_pooling_layer = nn.AdaptiveAvgPool1d(target_seq_len)
 
     # Lists to store processed data for each action

@@ -26,8 +26,8 @@
       1,
       5,
       2,
-      3,
-      4
+      4,
+      3
     ],
     "tester order": []
   },
@@ -78,9 +78,9 @@
   {
     "question": 8,
     "model output order": [
+      2,
       6,
       1,
-      2,
       3,
       4,
       5

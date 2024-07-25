@@ -35,8 +35,8 @@
     "question": 4,
     "model output order": [
       4,
-      2,
       3,
+      2,
       1,
       6,
       5
@@ -48,8 +48,8 @@
     "model output order": [
       3,
       4,
-      1,
-      2
+      2,
+      1
     ],
     "tester order": []
   },
@@ -57,8 +57,8 @@
     "question": 6,
     "model output order": [
       3,
-      4,
       2,
+      4,
       1
     ],
     "tester order": []
@@ -70,8 +70,8 @@
       3,
       1,
       4,
-      2,
-      6
+      6,
+      2
     ],
     "tester order": []
   },
@@ -80,8 +80,8 @@
     "model output order": [
       1,
       5,
-      2,
       6,
+      2,
       3,
       4
     ],
@@ -90,9 +90,9 @@
   {
     "question": 9,
     "model output order": [
-      3,
       4,
       5,
+      3,
       1,
       2
     ],
@@ -113,8 +113,8 @@
     "model output order": [
       5,
       3,
-      1,
       2,
+      1,
       4
     ],
     "tester order": []

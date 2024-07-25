@@ -23,10 +23,10 @@
   {
     "question": 3,
     "model output order": [
-      5,
       3,
-      4,
+      5,
       2,
+      4,
       1
     ],
     "tester order": []
@@ -70,8 +70,8 @@
       5,
       3,
       1,
-      2,
-      6
+      6,
+      2
     ],
     "tester order": []
   },

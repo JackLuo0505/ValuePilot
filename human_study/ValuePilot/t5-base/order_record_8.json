@@ -79,9 +79,9 @@
     "question": 8,
     "model output order": [
       1,
-      5,
-      2,
       4,
+      2,
+      5,
       3,
       6
     ],

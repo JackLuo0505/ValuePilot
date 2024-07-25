@@ -3,9 +3,9 @@ import statistics
 import argparse
 import os
 
-def consolidate_order_records(encoder_model):
-    input_directory_path = f'human_study/ValuePilot/{encoder_model}'
-    output_directory_path = 'human_study/ValuePilot'
+def consolidate_order_records(input_pth, encoder_model):
+    input_directory_path = f'{input_pth}{encoder_model}'
+    output_directory_path = input_pth
     output_filename = f'results_from_{encoder_model}.json'
     all_data = {"all_sorted_scenarios": []}
 
@@ -114,11 +114,12 @@ if '__main__' == __name__:
     parser.add_argument('-e', '--encoder_model', type=str, default='t5-base', help='Encoder model to use', 
                         choices=['t5-small', 't5-base', 'flan-t5-base', 'bert-base-uncased', 'roberta-base', 'ensemble-model'])
     encoder_model = parser.parse_args().encoder_model
+    input_pth = 'human_study/ValuePilot/'
     
-    consolidate_order_records(encoder_model)
+    consolidate_order_records(input_pth, encoder_model)
     # compute similarities
     print("similarity_model:")
-    compute_similarities(f'human_study/ValuePilot/results_from_{encoder_model}.json', 'human_study/result_en.json')
+    compute_similarities(f'{input_pth}results_from_{encoder_model}.json', 'human_study/result_en.json')
     print("\n")
     print("GPT-4o:")
     compute_similarities('human_study/benchmarks/gpt4.json', 'human_study/result_en.json')

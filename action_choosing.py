@@ -284,10 +284,7 @@ def promethee_sort_actions_synthesis(results, preferences):
         predicted_values_rating = (1 - np.abs(np.abs(predicted_values_rating) - preferences)) * 0.3
         scenario_predicted_rating = scenario_predicted_rating + np.array(sample['scenario_predictied_rating']) * 0.7
         predicted_values_rating = predicted_values_rating + np.array(sample['predicted_values_rating']) * 0.7
-        # 1
-        rating = scenario_predicted_rating*0.3 + predicted_values_rating*0.7
-        ## 2
-        # rating = (1 - np.abs(scenario_predicted_rating - predicted_values_rating)) * predicted_values_rating
+        rating = 1 / (1 + np.exp( - np.abs(scenario_predicted_rating))) * predicted_values_rating
         
         scenario_predicted_ratings.append(scenario_predicted_rating)
         predicted_values_ratings.append(predicted_values_rating)

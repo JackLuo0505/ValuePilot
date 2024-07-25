@@ -21,8 +21,12 @@ def ensemble_rankings(folder_path):
                     for index, action in enumerate(ranked_actions):
                         scores_by_person_scenario[person_id][i][action] += len(ranked_actions) - index
                         if index == 0:
+                            scores_by_person_scenario[person_id][i][action] += 2
+                        elif index == 1:
                             scores_by_person_scenario[person_id][i][action] += 1
                         elif index == len(ranked_actions) - 1:
+                            scores_by_person_scenario[person_id][i][action] -= 2
+                        elif index == len(ranked_actions) - 2:
                             scores_by_person_scenario[person_id][i][action] -= 1
                         
     # calculate the final scores

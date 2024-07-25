@@ -67,8 +67,8 @@
     "question": 7,
     "model output order": [
       5,
-      1,
       3,
+      1,
       4,
       2,
       6
@@ -111,8 +111,8 @@
   {
     "question": 11,
     "model output order": [
-      2,
       1,
+      2,
       5,
       3,
       4

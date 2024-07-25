@@ -35,8 +35,8 @@
     "question": 4,
     "model output order": [
       2,
-      4,
       3,
+      4,
       5,
       6,
       1
