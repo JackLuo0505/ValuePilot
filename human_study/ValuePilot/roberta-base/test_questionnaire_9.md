@@ -5,7 +5,7 @@ You are a 20-year-old college student. On a sunny weekend morning, you decide to
 ###### Action 1: 2
 You are hesitant about exploring unknown corners of the city and think it is better to stick to visiting main and officially recommended attractions to avoid unnecessary trouble.
 
-The Score of Action 1: 0.016273684874796857
+The Score of Action 1: 0.016429247394277535
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -20,7 +20,7 @@ The Score of Action 1: 0.016273684874796857
 ###### Action 2: 4
 You plan to sneak into an old abandoned building in the suburbs, which has been mentioned in urban legends about ghost stories, for a night exploration.
 
-The Score of Action 2: -0.00046991469312707146
+The Score of Action 2: -0.0005202677744709505
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -35,7 +35,7 @@ The Score of Action 2: -0.00046991469312707146
 ###### Action 3: 3
 You plan to try a mobile app to experience the city's new AR historical guide application, exploring the city in a different way through virtual reality technology.
 
-The Score of Action 3: -0.007298312914635119
+The Score of Action 3: -0.007382397431061782
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -50,7 +50,7 @@ The Score of Action 3: -0.007298312914635119
 ###### Action 4: 1
 You plan to first go to an online library to collect e-books about the city's development history, so you can have a basic understanding of the city before exploring.
 
-The Score of Action 4: -0.008505457267034
+The Score of Action 4: -0.008526582188744802
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -66,7 +66,7 @@ The Score of Action 4: -0.008505457267034
 | Action Index | Action | Score |
 |--------------|--------|-------|
 | 2 | You are hesitant about exploring unknown corners of the city and think it is better to stick to visiting main and officially recommended attractions to avoid unnecessary trouble. | 0.016 |
-| 4 | You plan to sneak into an old abandoned building in the suburbs, which has been mentioned in urban legends about ghost stories, for a night exploration. | -0.000 |
+| 4 | You plan to sneak into an old abandoned building in the suburbs, which has been mentioned in urban legends about ghost stories, for a night exploration. | -0.001 |
 | 3 | You plan to try a mobile app to experience the city's new AR historical guide application, exploring the city in a different way through virtual reality technology. | -0.007 |
 | 1 | You plan to first go to an online library to collect e-books about the city's development history, so you can have a basic understanding of the city before exploring. | -0.009 |
 #### question 2:
@@ -76,7 +76,7 @@ You, B, and C are university roommates. The dorm is usually messy, and no one cl
 ###### Action 1: 4
 You don't want to make things too complicated and propose to decide the assignment of chores by rolling dice.
 
-The Score of Action 1: 0.00455093512667526
+The Score of Action 1: 0.004556996948146097
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -91,7 +91,7 @@ The Score of Action 1: 0.00455093512667526
 ###### Action 2: 5
 You suggest that it's not a big deal and not to be too serious; proposing to go out for dinner together while discussing the distribution of chores.
 
-The Score of Action 2: 0.0009056611130653369
+The Score of Action 2: 0.0008989604007573759
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -106,7 +106,7 @@ The Score of Action 2: 0.0009056611130653369
 ###### Action 3: 2
 To prevent omissions, you suggest that everyone think about whether the table listed on the whiteboard fully includes all the chores.
 
-The Score of Action 3: -0.0009078728100726519
+The Score of Action 3: -0.0009050243765393873
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -121,7 +121,7 @@ The Score of Action 3: -0.0009078728100726519
 ###### Action 4: 3
 You think it is unnecessary to assign chores too specifically since you are roommates living together, so you suggest that everyone just do their chores as they go, reminding each other when someone has time.
 
-The Score of Action 4: -0.0019330485187674107
+The Score of Action 4: -0.0019305748670363498
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -136,7 +136,7 @@ The Score of Action 4: -0.0019330485187674107
 ###### Action 5: 1
 To prevent 'free-riding', you seriously propose to establish a detailed schedule for household chores and assign tasks to each person.
 
-The Score of Action 5: -0.002615674910900534
+The Score of Action 5: -0.0026203581053276803
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -163,7 +163,7 @@ You, A, and B are a family living together in a suburban area of a quiet town. O
 ###### Action 1: 5
 You suggest using this time to prepare lunch together, trying out some new dishes to enhance family bonding.
 
-The Score of Action 1: 0.013595006164424106
+The Score of Action 1: 0.013580362284829728
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -178,7 +178,7 @@ The Score of Action 1: 0.013595006164424106
 ###### Action 2: 1
 To enhance family intimacy, you suggest playing a simple riddle game together.
 
-The Score of Action 2: 0.0022590651410157037
+The Score of Action 2: 0.002238215475874772
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -193,7 +193,7 @@ The Score of Action 2: 0.0022590651410157037
 ###### Action 3: 2
 You feel this weekend should be about relaxation, so you suggest preparing some snacks and watching a light-hearted comedy movie together.
 
-The Score of Action 3: 0.0010313569506261722
+The Score of Action 3: 0.0010878653242156755
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -208,7 +208,7 @@ The Score of Action 3: 0.0010313569506261722
 ###### Action 4: 3
 You think it's a good opportunity to do some housework during the weekend rest time, such as cleaning the living room or organizing clutter, to make the home more tidy and comfortable.
 
-The Score of Action 4: -0.0011202951060031996
+The Score of Action 4: -0.0011317628034174798
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -223,7 +223,7 @@ The Score of Action 4: -0.0011202951060031996
 ###### Action 5: 4
 You suddenly remember a fresh activity and suggest going for a walk in the nearby park together, breathing fresh air and relaxing.
 
-The Score of Action 5: -0.01576513315006256
+The Score of Action 5: -0.015774680281502917
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -250,7 +250,7 @@ You are in the kitchen adjusting the stove temperature, as dinner for your famil
 ###### Action 1: 3
 To prevent your daughter from being disturbed by the noise of the stove, you close the kitchen door.
 
-The Score of Action 1: 0.00832821137486861
+The Score of Action 1: 0.008575005811720549
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -265,7 +265,7 @@ The Score of Action 1: 0.00832821137486861
 ###### Action 2: 2
 To prevent accidents from the storm, you check all doors and windows to ensure they are securely locked.
 
-The Score of Action 2: 0.006755087724632958
+The Score of Action 2: 0.007155552197116222
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -280,7 +280,7 @@ The Score of Action 2: 0.006755087724632958
 ###### Action 3: 5
 To create a cozy atmosphere for dinner, you start setting the table.
 
-The Score of Action 3: 0.004365954370267211
+The Score of Action 3: 0.00428506987245042
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -295,7 +295,7 @@ The Score of Action 3: 0.004365954370267211
 ###### Action 4: 4
 To provide some suggestions and help, you discuss the project with C.
 
-The Score of Action 4: 0.002683690082677881
+The Score of Action 4: 0.002576653724927269
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -310,7 +310,7 @@ The Score of Action 4: 0.002683690082677881
 ###### Action 5: 1
 To help B relax, you go to talk to him and prepare a hot drink for him.
 
-The Score of Action 5: -0.006938620038345444
+The Score of Action 5: -0.007091448572457082
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -325,7 +325,7 @@ The Score of Action 5: -0.006938620038345444
 ###### Action 6: 6
 Seeing C focused, you remind her to take a break and relax, joining you for dinner later.
 
-The Score of Action 6: -0.015194323514101438
+The Score of Action 6: -0.015500833033757211
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -340,12 +340,12 @@ The Score of Action 6: -0.015194323514101438
 ###### Summary Table:
 | Action Index | Action | Score |
 |--------------|--------|-------|
-| 3 | To prevent your daughter from being disturbed by the noise of the stove, you close the kitchen door. | 0.008 |
+| 3 | To prevent your daughter from being disturbed by the noise of the stove, you close the kitchen door. | 0.009 |
 | 2 | To prevent accidents from the storm, you check all doors and windows to ensure they are securely locked. | 0.007 |
 | 5 | To create a cozy atmosphere for dinner, you start setting the table. | 0.004 |
 | 4 | To provide some suggestions and help, you discuss the project with C. | 0.003 |
 | 1 | To help B relax, you go to talk to him and prepare a hot drink for him. | -0.007 |
-| 6 | Seeing C focused, you remind her to take a break and relax, joining you for dinner later. | -0.015 |
+| 6 | Seeing C focused, you remind her to take a break and relax, joining you for dinner later. | -0.016 |
 #### question 5:
 ##### Scenario:
 You are an enthusiastic middle school student interested in astronomy. B is your brother, a Ph.D. student, and C is your younger sister. It's holiday time, and all three of you are at home. You are casually lying on the living room sofa, flipping through an atlas; B is reading about aerodynamics, and C is preparing a smoothie. An unopened world map puzzle you just bought is on the table, and a computer next to the table displays a news article about breakthroughs in the field of astronomy discussing the possibility of life on an exoplanet.
@@ -353,7 +353,7 @@ You are an enthusiastic middle school student interested in astronomy. B is your
 ###### Action 1: 2
 You propose to C to play a quiz game about the capitals of countries using the atlas, with B acting as the judge.
 
-The Score of Action 1: 0.007232468577188733
+The Score of Action 1: 0.007135508373905863
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -368,7 +368,7 @@ The Score of Action 1: 0.007232468577188733
 ###### Action 2: 3
 Inspired by the article on the computer, you discuss with C whether you believe in the existence of extraterrestrial life.
 
-The Score of Action 2: 0.004785659801532116
+The Score of Action 2: 0.004794465979672924
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -383,7 +383,7 @@ The Score of Action 2: 0.004785659801532116
 ###### Action 3: 4
 On a whim, you build a fort of chairs and blankets on the sofa, imagining it as a spacecraft headed to the planet.
 
-The Score of Action 3: -0.0030205281097182013
+The Score of Action 3: -0.0030466999413462648
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -398,7 +398,7 @@ The Score of Action 3: -0.0030205281097182013
 ###### Action 4: 1
 Looking at the world map on the table, you can't resist opening it and starting to puzzle.
 
-The Score of Action 4: -0.008997600269002648
+The Score of Action 4: -0.008883274412232467
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -424,7 +424,7 @@ You are a high school student who has just moved to a new community. After schoo
 ###### Action 1: 2
 To alleviate your boredom, you decide to bring some toys and join your brother in the treehouse to play together.
 
-The Score of Action 1: 0.011553087229617232
+The Score of Action 1: 0.011677448163419757
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -439,7 +439,7 @@ The Score of Action 1: 0.011553087229617232
 ###### Action 2: 1
 To ensure the treehouse is sturdy and your brother is safe, you pick up a toolbox to check for any loose bolts and observe the branches to see if they are strong enough to support the treehouse.
 
-The Score of Action 2: 0.005117252647912629
+The Score of Action 2: 0.005424486932674943
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -454,7 +454,7 @@ The Score of Action 2: 0.005117252647912629
 ###### Action 3: 4
 Seeing the exquisitely built treehouse, you become curious about C's career and start a conversation with him.
 
-The Score of Action 3: -0.005140681867497943
+The Score of Action 3: -0.005321231020606554
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -469,7 +469,7 @@ The Score of Action 3: -0.005140681867497943
 ###### Action 4: 3
 Curious about the interior structure of the treehouse, you decide to climb up and see how it is built.
 
-The Score of Action 4: -0.011529658010031918
+The Score of Action 4: -0.011780704075488202
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -495,7 +495,7 @@ You and B are college students living together off-campus. One hot summer noon o
 ###### Action 1: 5
 You suggest playing rock-paper-scissors with B, where the winner gets the juice, to make the situation fair.
 
-The Score of Action 1: 0.021058479952390297
+The Score of Action 1: 0.021539680253256532
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -510,7 +510,7 @@ The Score of Action 1: 0.021058479952390297
 ###### Action 2: 3
 You plan to drink it all first, then as an apology, go out in the heat later to buy a few more bottles.
 
-The Score of Action 2: 0.010743351144511859
+The Score of Action 2: 0.010657760912308245
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -525,7 +525,7 @@ The Score of Action 2: 0.010743351144511859
 ###### Action 3: 4
 You think it's just a cup of juice and not a big deal, so you drink it all and then go back to your activities.
 
-The Score of Action 3: -0.006029053632669701
+The Score of Action 3: -0.0060325907891178865
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -540,7 +540,7 @@ The Score of Action 3: -0.006029053632669701
 ###### Action 4: 1
 You get another cup and pour half the juice for B.
 
-The Score of Action 4: -0.00620482154569979
+The Score of Action 4: -0.006260244835521955
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -555,7 +555,7 @@ The Score of Action 4: -0.00620482154569979
 ###### Action 5: 2
 You plan to pretend you didn't notice it was the last cup, drink it all now, and apologize verbally to B later.
 
-The Score of Action 5: -0.009312425449813588
+The Score of Action 5: -0.009472907760767868
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -570,7 +570,7 @@ The Score of Action 5: -0.009312425449813588
 ###### Action 6: 6
 You stop for a moment to think, then ask B if he wants to drink, and give the juice to him.
 
-The Score of Action 6: -0.010255530468718854
+The Score of Action 6: -0.010431697780156846
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -585,7 +585,7 @@ The Score of Action 6: -0.010255530468718854
 ###### Summary Table:
 | Action Index | Action | Score |
 |--------------|--------|-------|
-| 5 | You suggest playing rock-paper-scissors with B, where the winner gets the juice, to make the situation fair. | 0.021 |
+| 5 | You suggest playing rock-paper-scissors with B, where the winner gets the juice, to make the situation fair. | 0.022 |
 | 3 | You plan to drink it all first, then as an apology, go out in the heat later to buy a few more bottles. | 0.011 |
 | 4 | You think it's just a cup of juice and not a big deal, so you drink it all and then go back to your activities. | -0.006 |
 | 1 | You get another cup and pour half the juice for B. | -0.006 |
@@ -598,7 +598,7 @@ You are a teenage boy living in a villa, currently using 3D modeling software in
 ###### Action 1: 2
 Deciding to shift your focus, you go to pet C, covering him with a blanket to keep warm.
 
-The Score of Action 1: 0.006021868225813964
+The Score of Action 1: 0.0058827256856607835
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -613,7 +613,7 @@ The Score of Action 1: 0.006021868225813964
 ###### Action 2: 4
 Deciding to shift your focus, you take C out to play fetch, hoping to breathe some fresh air and exercise.
 
-The Score of Action 2: 0.004601884734205086
+The Score of Action 2: 0.0045111145527640395
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -628,7 +628,7 @@ The Score of Action 2: 0.004601884734205086
 ###### Action 3: 6
 Deciding to shift your focus, you walk around the large house, checking to ensure all windows and doors are secure.
 
-The Score of Action 3: -0.00012448145868337868
+The Score of Action 3: -0.00018634424046282128
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -643,7 +643,7 @@ The Score of Action 3: -0.00012448145868337868
 ###### Action 4: 1
 Attracted by the telescope, you go over to join in the excitement, curiously asking the workers about how to operate the telescope.
 
-The Score of Action 4: -0.0005181080112435232
+The Score of Action 4: -0.0004054671146574429
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -658,7 +658,7 @@ The Score of Action 4: -0.0005181080112435232
 ###### Action 5: 3
 You decide to talk to B about the bottleneck in making the dinosaur model, hoping B can help open your mind.
 
-The Score of Action 5: -0.0013254939166655877
+The Score of Action 5: -0.001226939259009796
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -673,7 +673,7 @@ The Score of Action 5: -0.0013254939166655877
 ###### Action 6: 5
 You decide to take a short nap, thinking you might just be too tired, and that waking up might bring new ideas.
 
-The Score of Action 6: -0.008655669573426783
+The Score of Action 6: -0.008575089624294596
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -691,7 +691,7 @@ The Score of Action 6: -0.008655669573426783
 | 2 | Deciding to shift your focus, you go to pet C, covering him with a blanket to keep warm. | 0.006 |
 | 4 | Deciding to shift your focus, you take C out to play fetch, hoping to breathe some fresh air and exercise. | 0.005 |
 | 6 | Deciding to shift your focus, you walk around the large house, checking to ensure all windows and doors are secure. | -0.000 |
-| 1 | Attracted by the telescope, you go over to join in the excitement, curiously asking the workers about how to operate the telescope. | -0.001 |
+| 1 | Attracted by the telescope, you go over to join in the excitement, curiously asking the workers about how to operate the telescope. | -0.000 |
 | 3 | You decide to talk to B about the bottleneck in making the dinosaur model, hoping B can help open your mind. | -0.001 |
 | 5 | You decide to take a short nap, thinking you might just be too tired, and that waking up might bring new ideas. | -0.009 |
 #### question 9:
@@ -701,7 +701,7 @@ In a cozy family setting on a typical Thursday evening, you, B, and C, three mem
 ###### Action 1: 3
 For fairness, you suggest that everyone vote on what to do over the weekend, each person voting for one other activity besides their own.
 
-The Score of Action 1: 0.004010093133555159
+The Score of Action 1: 0.004356653745777872
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -716,7 +716,7 @@ The Score of Action 1: 0.004010093133555159
 ###### Action 2: 1
 You plan to create a schedule for the weekend to see if there's enough time for all activities.
 
-The Score of Action 2: 0.001860017240831624
+The Score of Action 2: 0.0019633791273164225
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -731,7 +731,7 @@ The Score of Action 2: 0.001860017240831624
 ###### Action 3: 5
 You suggest that everyone go to their preferred places individually, without the entire family having to stick together.
 
-The Score of Action 3: 0.0013492342643575128
+The Score of Action 3: 0.0015815362445424919
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -746,7 +746,7 @@ The Score of Action 3: 0.0013492342643575128
 ###### Action 4: 2
 You insist on going to see the movie and try to convince B and C by explaining how worthwhile the movie is.
 
-The Score of Action 4: -0.0015156850458502014
+The Score of Action 4: -0.0015559130063783067
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -761,7 +761,7 @@ The Score of Action 4: -0.0015156850458502014
 ###### Action 5: 4
 To accommodate everyone's ideas, you start thinking about a suitable place that might allow for watching movies, cooking, and playing video games at the same time.
 
-The Score of Action 5: -0.005703659592894095
+The Score of Action 5: -0.006345656111258424
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -778,7 +778,7 @@ The Score of Action 5: -0.005703659592894095
 |--------------|--------|-------|
 | 3 | For fairness, you suggest that everyone vote on what to do over the weekend, each person voting for one other activity besides their own. | 0.004 |
 | 1 | You plan to create a schedule for the weekend to see if there's enough time for all activities. | 0.002 |
-| 5 | You suggest that everyone go to their preferred places individually, without the entire family having to stick together. | 0.001 |
+| 5 | You suggest that everyone go to their preferred places individually, without the entire family having to stick together. | 0.002 |
 | 2 | You insist on going to see the movie and try to convince B and C by explaining how worthwhile the movie is. | -0.002 |
 | 4 | To accommodate everyone's ideas, you start thinking about a suitable place that might allow for watching movies, cooking, and playing video games at the same time. | -0.006 |
 #### question 10:
@@ -788,7 +788,7 @@ You are a professional triathlete, just finished a grueling morning training ses
 ###### Action 1: 3
 You ask B to wait a moment from watching TV, discussing spending some money on a more advanced security door and adding security cameras.
 
-The Score of Action 1: 0.024766517811970923
+The Score of Action 1: 0.02490513125311966
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -803,7 +803,7 @@ The Score of Action 1: 0.024766517811970923
 ###### Action 2: 2
 Just finished exercising, you decide to relax first, sitting on the sofa with B to enjoy the live broadcast of the football match and predict which team will win.
 
-The Score of Action 2: -0.0012725044475134784
+The Score of Action 2: -0.001399485441911319
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -818,7 +818,7 @@ The Score of Action 2: -0.0012725044475134784
 ###### Action 3: 1
 You decide to grill some lean meat as your meal, considering the protein and nutrition it provides.
 
-The Score of Action 3: -0.00823594111812298
+The Score of Action 3: -0.008164141065545527
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -833,7 +833,7 @@ The Score of Action 3: -0.00823594111812298
 ###### Action 4: 4
 Suddenly feeling too tired to do anything, you decide to go to sleep right away to recover your strength.
 
-The Score of Action 4: -0.015258072246334464
+The Score of Action 4: -0.015341504745662704
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -859,7 +859,7 @@ You are a 30-year-old sports enthusiast, currently enjoying a weekend morning wi
 ###### Action 1: 3
 While discussing the details of the camping plans, you ensure every family member has a chance to speak.
 
-The Score of Action 1: 0.018394050518242944
+The Score of Action 1: 0.01840509905255694
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -874,7 +874,7 @@ The Score of Action 1: 0.018394050518242944
 ###### Action 2: 5
 You delegate the preparation of camping supplies, discussing and deciding on the division of labor fairly with everyone.
 
-The Score of Action 2: 0.006602075945710606
+The Score of Action 2: 0.007044496236266795
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -889,7 +889,7 @@ The Score of Action 2: 0.006602075945710606
 ###### Action 3: 2
 You suggest that the family engage in light stretching activities after eating, to prepare for camping.
 
-The Score of Action 3: 0.00532025347112719
+The Score of Action 3: 0.005072571300068329
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -904,7 +904,7 @@ The Score of Action 3: 0.00532025347112719
 ###### Action 4: 4
 You reminisce about the last time your family went camping, recalling fun and precious moments.
 
-The Score of Action 4: -0.011294250458155908
+The Score of Action 4: -0.011617862150646974
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -919,7 +919,7 @@ The Score of Action 4: -0.011294250458155908
 ###### Action 5: 1
 You encourage each family member to drink more water, focusing on their hydration.
 
-The Score of Action 5: -0.01902212947692461
+The Score of Action 5: -0.018904304438244923
 
 | Value | Personal Preferences | Scenario Rating | Action Rating | Total Rating |
 |-------|----------------------|-----------------|---------------|--------------|
@@ -937,5 +937,5 @@ The Score of Action 5: -0.01902212947692461
 | 3 | While discussing the details of the camping plans, you ensure every family member has a chance to speak. | 0.018 |
 | 5 | You delegate the preparation of camping supplies, discussing and deciding on the division of labor fairly with everyone. | 0.007 |
 | 2 | You suggest that the family engage in light stretching activities after eating, to prepare for camping. | 0.005 |
-| 4 | You reminisce about the last time your family went camping, recalling fun and precious moments. | -0.011 |
+| 4 | You reminisce about the last time your family went camping, recalling fun and precious moments. | -0.012 |
 | 1 | You encourage each family member to drink more water, focusing on their hydration. | -0.019 |

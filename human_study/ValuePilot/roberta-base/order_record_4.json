@@ -34,9 +34,9 @@
   {
     "question": 4,
     "model output order": [
+      2,
       4,
       3,
-      2,
       5,
       1,
       6
@@ -56,8 +56,8 @@
   {
     "question": 6,
     "model output order": [
-      4,
       1,
+      4,
       2,
       3
     ],
@@ -78,8 +78,8 @@
   {
     "question": 8,
     "model output order": [
-      2,
       3,
+      2,
       1,
       6,
       4,
@@ -90,9 +90,9 @@
   {
     "question": 9,
     "model output order": [
-      4,
-      5,
       3,
+      5,
+      4,
       2,
       1
     ],
